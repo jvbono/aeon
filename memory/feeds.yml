@@ -1,0 +1,95 @@
+feeds:
+
+  # Canadian News
+  - name: CBC News - Politics
+    url: https://www.cbc.ca/webfeed/rss/rss-politics
+  - name: Canadaland
+    url: https://www.canadaland.com/feed/
+  - name: Globe and Mail - Opinion
+    url: https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/opinion/
+  - name: The Tyee
+    url: https://thetyee.ca/rss2.xml
+  - name: The Walrus - Politics
+    url: https://thewalrus.ca/category/current-affairs/politics/feed/
+  - name: iPolitics
+    url: https://www.ipolitics.ca/category/news/feed/
+  - name: Breach Media
+    url: https://breachmedia.ca/articles/feed/
+
+  # Digital Sovereignty
+  - name: Pluralistic (Cory Doctorow)
+    url: https://pluralistic.net/feed/
+  - name: Disconnect (Paris Marx)
+    url: https://disconnect.blog/rss/
+  - name: Michael Geist
+    url: https://michaelgeist.ca/feed
+  - name: Policy Options (IRPP)
+    url: https://policyoptions.irpp.org/feed/
+  - name: Privacy Commissioner of Canada
+    url: https://www.priv.gc.ca/en/rss/news/
+  - name: The Markup
+    url: https://themarkup.org/feeds/rss.xml
+  - name: EFF Deeplinks
+    url: https://www.eff.org/rss/updates.xml
+  - name: BetaKit
+    url: https://betakit.com/feed/
+
+  # Tech - Critics
+  - name: Citation Needed (Molly White)
+    url: https://www.citationneeded.news/rss/
+  - name: JWZ
+    url: https://cdn.jwz.org/blog/feed/
+  - name: Schneier on Security
+    url: https://www.schneier.com/feed/atom/
+  - name: Joan Westenberg
+    url: https://joanwestenberg.com/rss/
+  - name: Where's Your Ed At? (Ed Zitron)
+    url: https://www.wheresyoured.at/rss/
+
+  # Tech - Theory
+  - name: The Convivial Society (L.M. Sacasas)
+    url: https://theconvivialsociety.substack.com/feed
+  - name: Contraptions (Venkatesh Rao)
+    url: https://contraptions.venkateshrao.com/feed
+
+  # Tech - Journalism
+  - name: 404 Media
+    url: https://www.404media.co/rss/
+  - name: Platformer (Casey Newton)
+    url: https://www.platformer.news/feed
+  - name: Garbage Day (Ryan Broderick)
+    url: https://garbageday.substack.com/feed
+  - name: Tech Policy Press
+    url: https://techpolicy.press/rss/feed.xml
+  - name: Techdirt
+    url: https://www.techdirt.com/techdirt_rss.xml
+
+  # Tech - Builders
+  - name: Robin Sloan
+    url: https://www.robinsloan.com/feed.xml
+
+  # Music
+  - name: The Honest Broker (Ted Gioia)
+    url: https://www.honest-broker.com/feed
+  - name: Dada Drummer (Damon Krukowski)
+    url: https://dadaist.substack.com/feed
+  - name: Aquarium Drunkard
+    url: https://aquariumdrunkard.com/feed/
+  - name: Interdependence (Holly Herndon & Mat Dryhurst)
+    url: https://interdependence.fm/feed
+
+  # Culture
+  - name: New Creative Era (Metalabel)
+    url: https://metalabel.substack.com/feed
+  - name: New Models
+    url: https://newmodels.substack.com/feed
+  - name: Kneeling Bus (Drew Austin)
+    url: https://kneelingbus.substack.com/feed
+  - name: Real Life Magazine
+    url: https://reallifemag.com/rss
+  - name: n+1 Magazine
+    url: https://www.nplusonemag.com/feed/
+  - name: Unpopular Front (John Ganz)
+    url: https://www.unpopularfront.news/feed
+  - name: Yancey Strickler
+    url: https://ideaspace.ystrickler.com/feed
