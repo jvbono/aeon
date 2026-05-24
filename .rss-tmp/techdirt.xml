@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Techdirt</title>
+	<atom:link href="https://www.techdirt.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.techdirt.com</link>
+	<description></description>
+	<lastBuildDate>Sun, 24 May 2026 18:44:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://i0.wp.com/www.techdirt.com/wp-content/uploads/2022/02/cropped-techdirt-square-512x512-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Techdirt</title>
+	<link>https://www.techdirt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">169489720</site>	<item>
+		<title>Funniest/Most Insightful Comments Of The Week At Techdirt</title>
+		<link>https://www.techdirt.com/2026/05/24/funniest-most-insightful-comments-of-the-week-at-techdirt-209/</link>
+					<comments>https://www.techdirt.com/2026/05/24/funniest-most-insightful-comments-of-the-week-at-techdirt-209/#comments</comments>
+		
+		<dc:creator><![CDATA[Leigh Beadon]]></dc:creator>
+		<pubDate>Sun, 24 May 2026 19:00:00 +0000</pubDate>
+				<category><![CDATA[1]]></category>
+		<guid isPermaLink="false">https://www.techdirt.com/?p=543693&#038;preview=true&#038;preview_id=543693</guid>
+
+					<description><![CDATA[This week, our first place winner on the insightful side is Thad pushing back on some of our criticism about John Oliver&#8217;s AI chatbot segment and his call for regulation: Isn’t the logical conclusion of this argument that we shouldn’t have government regulations on vaccines or antidepressants? Like, you’re arguing that we shouldn’t put this [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p class="wp-block-paragraph">This week, our first place winner on the insightful side is <a href="https://www.techdirt.com/user/thad/">Thad</a> pushing back on <a href="https://www.techdirt.com/2026/05/18/we-need-a-more-serious-discussion-about-suicide-and-ai-chatbots/#comment-5334565">some of our criticism about John Oliver&#8217;s AI chatbot segment and his call for regulation</a>:</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>Isn’t the logical conclusion of this argument that we shouldn’t have government regulations on vaccines or antidepressants?</em></p>
+<p class="wp-block-paragraph"><em>Like, you’re arguing that we shouldn’t put this particular thing under the control of HHS because it’s currently run by a lunatic, but…couldn’t you apply that argument to literally everything?</em></p>
+<p class="wp-block-paragraph"><em>Hell, why stop at HHS? RFK is hardly the only corrupt moron in Trump’s cabinet. Carr’s corrupt; I guess we shouldn’t have any regulations on the broadcast spectrum. Chavez-DeRemer resigned due to misconduct; I guess we should get rid of OSHA. Kristi Noem —</em></p>
+<p class="wp-block-paragraph"><em>…okay, actually we should abolish DHS; I’ll give you that one.</em></p>
+</blockquote>
+<p class="wp-block-paragraph">In second place, it&#8217;s <a href="https://www.techdirt.com/user/defundmusk/">Nimrod</a> with a comment about <a href="https://www.techdirt.com/2026/05/20/border-patrol-chief-dips-out-after-bragging-about-his-sex-tourism-to-his-underlings/#comment-5339754">Border Patrol chief Michael Banks</a>:</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>Anyone who brags about their sexual exploits clearly lacks the maturity to be put in charge of anything more serious that a lemonade stand. Even then, they should probably be supervised.</em></p>
+</blockquote>
+<p class="wp-block-paragraph">For editor&#8217;s choice on the insightful side, we&#8217;ve got a pair of comments about the latest example of a judge smacking down the DOJ. First it&#8217;s <a href="https://www.techdirt.com/user/ninja/">Ninja</a> asking the all-important question of <a href="https://www.techdirt.com/2026/05/20/federal-judge-lays-into-doj-for-lying-and-cheating-in-support-of-trumps-anti-trans-agenda/#comment-5339175">whether it will matter at all</a>:</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>So what exactly is preventing the DOJ and the people they represent from doing this again trying different paths? Any meaningful punishment? Threat of disbarring if it continues? Fines to the DOJ itself and those repeatedly doing this kind of persecution against trans people? Perhaps jail time? No?</em></p>
+<p class="wp-block-paragraph"><em>It will keep happening.</em></p>
+</blockquote>
+<p class="wp-block-paragraph">Next, it&#8217;s <a href="https://www.techdirt.com/user/miri/">Nathan F</a> with <a href="https://www.techdirt.com/2026/05/20/federal-judge-lays-into-doj-for-lying-and-cheating-in-support-of-trumps-anti-trans-agenda/#comment-5339067">thoughts about the future</a>:</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>In two and a half years the DOJ is going to have an almost insurmountable hill to climb in redeeming themselves in the eyes of the court. I have no doubt the the current administration is going to continue to lie to the court and abuse their power.</em></p>
+</blockquote>
+<p class="wp-block-paragraph">Over on the funny side, our first place winner is <strong>Asst DA BA Baracus</strong> with a reply to <a href="https://www.techdirt.com/2026/05/21/10000-court-decisions-cant-be-wrong-even-if-trump-thinks-otherwise/#comment-5341479">a commenter complaining about &#8220;activist judges&#8221;</a>:</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>Neat how 10,000 decisions are wrong on the law because they’re not YOUR preferred interpretation of the law. And amazing how, without further reasoning from you, you’re able to come to the obvious implication that these are 10,000 decisions by the “lots” of activist judges. How do we know they’re not fair jurists? Because you disagree with them.</em></p>
+<p class="wp-block-paragraph"><em>The view from your own navel must be glorious.</em></p>
+</blockquote>
+<p class="wp-block-paragraph">In second place, it&#8217;s <a href="https://www.techdirt.com/user/bloof/">Bloof</a> with <a href="https://www.techdirt.com/2026/05/21/10000-court-decisions-cant-be-wrong-even-if-trump-thinks-otherwise/#comment-5341265">another comment on the same subject</a>:</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>Every judge is an activist judge, unless they were handpicked by the federalist society or have worked for Trump in some capacity, then they’re non partisan champions of justice.</em></p>
+</blockquote>
+<p class="wp-block-paragraph">For editor&#8217;s choice on the funny side, we start out with a comment from <a href="https://www.techdirt.com/user/regularstone/">Stephen T. Stone</a>, deploying a movie quote in response to <a href="https://www.techdirt.com/2026/05/19/bill-cassidy-loses-primary-rfk-jr-will-be-his-legacy/#comment-5337712">Bill Cassidy&#8217;s primary loss</a>:</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>Of all the movies I could quote, Ocean’s Thirteen has the most appropriate two lines I could think of for this:</em></p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>You think this is funny?</em></p>
+<p class="wp-block-paragraph"><em>Well … it sure as shit ain’t sad.</em></p>
+</blockquote>
+</blockquote>
+<p class="wp-block-paragraph">Finally, it&#8217;s one more comment from <a href="https://www.techdirt.com/user/miri/">Nathan F</a>, this time about <a href="https://www.techdirt.com/2026/05/20/trump-sued-himself-and-walked-away-with-a-100-million-tax-debt-erased/#comment-5339561">Trump&#8217;s absurdly corrupt IRS shenanigans</a>:</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>Soooo… Now that Trump is no longer and can no longer be audited by the IRS.. he is going to release his tax returns right? Right??</em></p>
+</blockquote>
+<p class="wp-block-paragraph">That&#8217;s all for this week, folks!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.techdirt.com/2026/05/24/funniest-most-insightful-comments-of-the-week-at-techdirt-209/comments/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">543693</post-id>	</item>
+		<item>
+		<title>This Week In Techdirt History: May 17th &#8211; 23rd</title>
+		<link>https://www.techdirt.com/2026/05/23/this-week-in-techdirt-history-may-17th-23rd/</link>
+					<comments>https://www.techdirt.com/2026/05/23/this-week-in-techdirt-history-may-17th-23rd/#respond</comments>
+		
+		<dc:creator><![CDATA[Leigh Beadon]]></dc:creator>
+		<pubDate>Sat, 23 May 2026 19:00:00 +0000</pubDate>
+				<category><![CDATA[1]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[look back]]></category>
+		<guid isPermaLink="false">https://www.techdirt.com/?p=543646&#038;preview=true&#038;preview_id=543646</guid>
+
+					<description><![CDATA[This Week in 2016 This Week in 2011 This Week in 2006]]></description>
+										<content:encoded><![CDATA[<p class="wp-block-paragraph"><strong>This Week in 2016</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://www.techdirt.com/2016/05/16/cia-inspector-general-claims-it-accidentally-deleted-cia-torture-report-after-being-asked-to-retain-it/">CIA Inspector General Claims It Accidentally Deleted CIA Torture Report After Being Asked To Retain It</a></li>
+<li><a href="https://www.techdirt.com/2016/05/17/french-student-group-sues-twitter-again-50-million-again-over-tweets-it-doesnt-like/">French Student Group Sues Twitter (Again) For $50 Million (Again) Over Tweets It Doesn&#8217;t Like</a></li>
+<li><a href="https://www.techdirt.com/2016/05/17/dear-politicians-least-close-those-porn-tabs-before-sending-out-your-campaign-screenshots/">Dear Politicians: At Least Close Those Porn Tabs Before Sending Out Your Campaign Screenshots</a></li>
+<li><a href="https://www.techdirt.com/2016/05/18/dozen-bad-ideas-that-were-raised-copyright-offices-dmca-roundtables/">A Dozen Bad Ideas That Were Raised At The Copyright Office&#8217;s DMCA Roundtables</a></li>
+<li><a href="https://www.techdirt.com/2016/05/19/homeland-security-has-not-sent-us-subpoena/">Homeland Security Has Not Sent Us A Subpoena</a></li>
+<li><a href="https://www.techdirt.com/2016/05/20/john-mccain-forgetting-his-own-support-fair-use-youtube-tries-to-use-copyright-to-take-down-his-own-ad/">John McCain, Forgetting His Own Support Of Fair Use On YouTube, Tries To Use Copyright To Take Down His Own Ad</a></li>
+</ul>
+<p class="wp-block-paragraph"><strong>This Week in 2011</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://www.techdirt.com/2011/05/16/protect-ip-act-is-about-old-media-industry-going-to-war-with-internet/">The PROTECT IP Act Is About The Old Media Industry Going To War With The Internet</a></li>
+<li><a href="https://www.techdirt.com/2011/05/16/techdirt-files-foia-requests-concerning-ice-anti-piracy-videos/">Techdirt Files FOIA Requests Concerning ICE &#8216;Anti-Piracy&#8217; Videos</a></li>
+<li><a href="https://www.techdirt.com/2011/05/17/congress-wants-to-cut-funds-to-tsa-naked-scanners/">Congress Wants To Cut Funds To The TSA For Naked Scanners</a></li>
+<li><a href="https://www.techdirt.com/2011/05/18/well-that-was-fast-sonys-new-psn-system-hacked/">Well, That Was Fast: Sony&#8217;s New PSN System? Hacked!</a></li>
+<li><a href="https://www.techdirt.com/2011/05/19/dhss-ice-group-accused-lying-to-court-about-expense-complying-with-foi-request/">DHS&#8217;s ICE Group Accused Of Lying To Court About Expense Of Complying With FOI Request</a></li>
+<li><a href="https://www.techdirt.com/2011/05/20/being-concerned-with-free-speech-implications-protect-ip-does-not-mean-you-think-youre-above-law/">Being Concerned With Free Speech Implications Of PROTECT IP Does Not Mean You Think You&#8217;re Above The Law</a></li>
+</ul>
+<p class="wp-block-paragraph"><strong>This Week in 2006</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://www.techdirt.com/2006/05/15/are-tv-downloads-the-new-music-downloads/">Are TV Downloads The New Music Downloads?</a></li>
+<li><a href="https://www.techdirt.com/2006/05/15/yes-movie-download-sites-still-suck/">Yes, Movie Download Sites Still Suck</a></li>
+<li><a href="https://www.techdirt.com/2006/05/16/advertisers-use-dvr-data-to-demand-lower-ad-prices/">Advertisers Use DVR Data To Demand Lower Ad Prices</a></li>
+<li><a href="https://www.techdirt.com/2006/05/17/politician-reveals-lobbying-tactics-of-the-recording-industry-all-about-fear/">Politician Reveals Lobbying Tactics Of The Recording Industry: All About Fear</a></li>
+<li><a href="https://www.techdirt.com/2006/05/18/educators-vilify-technology-in-attempt-to-preserve-outdated-model/">Educators Vilify Technology In Attempt To Preserve Outdated Model</a> <a href="https://www.techdirt.com/wp-admin/post.php?post=23544&amp;action=edit"></a></li>
+<li><a href="https://www.techdirt.com/2006/05/18/if-youre-not-doing-something-wrong-you-still-have-something-to-worry-about/">If You&#8217;re Not Doing Something Wrong, You Still Have Something To Worry About</a></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.techdirt.com/2026/05/23/this-week-in-techdirt-history-may-17th-23rd/comments/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">543646</post-id>	</item>
+		<item>
+		<title>The FDA Takes Its Turn Burying Studies Showing The Safety Of COVID, Shingles Vaccines</title>
+		<link>https://www.techdirt.com/2026/05/22/the-fda-takes-its-turn-burying-studies-showing-the-safety-of-covid-shingles-vaccines/</link>
+					<comments>https://www.techdirt.com/2026/05/22/the-fda-takes-its-turn-burying-studies-showing-the-safety-of-covid-shingles-vaccines/#comments</comments>
+		
+		<dc:creator><![CDATA[Timothy Geigner]]></dc:creator>
+		<pubDate>Sat, 23 May 2026 02:39:00 +0000</pubDate>
+				<category><![CDATA[1]]></category>
+		<category><![CDATA[covid vaccines]]></category>
+		<category><![CDATA[fda]]></category>
+		<category><![CDATA[health & human services]]></category>
+		<category><![CDATA[rfk jr.]]></category>
+		<category><![CDATA[science]]></category>
+		<category><![CDATA[shingles]]></category>
+		<category><![CDATA[shingles vaccine]]></category>
+		<category><![CDATA[studies]]></category>
+		<category><![CDATA[vaccines]]></category>
+		<guid isPermaLink="false">https://www.techdirt.com/?p=543242&#038;preview=true&#038;preview_id=543242</guid>
+
+					<description><![CDATA[The fuckery that is going on across HHS and vaccine programs is just plain incredible. As the Trump administration continues to provide whatever cover it can so that RFK Jr. can wreck shop on the health of Americans, the damage Kennedy is doing to our inoculation programs is going to take years, if not decades, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p class="wp-block-paragraph">The fuckery that is going on across HHS and vaccine programs is just plain incredible. As the Trump administration continues to provide <a href="https://www.techdirt.com/2026/05/11/trump-admin-appeals-acip-court-ruling-so-rfk-jr-can-continue-fucking-with-vaccines/">whatever cover</a> it can so that RFK Jr. can wreck shop on the health of Americans, the damage Kennedy is doing to our inoculation programs is going to take years, if not decades, to unwind. Led by a man who doesn&#8217;t believe in the foundational theory of <a href="https://www.techdirt.com/2026/04/28/the-secretary-of-health-human-services-doesnt-believe-in-the-foundation-of-modern-medicine/">modern medicine</a>, America&#8217;s health agencies have begun to engage in direct misinformation campaigns via the censorship of real scientific information. Warnings about <a href="https://www.techdirt.com/2026/01/15/rfk-jr-s-fda-removed-a-webpage-of-warnings-about-bogus-autism-treatments/">bogus autism treatments</a> were removed from FDA websites. The CDC <a href="https://www.techdirt.com/2026/04/14/the-cdc-doesnt-want-you-to-see-a-cdc-report-on-how-effective-covid-vaccines-are/">buried</a> a report demonstrating how effective COVID vaccines are under dubious justifications.</p>
+<p class="wp-block-paragraph">And now it seems that it&#8217;s the <a href="https://www.cnbc.com/2026/05/05/fda-studies-covid-shingles-vaccines-safe.html">FDA&#8217;s turn to likewise hide studies</a> about the safety of COVID and shingles vaccines from the public. </p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>The Food and Drug Administration blocked the publication of several studies supporting the safety of vaccines against Covid and shingles in recent months, a Health and Human Services Department spokesperson confirmed Tuesday.&nbsp;FDA scientists worked with data firms to analyze millions of patient records for the studies, which found side effects of the shots to be rare, The New York Times&nbsp;<a href="https://www.nytimes.com/2026/05/05/us/politics/fda-covid-vaccine-studies.html" target="_blank" rel="noreferrer noopener">first reported</a>&nbsp;on Tuesday.&nbsp;</em></p>
+<p class="wp-block-paragraph"><em>In October, the scientists were directed to withdraw two Covid shot studies that had been accepted for publication in medical journals, the Times reported. In February, top FDA officials did not sign off on submitting study abstracts on Shingrix, a shingles vaccine, to a drug safety conference, the paper added.</em></p>
+</blockquote>
+<p class="wp-block-paragraph">Now, spokespeople for HHS have stated that the studies were withdrawn because either they drew conclusions not supported by the data, or that the designs of the studies were done &#8220;outside of the agency&#8217;s purview.&#8221; </p>
+<p class="wp-block-paragraph">That&#8217;s bullshit. We all know it&#8217;s bullshit. And they know that we know it&#8217;s bullshit. And they simply don&#8217;t care, because this is not about medicine, or health, or even traditional politics. This is about the ego of one man, Kennedy, and his cohort of tinfoil hat wearing bumblefucks. </p>
+<p class="wp-block-paragraph">As the New York Times article itself <a href="https://www.nytimes.com/2026/05/05/us/politics/fda-covid-vaccine-studies.html?unlocked_article_code=1.gFA.8TIf.Nf0VZEDJJMok&amp;smid=url-share">quotes knowledgeable professors of medicine</a>, this is censorship.</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em> Dr. Aaron S. Kesselheim, a Harvard University medical professor who studies F.D.A. regulation, said he had worked with the agency on a number of research papers and found its work to meet “the highest standards of scientific investigation.” He suggested that the request to pull the papers was an act of “censorship.”</em></p>
+<p class="wp-block-paragraph"><em>He added: “At any other time in history, this would be a major scandal that would lead to congressional hearings and resignations of leadership, and I hope that’s what happens next.”</em></p>
+</blockquote>
+<p class="wp-block-paragraph">These studies were seen by people who know what they&#8217;re talking about in the pre-publication stage. It&#8217;s not just Kesselheim who is pointing out that these studies seem both perfectly valid and very useful for evaluating the safety and efficacy of these vaccines. And the conclusions they draw are as full-throated as they are at odds with Kennedy&#8217;s anti-vaxxer nonsense. </p>
+<p class="wp-block-paragraph">Take one study, which worked to examine millions of health records for those who received a COVID shot at anywhere from 6 months old to 64 years old.</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>That study examined the records of 4.2 million Covid vaccine recipients and examined their later experience with 17 conditions, including swelling of the brain, major blood clots, stroke and heart attacks. The study found rare cases of fever-related seizures and myocarditis, or inflammation of the heart muscle, known to be associated with Covid vaccines.</em></p>
+<p class="wp-block-paragraph"><em>“Given the available evidence, F.D.A. continues to conclude the benefits of vaccination outweigh the risks,” the study said.</em></p>
+<p class="wp-block-paragraph"><em>Angela Rasmussen, an editor in chief of the journal Vaccine, said the paper had been withdrawn by the authors.</em></p>
+<p class="wp-block-paragraph"><em>Dr. Caleb Alexander, a drug safety and methodology expert at Johns Hopkins University, reviewed both studies at the request of The Times and said that “no study answers every question” but “there is nothing inherently problematic regarding these reports.”</em></p>
+</blockquote>
+<p class="wp-block-paragraph">The point earlier was a good one: this is god damned scandal. Or, rather, it should be, except the talking heads on our televisions are far too busy covering every other scandal or ginned up controversy the administration creates, and more than half of our elected officials can&#8217;t be bothered to do real political combat out of fear of who knows what. And so the health of Americans is put at risk instead, because our government is made up of an unholy combination of crackpots and cowards.</p>
+<p class="wp-block-paragraph">At this point, I could be convinced that Kennedy and some portion of the government is actually attempting to cause people to die. I can&#8217;t understand another coherent motivation for this kind of censorship of scientific information, other than pure ego. </p>
+<p class="wp-block-paragraph">And if one man&#8217;s ego really is standing in the way of getting us back on track on matters of life and death, then impeach Kennedy and let&#8217;s get back to sanity. This really isn&#8217;t that complicated.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.techdirt.com/2026/05/22/the-fda-takes-its-turn-burying-studies-showing-the-safety-of-covid-shingles-vaccines/comments/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">543242</post-id>	</item>
+		<item>
+		<title>Ken Paxton Wanted To Crack Down On Forum Shopping. Now Lawyers Say He’s Improperly Seeking Out Favorable Courts.</title>
+		<link>https://www.techdirt.com/2026/05/22/ken-paxton-wanted-to-crack-down-on-forum-shopping-now-lawyers-say-hes-improperly-seeking-out-favorable-courts/</link>
+					<comments>https://www.techdirt.com/2026/05/22/ken-paxton-wanted-to-crack-down-on-forum-shopping-now-lawyers-say-hes-improperly-seeking-out-favorable-courts/#comments</comments>
+		
+		<dc:creator><![CDATA[Zach Despart and Misty Harris]]></dc:creator>
+		<pubDate>Fri, 22 May 2026 22:55:22 +0000</pubDate>
+				<category><![CDATA[1]]></category>
+		<category><![CDATA[forum shopping]]></category>
+		<category><![CDATA[jurisdiction shopping]]></category>
+		<category><![CDATA[ken paxton]]></category>
+		<category><![CDATA[texas]]></category>
+		<guid isPermaLink="false">https://www.techdirt.com/?p=543530</guid>
+
+					<description><![CDATA[This story was&#160;originally published&#160;by ProPublica.&#160;Republished under a&#160;CC BY-NC-ND 3.0&#160;license. In October, Texas Attorney General Ken Paxton sued pharmaceutical companies tied to Tylenol in state court, repeating claims made a month earlier by Health and Human Services Secretary Robert F. Kennedy Jr. that the pain relief drug was linked to autism and ADHD in children. Paxton, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p class="wp-block-paragraph"><em>This story was&nbsp;<a href="https://www.propublica.org/article/texas-ken-paxton-forum-shopping" target="_blank" rel="noreferrer noopener">originally published</a>&nbsp;by ProPublica.</em>&nbsp;<em>Republished under a&nbsp;<a href="https://creativecommons.org/licenses/by-nc-nd/3.0/">CC BY-NC-ND 3.0</a></em>&nbsp;<em>license.</em></p>
+<p class="wp-block-paragraph">In October, Texas Attorney General Ken Paxton sued pharmaceutical companies tied to Tylenol in state court, repeating claims made a month earlier by Health and Human Services Secretary Robert F. Kennedy Jr. that the pain relief drug was linked to autism and ADHD in children.</p>
+<p class="wp-block-paragraph">Paxton, a close ally of the Trump administration who had already announced a U.S. Senate bid, accused drugmakers of marketing Tylenol to pregnant mothers without disclosing its dangers. “The reckoning has arrived,” the state’s attorneys wrote in the lawsuit against pharmaceutical companies Johnson &amp; Johnson, Kenvue Brands and Kenvue Inc.</p>
+<p class="wp-block-paragraph">“By holding Big Pharma accountable for poisoning our people, we will help Make America Healthy Again,” Paxton proclaimed in a news release that echoed Kennedy’s slogan.</p>
+<p class="wp-block-paragraph">Paxton hired the Chicago law firm Keller Postman to argue the case in state court. The firm had served as lead counsel in a similar case about Tylenol’s safety that was dismissed a year earlier by a New York federal judge who found the plaintiffs’ expert witnesses unreliable.</p>
+<p class="wp-block-paragraph">But the court the attorneys chose to bring the suit in wasn’t in Austin or any of the state’s large counties that have extensive experience and multiple judges handling large, complex litigation. It was in Panola County, a community of 23,000 residents on the Louisiana border that Trump carried by 67 points two years ago and whose sole state district court judge is a Republican.</p>
+<p class="wp-block-paragraph">At a hearing that month in the three-story brick courthouse in the county seat of Carthage, Kim Bueno, the lawyer representing the drugmakers, accused Paxton’s office of pushing a baseless lawsuit through forum shopping — seeking out judges and juries that plaintiffs believe will be most favorable to them, rather than filing suit in the courts that most commonly handle similar cases.</p>
+<p class="wp-block-paragraph">“These claims have been rejected over and over and over again in courts of law by the same plaintiff’s counsel,” said Bueno, who declined an interview request. “And now they’re trying, once again, to suggest that Tylenol is harmful for women when pregnant. And it’s been soundly rejected.”</p>
+<p class="wp-block-paragraph">The case was not the first that Paxton’s office had filed in a county with little connection to the allegations of wrongdoing made by his office. ProPublica and The Texas Tribune have identified at least 30 cases filed by the attorney general over the past nine years that have a tenuous connection to the counties in which they were filed.</p>
+<p class="wp-block-paragraph">The filings mark a striking departure from Paxton’s previous opposition to the practice. In a 2017 legal brief that Paxton wrote on behalf of 17 states, he urged the U.S. Supreme Court to crack down on forum shopping in federal courts. The practice, he wrote, “has the pernicious effect of reducing confidence in the fairness and neutrality of our Nation’s justice system.”</p>
+<p class="wp-block-paragraph">Paxton’s approach also subverts what the Legislature intended when it passed a law in the 1990s that required plaintiffs to file lawsuits in counties where a “substantial” part of the alleged violation took place, according to three legal experts. That was done at the behest of conservatives who felt trial lawyers were flocking to venues favorable to them to win big damage verdicts against businesses.</p>
+<p class="wp-block-paragraph">“It looks like the attorney general’s office is interested in engaging in litigation games that it would otherwise decry if the shoe were on the other foot,” said Michael Ariens, a professor at St. Mary’s University School of Law in San Antonio, who has studied laws regulating where lawsuits can be filed.</p>
+<p class="wp-block-paragraph">Neither of Paxton’s Republican predecessors, Gov. Greg Abbott and U.S. Sen. John Cornyn, appears to have employed this strategy. ProPublica and the Tribune reviewed hundreds of cases filed outside of the state’s five large urban counties during their tenures. Each had a clear connection to the venue Abbott or Cornyn chose.</p>
+<p class="wp-block-paragraph">Neither Abbott nor Cornyn, who Paxton is trying to unseat, responded to requests for comment. Trump on Tuesday&nbsp;<a href="https://www.texastribune.org/2026/05/19/donald-trump-ken-paxton-endorsement-texas-senate-gop-primary-runoff-cornyn/">endorsed Paxton</a>&nbsp;in the race.</p>
+<p class="wp-block-paragraph">Texas’ major consumer protection law gives the attorney general some flexibility with those cases despite the state’s broader restriction on forum shopping. The office does not have to prove that a substantial part of the events in a consumer protection case happened in the place where it files suit but can instead file in counties where a defendant has done business.</p>
+<p class="wp-block-paragraph">But Paxton has stretched the boundaries of that law, too, according to legal experts and to former staffers of the attorney general’s office who argued against him in court. Last year, for example, the attorney general filed a lawsuit against the gaming platform Roblox in King County, a ranching community of about 200 people east of Lubbock. Its key justification for selecting the tiny county was that residents there had internet access.</p>
+<p class="wp-block-paragraph">Paxton, who did not respond to requests for comment or to written questions, has not spoken publicly about his office’s decisions to file lawsuits in courts with little connection to the cases.</p>
+<p class="wp-block-paragraph">At the November hearing in Panola County, Judge LeAnn Rafferty, a Republican first elected in 2016, did not question the attorney general’s office on its venue choice but asked, “Do you disagree with the defendants’ assertion that Tylenol is the safest choice for pregnant women who have a fever?”</p>
+<p class="wp-block-paragraph">“It depends on — oh, you said for having a fever? That probably is true,” replied J.J. Snidow, a partner at Keller Postman. “There are not alternatives in the pain relief space to Tylenol that don’t also have risks.”</p>
+<p class="wp-block-paragraph">Tylenol makers, Rafferty said, already tell pregnant women to consult with a doctor before taking the drug. Rafferty declined to comment about the case. Snidow said Keller Postman had no comment. Paxton has repeatedly turned to the firm as he has&nbsp;<a href="https://www.propublica.org/article/ken-paxton-private-lawyers-texas-cases">grown increasingly reliant on private attorneys</a>&nbsp;to litigate major cases for his office.</p>
+<p class="wp-block-paragraph">Kenvue directed ProPublica and the Tribune to a statement on its website that said there is “no proven link” between acetaminophen, the active ingredient in Tylenol, and autism. A spokesperson for Johnson &amp; Johnson said the company has had nothing to do with making or selling the drug since splitting with Kenvue in 2023.</p>
+<p class="wp-block-paragraph">Rafferty threw out five of the six claims in the attorney general’s lawsuit. She dismissed one for insufficient evidence. In the other four, Rafferty ruled that the state did not have jurisdiction over Johnson &amp; Johnson and Kenvue Inc. because they do not manufacture or sell Tylenol in Texas.</p>
+<p class="wp-block-paragraph">She allowed one claim to proceed that alleged Kenvue Brands had violated the state’s consumer protection act by making false claims about Tylenol’s safety.</p>
+<p class="wp-block-paragraph">With most of the claims thrown out, the attorney general’s office doubled down on its strategy.</p>
+<p class="wp-block-paragraph">Two weeks later, it filed a new case against the pharmaceutical companies.</p>
+<p class="wp-block-paragraph">This time, it chose Bailey County, a community of 7,000 residents on the New Mexico border.</p>
+<h3 class="wp-block-heading">Paxton’s Pivot</h3>
+<p class="wp-block-paragraph">For decades, plaintiffs’ attorneys from across the U.S. swarmed courts in small Texas counties that had reputations for sympathetic judges and generous juries. The practice became so ubiquitous that The Wall Street Journal branded the&nbsp;<a href="https://www.documentcloud.org/documents/28132532-lone-star-justice-wsj/">Texas judicial system a “Wild West embarrassment.”</a></p>
+<p class="wp-block-paragraph">In 1995, Robert Duncan, then a Republican state representative from Lubbock, resolved to crack down on the practice. He authored a bill that required a “substantial part” of a lawsuit’s claims be connected to the county of filing.</p>
+<p class="wp-block-paragraph">An attorney himself, Duncan recalls traveling hundreds of miles from his home in the Texas High Plains to the Rio Grande Valley for cases that had no connection to the border region. Forum shopping, Duncan told ProPublica and the Tribune, had led to too many attorneys choosing courts where there was “no reason to be there other than the bias or prejudice of whatever the plaintiff’s lawyer is trying to establish that would favor the case, as opposed to giving the defendant a fair opportunity.”</p>
+<p class="wp-block-paragraph">Duncan declined to comment on Paxton’s practice of filing lawsuits in counties with little connection to the allegations of wrongdoing.</p>
+<p class="wp-block-paragraph">Paxton was not in the Legislature when Duncan’s bill passed but, as a freshman representative in 2003, he supported legislation that gave judges more power to dismiss lawsuits they concluded belonged in another state.</p>
+<p class="wp-block-paragraph">He also railed against “rampant forum shopping,” asserting that the U.S. Supreme Court in 2017 should restrict the practice after plaintiffs in patent infringement lawsuits began flocking to courts that most often ruled in their favor. The Eastern District of Texas had become the most popular venue for the lawsuits, even though few of the cases had clear connections to the area. Most cases landed on the docket of a judge based in rural Harrison County, 140 miles east of Dallas, where plaintiffs&nbsp;<a href="https://www.nytimes.com/2006/09/24/business/so-small-a-town-so-many-patent-suits.html">won 78% of the time</a>, according to legal researchers.</p>
+<p class="wp-block-paragraph">That waned after justices ruled that federal courts must strictly enforce a decades-old law requiring corporations in patent disputes to be sued only in their home states.</p>
+<p class="wp-block-paragraph">Since then, Paxton has repeatedly engaged in forum shopping in state courts, legal experts said. In fact, his office, or attorneys on behalf of his office, have filed 11 cases in Harrison, the same county where he argued that federal courts should limit plaintiffs from filing.</p>
+<p class="wp-block-paragraph">“It’s hypocritical for the AG to criticize patent litigants for forum shopping but then to forum shop himself,” said Paul Gugliuzza, a professor at the University of Texas School of Law. “Forum shopping, judge shopping — it’s usually not unlawful, but it is highly opportunistic, and, in many circumstances, probably shouldn’t be lawful.”</p>
+<p class="wp-block-paragraph">Paxton notched one of the biggest wins of his tenure in Harrison County. He secured a $1.4 billion settlement from Meta after alleging that the Facebook parent company captured Texans’ biometric data without their consent. Paxton’s office contended in court filings that Harrison was a proper venue for the 2022 lawsuit because the company had done business in the county and a substantial part of the alleged lawbreaking occurred there. The office did not provide specifics.</p>
+<p class="wp-block-paragraph">Meta has an office in Travis County, home to Austin, not in Harrison, where only about 0.2% of Texans live, but the company did not challenge the venue. The company didn’t admit to wrongdoing in the settlement and did not respond to questions about the case. It’s unclear why its lawyers did not seek a different venue, but the judge in the case, Republican Brad Morin, denied a transfer in at least one other lawsuit involving Paxton during the Meta litigation.</p>
+<p class="wp-block-paragraph">Paxton has not limited his efforts to find more favorable courts solely to small counties. The attorney general has repeatedly filed cases, particularly political ones, in Tarrant, the state’s largest Republican county and home to Fort Worth.</p>
+<p class="wp-block-paragraph">In August, Paxton’s office chose the county as the venue to sue former Democratic U.S. Rep. Beto O’Rourke and his political organization, Powered By People, after the group helped pay expenses for Democratic members of the Texas Legislature who&nbsp;<a href="https://www.texastribune.org/2025/08/03/texas-democrats-quorum-break-redistricting-map/">left the state</a>&nbsp;to block the passage of new congressional maps. The maps, drawn at Trump’s behest, favored the GOP.</p>
+<p class="wp-block-paragraph">The attorney general’s office stated in court documents that the case had a “substantial” connection to Tarrant County because the group planned a rally in Fort Worth. When O’Rourke sought to move the case to El Paso County — where he lives and where the group is headquartered — Paxton accused him of forum shopping. O’Rourke did not respond to an interview request.</p>
+<p class="wp-block-paragraph">Paxton secured a court order in Tarrant that prohibited Powered by People from fundraising while the case was pending. But within weeks, the 15th Court of Appeals overturned the decision. It noted that Paxton was a Republican candidate for U.S. Senate, which created an incentive to blunt Democrats’ ability to campaign. The judges said the order infringed on the organization’s free speech rights before a court had determined guilt.</p>
+<p class="wp-block-paragraph">Legal experts say such forum shopping erodes trust in the court system. It is especially problematic when it comes from the attorney general, who is supposed to defend state laws and preserve public trust in the justice system, they said.</p>
+<p class="wp-block-paragraph">“It’s hard to respect the system if you think it’s being employed in a way you fundamentally think is unfair,” said Paul Grimm, a former U.S. district judge in Maryland and an advocate of restricting forum shopping.</p>
+<h3 class="wp-block-heading">“Not the Law”</h3>
+<p class="wp-block-paragraph">In at least two recent cases, Paxton has tested a novel interpretation of state law governing where lawsuits can be filed. His office has argued that if a company does business over the internet, it can be sued in any Texas county.</p>
+<p class="wp-block-paragraph">One such case was a 2022 lawsuit against pharmaceutical giant AstraZeneca. Two law firms filed the case against the company under a law that allows private attorneys to sue on behalf of the attorney general. The lawsuit accused AstraZeneca of defrauding Medicaid by giving kickbacks to healthcare workers in exchange for prescribing the company’s products. The company, which did not respond to a request for comment, said in legal filings that the lawsuit sought to punish its innocuous outreach to doctors and did not identify a single patient harmed or taxpayer dollar wasted.</p>
+<p class="wp-block-paragraph">Paxton’s office formally joined the case in July. Attorneys working on behalf of his office argued that Harrison County was the proper venue because the firm’s website could be accessed from there, company salespeople had visited the county and a local clinic had a brochure for one of the company’s drugs.</p>
+<p class="wp-block-paragraph">When AstraZeneca asked Morin, the lone Harrison County judge, to transfer the case to Travis County, he refused without explanation. The company appealed and, in November, the 15th Court of Appeals overruled Morin’s decision. The court concluded that he abused his discretion in declining to move the case. Morin did not respond to a request for comment.</p>
+<p class="wp-block-paragraph">The court also found that Paxton’s office failed to provide proof that any of the alleged lawbreaking occurred in Harrison County. It ordered the case transferred to Travis County, where it is ongoing.</p>
+<p class="wp-block-paragraph">That month, the attorney general’s office argued that Roblox could be sued in King County, an expanse of rolling plains with no incorporated communities, because third-party retailers there sold gift cards to access the online gaming company.</p>
+<p class="wp-block-paragraph">Then the office made another bold claim: that companies with websites can be sued anywhere, no matter how small the county.</p>
+<p class="wp-block-paragraph">“This is a case about ubiquity, about being online and accessible to all children throughout the state,” Mark Pinkert, a Florida lawyer whom Paxton’s office had hired as outside counsel, argued at a hearing to discuss a request from Roblox that the case be moved to Travis County. “They are advertising broadly.”</p>
+<p class="wp-block-paragraph">Pinkert did not respond to a request for comment.</p>
+<p class="wp-block-paragraph">Roblox’s attorney Ed Burbach was stunned by the argument. He’d previously led the civil litigation division at the attorney general’s office under Abbott. The office’s longstanding practice, Burbach told the judge, was to file statewide consumer protection cases in Travis County.</p>
+<p class="wp-block-paragraph">This new argument by the attorney general’s office would obliterate the Legislature’s attempts to limit forum shopping by allowing any company to be sued in any county, Burbach said.</p>
+<p class="wp-block-paragraph">“That is simply not the law,” Burbach said, adding that most Texans, including lawmakers, would “be shocked to hear that outside counsel of the AG’s office would be arguing that.”</p>
+<p class="wp-block-paragraph">The judge transferred the case to Travis County, where it is ongoing.</p>
+<p class="wp-block-paragraph">Burbach declined to comment, but Paul Rogers, a law professor at Southern Methodist University in Dallas, warned of the dangers if Paxton succeeds at getting courts to side with his expansive interpretation. The attorney general, he said, would have “a lot of power to file any lawsuit, in any county, for any reason, whether the underlying lawsuit has merit or not.”</p>
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img data-recalc-dims="1" fetchpriority="high" decoding="async" width="1024" height="801" src="https://i0.wp.com/www.techdirt.com/wp-content/uploads/2026/05/image-7.png?resize=1024%2C801&#038;ssl=1" alt="Highlighted section of a court transcript: So the only dispute here is whether (a) (3) applies, (a) (3) being is there a where does a .. in substantial part of the case arise? And. Your Honor. this case does not substantially arise in Travis County, in Dallas, in Harris County. This is a statewide case. This is a case about ubiquity, about being online and accessible to all children throughout the state, about having their content promoted with major marketing brands on YouTube. Million one trillion hits of their content on YouTube, TikTok. Facebook. They are advertising broadly." class="wp-image-543531" srcset="https://i0.wp.com/www.techdirt.com/wp-content/uploads/2026/05/image-7.png?resize=1024%2C801&amp;ssl=1 1024w, https://i0.wp.com/www.techdirt.com/wp-content/uploads/2026/05/image-7.png?resize=300%2C235&amp;ssl=1 300w, https://i0.wp.com/www.techdirt.com/wp-content/uploads/2026/05/image-7.png?resize=768%2C600&amp;ssl=1 768w, https://i0.wp.com/www.techdirt.com/wp-content/uploads/2026/05/image-7.png?resize=600%2C469&amp;ssl=1 600w, https://i0.wp.com/www.techdirt.com/wp-content/uploads/2026/05/image-7.png?w=1031&amp;ssl=1 1031w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+</div>
+<h3 class="wp-block-heading">Doubling Down</h3>
+<p class="wp-block-paragraph">In Washington, Trump and Kennedy’s public rebukes of Tylenol have tapered off. Paxton, however, continues to vigorously pursue his lawsuit against the drugmakers in state court.</p>
+<p class="wp-block-paragraph">After the setback in Panola County, the attorney general’s office filed an urgent request in Bailey County, arguing that Johnson &amp; Johnson and Kenvue should be barred from selling any products in Texas until they filed paperwork and paid a $750 fee to register with the secretary of state. (Such registration would allow Paxton’s office to strengthen its case in Panola County.)</p>
+<p class="wp-block-paragraph">Though Paxton’s office was already involved in a lawsuit against the pharmaceutical companies in Panola County, the attorney general’s office stated in court filings that it did not know the companies’ attorneys, so it could not notify them of the suit.</p>
+<p class="wp-block-paragraph">Without hearing from the drugmakers’ lawyers, Judge Gordon Green ordered the companies to register. He said they could be barred from doing business in Texas if they didn’t. Paxton proclaimed the ruling a “major win” over Big Pharma.</p>
+<p class="wp-block-paragraph">The victory was short-lived. A week later, the drugmakers’ lawyer Aaron Nielson, who had previously served under Paxton as the state’s solicitor general, attended a hearing in Green’s court. He accused Paxton’s office of sleight of hand by trying to relitigate claims that had already failed to persuade the Panola County judge.</p>
+<p class="wp-block-paragraph">“This is blatant forum shopping and taking another bite at the apple,” said Nielson, who did not respond to a request for comment. “They decided to bring Your Honor into this, rather than let the Court that they chose continue with its own proceedings, which we think is highly improper.”</p>
+<p class="wp-block-paragraph">At the end of the hearing, Green withdrew the order requiring the companies to register. He did not respond to a request for comment.</p>
+<p class="wp-block-paragraph">The Panola and Bailey county cases are awaiting a ruling from the 15th Court of Appeals.</p>
+<p class="wp-block-paragraph">In the meantime, the attorney general’s office tried yet another gambit in Panola, where the judge had allowed one of its original claims to move forward.</p>
+<p class="wp-block-paragraph">Paxton’s lawyers amended their original lawsuit in the county. They noted that Green had ordered the drugmakers to register to do business in Texas, which meant Texas now had jurisdiction to pursue the claims that had been dismissed.</p>
+<p class="wp-block-paragraph">They omitted the fact that Green voided that order.</p>
+<p class="wp-block-paragraph">By referencing the order as if it were still in effect, the attorney general’s office risks losing credibility with the Panola County judge, Gugliuzza said.</p>
+<p class="wp-block-paragraph">“If you knowingly are presenting false information to the court, that is textbook sanctionable conduct,” Gugliuzza said.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.techdirt.com/2026/05/22/ken-paxton-wanted-to-crack-down-on-forum-shopping-now-lawyers-say-hes-improperly-seeking-out-favorable-courts/comments/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">543530</post-id>	</item>
+		<item>
+		<title>France&#8217;s Terrible Copyright Law, Hadopi, Is Not Quite Dead</title>
+		<link>https://www.techdirt.com/2026/05/22/frances-terrible-copyright-law-hadopi-is-not-quite-dead/</link>
+					<comments>https://www.techdirt.com/2026/05/22/frances-terrible-copyright-law-hadopi-is-not-quite-dead/#comments</comments>
+		
+		<dc:creator><![CDATA[Glyn Moody]]></dc:creator>
+		<pubDate>Fri, 22 May 2026 20:14:15 +0000</pubDate>
+				<category><![CDATA[1]]></category>
+		<category><![CDATA[cjeu]]></category>
+		<category><![CDATA[copyright]]></category>
+		<category><![CDATA[eprivacy directive]]></category>
+		<category><![CDATA[france]]></category>
+		<category><![CDATA[gdpr]]></category>
+		<category><![CDATA[hadopi]]></category>
+		<category><![CDATA[privacy]]></category>
+		<guid isPermaLink="false">https://www.techdirt.com/?p=543420</guid>
+
+					<description><![CDATA[One of the best demonstrations that an obsession with protecting copyright’s intellectual monopoly drives politicians insane is the French law known as&#160;Hadopi, an acronym for ‘Haute Autorité pour la diffusion des oeuvres et la protection des droits sur internet’ (High Authority for the Dissemination of Works and the Protection of Rights on the Internet). The [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p class="wp-block-paragraph">One of the best demonstrations that an obsession with protecting copyright’s intellectual monopoly drives politicians insane is the French law known as&nbsp;<a href="https://walledculture.org/?s=hadopi">Hadopi</a>, an acronym for ‘Haute Autorité pour la diffusion des oeuvres et la protection des droits sur internet’ (High Authority for the Dissemination of Works and the Protection of Rights on the Internet). The Hadopi mechanism has been trying – and failing – to police copyright’s intellectual monopoly in France for 15 years now, and it is one of the main villains in the Walled Culture book (<a href="https://walledculture.org/the-book/">free digital versions available</a>).</p>
+<p class="wp-block-paragraph">Here’s how Hadopi’s “graduated response” approach worked when a revised version came into operation in 2010. Alleged infringers were warned twice; if another allegation was made within a year of the second warning, the subscriber’s Internet connection could be suspended. A fine of €1,500 could also be imposed. The first notices were sent out in September 2010; by December of that year, copyright companies were issuing between&nbsp;<a href="https://web.archive.org/web/20220616160226/https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2322516">25,000 and 50,000 infringement allegations per day</a>. At the end of July 2013, Hadopi had issued 2 million first notices and 200,000 second notices. There were 710 investigations to ascertain whether those who had been accused three times should be referred to the prosecutors.</p>
+<p class="wp-block-paragraph">That gives an idea of the scale of the investigations into people’s everyday use of the Internet in France, and of the databases of personal data that were created. And yet the first and only disconnection order, issued in June 2013,&nbsp;<a href="https://web.archive.org/web/20220616160458/https://www.techdirt.com/2013/06/17/first-french-file-sharer-sentenced-to-disconnection-under-hadopi-judgment-may-be-unenforceable/">turned out to be unenforceable</a>, because the disconnection only applied to Web access – other services like email, private messaging, the telephone line or TV services had to be preserved somehow – and was later dropped.</p>
+<p class="wp-block-paragraph">By 2020, Hadopi had been in existence in various forms for a decade. Working from Hadopi’s annual report for that year, the French magazine Next INpact calculated that in total the agency had imposed €87,000 in fines. The cost of running Hadopi was picked up entirely by French taxpayers and came to €82 million. In other words, a system that had failed to discourage people downloading unauthorized copies of copyright material, had also&nbsp;<a href="https://web.archive.org/web/20260124015433/https://next.ink/5847/109205-hadopi-82-millions-deuros-subventions-publiques-87000-euros-damendes/">cost nearly a thousand times more to run than it generated in fines</a>.</p>
+<p class="wp-block-paragraph">As Walled Culture reported at the time, in 2023 the French digital rights organization <a href="https://walledculture.org/top-eu-court-to-issue-definitive-ruling-on-whether-copyright-is-more-important-than-privacy/">La Quadrature du Net brought a challenge to the Hadopi system</a>, still running in theory, on the grounds that it was incompatible with the two EU laws defining Europe’s data protection regime, the <a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">General Data Protection Regulation</a> and the <a href="https://en.wikipedia.org/wiki/EPrivacy_Directive">ePrivacy Directive</a>. <a href="https://walledculture.org/top-eu-court-says-there-is-no-right-to-online-anonymity-because-copyright-is-more-important/">Shockingly</a>, in 2024 the Court of Justice of the European Union (CJEU), the EU’s top court, ruled that “the general and indiscriminate retention of [Internet Protocol] addresses does not necessarily constitute a serious interference with fundamental rights”. <a href="https://www.laquadrature.net/en/2026/04/30/hadopi-2009-2026-2/">La Quadrature du Net did not give up</a>. Alongside the case at the CJEU, it was also taking legal action in France:</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>In 2019, we asked the Conseil d’État to overturn Hadopi’s central decree, which authorises the storage of personal data needed for the graduated response system (IP addresses, civil identity and downloaded material). The case was referred to the Constitutional Council and in 2020 we had our first partial victory: the Constitutional Council restricted Hadopi’s broad access to personal data (the law at the time provided that it could access “all documents”). However,&nbsp;<a href="https://www.laquadrature.net/2020/05/20/hadopi-est-vaincue/">despite to our initial assessment</a>, this did not necessarily mark the end of the Hadopi.</em></p>
+</blockquote>
+<p class="wp-block-paragraph">The defeat handed down by the CJEU in 2024 offered a glimmer of hope:</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>The outcome was disappointing, as we lost on the principle: the CJEU&nbsp;<a href="https://www.laquadrature.net/en/2024/04/30/surveillance-and-hadopi-eu-court-buries-online-anonymity-a-little-further/">agreed</a>&nbsp;to weaken its case law. It accepted that access to metadata might, in certain cases, not be subjected to prior independent review. However, it required numerous conditions to this possibility, relating to both the retention of such data and the requirements for prior independent review.</em></p>
+</blockquote>
+<p class="wp-block-paragraph">Those two issues – retention of metadata and the requirement for prior independent review – have now been&nbsp;<a href="https://www.laquadrature.net/en/2026/04/30/hadopi-2009-2026-2/">acknowledged as problematic</a>&nbsp;by the Conseil d’État in a new ruling:</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>the Conseil d’État finally agreed with us on these two points. Firstly, it found that the retention of metadata is not carried out in a manner that safeguards civil liberties. The CJEU required “watertight separation” of IP addresses and civil identity data (which can be understood as two distinct databases, or files, that can only be technically correlated after a formal request for access by Arcom). The Conseil d’État notes that “no legal provision imposes such retention, under these conditions, on electronic communications operators”.</em></p>
+<p class="wp-block-paragraph"><em>Secondly, it also notes that access to this data is not subject to independent review. It fully endorses the conclusions already made by the CJEU, that Arcom [the body that took over Hadopi’s role] cannot be both judge and jury: it cannot request access and then review the legality of that access itself, even though it is an independent authority. However, like the CJEU, the Conseil d’État considers that this lack of review is only an issue from the third access to the data onwards, the stage at which a registered letter is sent.</em></p>
+</blockquote>
+<p class="wp-block-paragraph">As La Quadrature du Net notes, in practical terms, this latest ruling means that Hadopi is “stalled”:</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>The Arcom can no longer take you to court, as the requirements set by the CJEU are not satisfied. And it can only send you an email if it has first ensured that your internet service provider has stored your metadata with a “watertight separation”. It has now been downgraded to the function of a giant spam machine.</em></p>
+</blockquote>
+<p class="wp-block-paragraph">Hadopi is not quite dead yet: the French government could try to solve the two problems pointed out by the CJEU and confirmed by the Conseil d’État, by setting up yet more independent bodies to handle these specific aspects of Hadopi. That would involve throwing even more taxpayers’ money at an approach that has not only failed completely, but which is fundamentally misguided. Clearly, trying to keep the moribund Hadopi alive in this way would be an irrational and wasteful thing for the French government to contemplate; but given this is the world of copyright, it might well try to do it anyway.</p>
+<p class="wp-block-paragraph"><em>Follow me @glynmoody on&nbsp;<a href="https://mastodon.social/@glynmoody" target="_blank" rel="noreferrer noopener">Mastodon</a>&nbsp;and on&nbsp;<a href="https://bsky.app/profile/glynmoody.bsky.social">Bluesky</a>. Originally posted to <a href="https://walledculture.org/hadopi-perhaps-the-worlds-worst-copyright-law-is-moribund-but-not-quite-dead-yet/">Walled Culture</a>.</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.techdirt.com/2026/05/22/frances-terrible-copyright-law-hadopi-is-not-quite-dead/comments/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">543420</post-id>	</item>
+		<item>
+		<title>Journalists Identify Murder Victims Of Trump&#8217;s Boat Strike Program</title>
+		<link>https://www.techdirt.com/2026/05/22/journalists-identify-murder-victims-of-trumps-boat-strike-program/</link>
+					<comments>https://www.techdirt.com/2026/05/22/journalists-identify-murder-victims-of-trumps-boat-strike-program/#comments</comments>
+		
+		<dc:creator><![CDATA[Tim Cushing]]></dc:creator>
+		<pubDate>Fri, 22 May 2026 17:59:59 +0000</pubDate>
+				<category><![CDATA[clip]]></category>
+		<category><![CDATA[Latin american center for investigative journalism]]></category>
+		<category><![CDATA[boat strikes]]></category>
+		<category><![CDATA[donald trump]]></category>
+		<category><![CDATA[drug war]]></category>
+		<category><![CDATA[extrajudicial killings]]></category>
+		<category><![CDATA[murder]]></category>
+		<category><![CDATA[pete hegseth]]></category>
+		<category><![CDATA[racism]]></category>
+		<category><![CDATA[trump administration]]></category>
+		<guid isPermaLink="false">https://www.techdirt.com/?p=543345&#038;preview=true&#038;preview_id=543345</guid>
+
+					<description><![CDATA[It&#8217;s hard to believe we once were shocked to hear a government figure proudly declare that we kill people based on metadata. What&#8217;s happening now is even more disturbing. We&#8217;re killing people simply because they happen to be in boats spotted exiting certain shores and headed towards international waters. The War on Drugs has always [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p class="wp-block-paragraph">It&#8217;s hard to believe we once were shocked to hear a government figure proudly declare that <a href="https://www.techdirt.com/2014/05/12/michael-hayden-gleefully-admits-we-kill-people-based-metadata/" data-type="link" data-id="https://www.techdirt.com/2014/05/12/michael-hayden-gleefully-admits-we-kill-people-based-metadata/">we kill people based on metadata</a>.</p>
+<p class="wp-block-paragraph">What&#8217;s happening now is even more disturbing. <a href="https://www.techdirt.com/2026/03/18/trump-has-racked-up-at-least-157-extrajudicial-boat-strike-murders-in-the-last-6-months/" data-type="link" data-id="https://www.techdirt.com/2026/03/18/trump-has-racked-up-at-least-157-extrajudicial-boat-strike-murders-in-the-last-6-months/">We&#8217;re killing people</a> simply because they happen to be in boats spotted exiting certain shores and headed towards international waters.</p>
+<p class="wp-block-paragraph">The War on Drugs has always been evil. It has always relied on the ends justifying the malicious means, especially when the means usually meant the killing or incarceration of non-white people. </p>
+<p class="wp-block-paragraph">Under Trump, it&#8217;s gotten even worse. <a href="https://www.techdirt.com/2025/12/16/trump-declares-fentanyl-to-be-a-weapon-of-mass-destruction-so-he-can-get-back-to-boat-strikes-and-martial-law/" data-type="link" data-id="https://www.techdirt.com/2025/12/16/trump-declares-fentanyl-to-be-a-weapon-of-mass-destruction-so-he-can-get-back-to-boat-strikes-and-martial-law/">Trump has pretended</a> the mere existence of a drug trade &#8212; something that involves the exchange of money for goods by consenting adults &#8212; justifies the wholesale slaughter of people in boats in international waters. </p>
+<p class="wp-block-paragraph">The Defense Department and Trump himself have posted clips of boat strikes on social media, almost always accompanied <a href="https://www.techdirt.com/2025/12/15/the-real-reason-for-boat-strike-double-taps-is-preventing-survivors-from-challenging-extrajudicial-killings-in-court/" data-type="link" data-id="https://www.techdirt.com/2025/12/15/the-real-reason-for-boat-strike-double-taps-is-preventing-survivors-from-challenging-extrajudicial-killings-in-court/">by self-serving statements</a> about protecting Americans from foreign-based drug cartels. </p>
+<p class="wp-block-paragraph">But the government has offered very little in support of its social media postings and public statements. Almost no documentation exists to buttress assertions about the at-sea execution of alleged drug traffickers. Almost nothing connects these random murders to cartel activity.</p>
+<p class="wp-block-paragraph">The government has shown absolutely no interest in identifying the victims of its extrajudicial murder program. And why would it? Identifying drone strike victims <a href="https://www.techdirt.com/2025/12/15/the-real-reason-for-boat-strike-double-taps-is-preventing-survivors-from-challenging-extrajudicial-killings-in-court/" data-type="link" data-id="https://www.techdirt.com/2025/12/15/the-real-reason-for-boat-strike-double-taps-is-preventing-survivors-from-challenging-extrajudicial-killings-in-court/">might undercut</a> the government&#8217;s unproven assertions. Worse, it might expose it for what it is: small-scale genocide meant to kill non-white people whose ultimate destination <em>might</em> be the United States.</p>
+<p class="wp-block-paragraph">It&#8217;s up to everyone else to do what this government and its historically large deficit won&#8217;t do: address the human cost of its antagonism towards any nation located south of the US border. Those doing this heavy lifting don&#8217;t have the benefit of billions of dollars of funding or internal pressure to discover the truth. They&#8217;re doing it because our government <em>won&#8217;t.</em></p>
+<p class="wp-block-paragraph">Twenty journalists involved with the Latin American Center for Investigative Journalism (CLIP) have managed to identify 13 victims of Trump administration drone strikes. And even though it&#8217;s only a small percentage of the nearly 200 people our nation has murdered in open waters since Trump took office, it still matters. </p>
+<p class="wp-block-paragraph">This administration may prefer these people to remain faceless and nameless, since it makes their killing that much easier to shrug off. But anyone with an operating conscience shouldn&#8217;t pretend this effort is too small to matter. It does, and <a href="https://www.theguardian.com/us-news/2026/may/15/us-military-airstrikes-caribbean-pacific-victim-identities" data-type="link" data-id="https://www.theguardian.com/us-news/2026/may/15/us-military-airstrikes-caribbean-pacific-victim-identities">these are the names of a small portion of the people this administration has presumably straight-up murdered</a> &#8212; an assumption that should stand until the administration is willing to produce evidence that says otherwise. </p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>Of the 16 victims now identified, eight are Venezuelans: Juan Carlos Fuentes, 43; Luis Ramón Amundarain, 36; Eduard Hidalgo, 46; Dushak Milovcic, 24; and Robert Sánchez, Jesús Carreño, Eduardo Jaime and Luis Alí Martínez, whose ages are unknown. Three are Colombians: Alejandro Andrés Carranza Medina, 42, and Ronald Arregocés and Adrián Lubo (ages unknown). Two are from Ecuador: Pedro Ramón Holguín Holguín, 40, and Carlos Manuel Rodríguez Solórzano, 34; two are Trinidadians: Chad Joseph, 26, and Rishi Samaroo (age unknown); and one is from Saint Lucia: Ricky Joseph (age unknown).</em></p>
+</blockquote>
+<p class="wp-block-paragraph">Some of the people murdered by Trump&#8217;s Defense Department were simply going from one country to another to secure employment. Some of them may have been transporting drugs, but they were mules, rather than key members of international drug cartels. What&#8217;s actually known about the nearly 200 people the administration has killed is minimal. And the one entity that <em>could</em> provide more insight on its drone strike targets isn&#8217;t interested in sharing this information with <em>anyone</em>.</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>In the eight months since the airstrikes began, the US has not provided any evidence that any of the 194 victims were involved in drug trafficking.</em></p>
+</blockquote>
+<p class="wp-block-paragraph">Read that again: the US government has not provided evidence about <em>any</em> of its 194 murder victims. Instead, it has produced a steady stream of baseless invective meant to persuade the stupidest of Americans that these killings were justified.</p>
+<p class="wp-block-paragraph">What is being said by government officials doesn&#8217;t erase its refusal to provide evidence backing its claim, much less justify killings it&#8217;s unwilling to honestly discuss with the US public or its congressional oversight.</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>A spokesperson for US Southern Command&nbsp;<a href="https://recursos.elclip.org/los-bombardeados/Respuesta+SouthCom+en+Espan%CC%83ol.pdf">said</a>&nbsp;that all the strikes were “deliberate, lawful and precise, directed specifically at narco-terrorists and their enablers. We have full confidence in the operations and intelligence professionals who inform our missions.”</em></p>
+</blockquote>
+<p class="wp-block-paragraph">This is not evidence of anything. This statement is conclusory, which is the exact opposite of evidence, as any court will tell you. It simply says the government is in the right because the government says it&#8217;s in the right. That&#8217;s not justification. That&#8217;s someone representing entities swallowing up billions of federal officers telling the people paying its outsized paycheck &#8220;because I said so&#8221; and expecting that to be the end of the discussion.</p>
+<p class="wp-block-paragraph">The American public is not the government&#8217;s child. It&#8217;s actually the other way around. The government is reliant on the public, which makes the general public the adult in this conversation. That far too many MAGA enablers refuse to be the adults in the room makes it that much easier for the government to pretend it owes the public nothing. But that doesn&#8217;t change how this actually works. The government works for us, rather than the other way around. And when it doesn&#8217;t, it&#8217;s up to the public to remind it of its place.</p>
+<p class="wp-block-paragraph">In this case, it took people in other countries to generate the modicum of accountability this nation &#8212; under Trump &#8212; appears unwilling to do itself. That&#8217;s just fucking sad.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.techdirt.com/2026/05/22/journalists-identify-murder-victims-of-trumps-boat-strike-program/comments/feed/</wfw:commentRss>
+			<slash:comments>16</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">543345</post-id>	</item>
+		<item>
+		<title>Daily Deal: Headway Premium Memorial Day Sale</title>
+		<link>https://www.techdirt.com/2026/05/22/daily-deal-headway-premium-memorial-day-sale/</link>
+					<comments>https://www.techdirt.com/2026/05/22/daily-deal-headway-premium-memorial-day-sale/#respond</comments>
+		
+		<dc:creator><![CDATA[Daily Deal]]></dc:creator>
+		<pubDate>Fri, 22 May 2026 17:54:59 +0000</pubDate>
+				<category><![CDATA[1]]></category>
+		<category><![CDATA[daily deal]]></category>
+		<guid isPermaLink="false">https://www.techdirt.com/?p=543607&#038;preview=true&#038;preview_id=543607</guid>
+
+					<description><![CDATA[Unlock a world of knowledge with a Headway Premium subscription. This exclusive deal gives you unlimited access to Headway&#8217;s massive library of 1500+ book summaries, with 30-50 new ones added monthly. Cover any topic you can imagine, from personal development and business strategies to health and wellness. It&#8217;s usually on sale for $60 for new users only, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p class="wp-block-paragraph">Unlock a world of knowledge with a <a href="https://deals.techdirt.com/sales/headway-premium-lifetime-subscription?utm_campaign=affiliaterundown">Headway Premium subscription</a>. This exclusive deal gives you unlimited access to Headway&#8217;s massive library of 1500+ book summaries, with 30-50 new ones added monthly. Cover any topic you can imagine, from personal development and business strategies to health and wellness. It&#8217;s usually on sale for $60 for new users only, but for a very limited time you can get it for $47.97.</p>
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://deals.techdirt.com/sales/headway-premium-lifetime-subscription?utm_campaign=affiliaterundown"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cdnp3.stackassets.com/9405723e1a58fc93d6718c2945d90c7b8abde1ab/store/36a9c1466751d9b13bc962706425eb0464441c809a19dc6eb50f038e6745/product_335055_product_shots1.jpg?ssl=1" alt=""/></a></figure>
+</div>
+<p class="wp-block-paragraph"><em>Note: The Techdirt Deals Store is powered and curated by StackCommerce. A portion of all sales from Techdirt Deals helps support Techdirt. The products featured do not reflect endorsements by our editorial team.</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.techdirt.com/2026/05/22/daily-deal-headway-premium-memorial-day-sale/comments/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">543607</post-id>	</item>
+		<item>
+		<title>SpaceX&#8217;s IPO Filing Shows Elon&#8217;s Twitter &#8216;Business Genius&#8217; Was A Fantasy</title>
+		<link>https://www.techdirt.com/2026/05/22/spacexs-ipo-filing-shows-elons-twitter-business-genius-was-a-fantasy/</link>
+					<comments>https://www.techdirt.com/2026/05/22/spacexs-ipo-filing-shows-elons-twitter-business-genius-was-a-fantasy/#comments</comments>
+		
+		<dc:creator><![CDATA[Mike Masnick]]></dc:creator>
+		<pubDate>Fri, 22 May 2026 16:32:14 +0000</pubDate>
+				<category><![CDATA[spacex]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[x]]></category>
+		<category><![CDATA[xai]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[elon musk]]></category>
+		<category><![CDATA[ipo]]></category>
+		<category><![CDATA[projections]]></category>
+		<guid isPermaLink="false">https://www.techdirt.com/?p=543580</guid>
+
+					<description><![CDATA[Elon Musk, business genius. When Elon Musk announced his plans to buy Twitter, some of his billionaire friends rushed to text him to say they&#8217;d throw whatever money they wanted into the deal. Larry Ellison casually offered &#8220;a billion&#8230; or whatever you recommend.&#8221; Marc Andreessen offered $250 million, no questions asked. This all came out [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p class="wp-block-paragraph">Elon Musk, business genius. When Elon Musk announced his plans to buy Twitter, some of his billionaire friends rushed to text him to say they&#8217;d throw whatever money they wanted into the deal. Larry Ellison casually offered &#8220;a billion&#8230; or whatever you recommend.&#8221; Marc Andreessen offered $250 million, no questions asked. This all came out in the lawsuit when Musk tried to back out of the deal:</p>
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" width="475" height="829" src="https://i0.wp.com/www.techdirt.com/wp-content/uploads/2026/05/image-9.png?resize=475%2C829&#038;ssl=1" alt="" class="wp-image-543581" style="width:259px;height:auto" srcset="https://i0.wp.com/www.techdirt.com/wp-content/uploads/2026/05/image-9.png?w=475&amp;ssl=1 475w, https://i0.wp.com/www.techdirt.com/wp-content/uploads/2026/05/image-9.png?resize=172%2C300&amp;ssl=1 172w" sizes="(max-width: 475px) 100vw, 475px" /></figure>
+</div>
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" width="699" height="648" src="https://i0.wp.com/www.techdirt.com/wp-content/uploads/2026/05/image-10.png?resize=699%2C648&#038;ssl=1" alt="" class="wp-image-543582" style="aspect-ratio:1.0787239387088672;width:619px;height:auto" srcset="https://i0.wp.com/www.techdirt.com/wp-content/uploads/2026/05/image-10.png?w=699&amp;ssl=1 699w, https://i0.wp.com/www.techdirt.com/wp-content/uploads/2026/05/image-10.png?resize=300%2C278&amp;ssl=1 300w, https://i0.wp.com/www.techdirt.com/wp-content/uploads/2026/05/image-10.png?resize=600%2C556&amp;ssl=1 600w" sizes="(max-width: 699px) 100vw, 699px" /></figure>
+</div>
+<p class="wp-block-paragraph">Publicly, these billionaires insisted that Elon was a sure shot business genius who would easily make them much richer. Elon then sent around a presentation to other investors who would perhaps take a bit more convincing. The NY Times got its hands on Elon&#8217;s clearly <a target="_blank" rel="noreferrer noopener" href="https://www.nytimes.com/2022/05/06/technology/elon-musk-twitter-pitch-deck.html">pulled-out-of-his-ass projections</a>. $26.4 billion in revenue by 2028! That included $12 billion from advertising, $10 billion from subscriptions and the rest from licensing.</p>
+<p class="wp-block-paragraph">Remember, at the time, Twitter&#8217;s ad revenue was decent: $4.51 billion in 2021 (its last full year as a public company) with another half a billion in licensing revenue. So Elon was suggesting he had the magic formula for massively increasing ad revenue and subscription revenue.</p>
+<p class="wp-block-paragraph">There was plenty of reporting over the last few years on how the opposite happened. <a target="_blank" rel="noreferrer noopener" href="https://www.techdirt.com/2023/10/06/extwitter-ad-revenue-continues-to-be-in-free-fall/">Ad revenue absolutely tanked</a>. It got so bad that the company started <a target="_blank" rel="noreferrer noopener" href="https://www.techdirt.com/2024/08/07/it-always-gets-dumber-elon-sues-the-ad-coalition-he-just-rejoined-because-he-thinks-its-illegal-to-not-advertise-on-extwitter/">suing advertisers</a> for not advertising on the newly renamed X (and threatening advertisers that choosing not to advertise would <a target="_blank" rel="noreferrer noopener" href="https://www.techdirt.com/2025/06/12/elon-musks-new-business-model-for-extwitter-give-us-money-or-we-sue/">get them added</a> to the lawsuit), pretending that it was some sort of antitrust violation. It took a court to point out that this was <a target="_blank" rel="noreferrer noopener" href="https://www.techdirt.com/2026/03/27/turns-out-that-advertisers-not-wanting-to-fund-neo-nazi-adjacent-content-isnt-an-antitrust-violation/">utter nonsense</a>.</p>
+<p class="wp-block-paragraph">Anyway, given the private nature of X, we didn&#8217;t have any real official confirmation on some of the revenue numbers. But in the last year and a half, Elon has been merging his Xs. He merged X into xAI, then merged xAI into SpaceX. And now SpaceX has filed for a massive IPO, <a target="_blank" rel="noreferrer noopener" href="https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm">giving us an S1</a> with <em>some</em> financial information about how X is actually performing after all.</p>
+<p class="wp-block-paragraph">Of course, by merging all these companies, it gives Elon a bit of a chance to obfuscate the numbers. The user metrics, for example, show both users of X and xAI&#8217;s grok (which are not all the same). Also, somewhat ironically given <a target="_blank" rel="noreferrer noopener" href="https://www.techdirt.com/2022/06/07/elon-trying-to-get-out-of-the-twitter-purchase-claiming-that-because-twitter-wont-share-private-info-it-has-breached-its-agreement/">Elon&#8217;s pretextual whining</a> about how there were too many bots on Twitter, the S1 admits that a lot of the activity on X these days is almost certainly bots and they apparently have no way to break out how many humans still use the service:</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>“supported accounts” refers to, when used in the context of our X platform and Grok, a human, bot or similar account that logged into the X platform or Grok. The total number of supported accounts may include fake, spam or bot accounts if they are active.</em></p>
+</blockquote>
+<p class="wp-block-paragraph">Gosh. I thought you were taking over the site to get rid of all the bots and spam.</p>
+<p class="wp-block-paragraph">Anyhoo, now that we have some numbers, let&#8217;s compare them to what Elon sold his investors.</p>
+<p class="wp-block-paragraph">Remember, the plan was $26.4 billion by 2028. We&#8217;re more than halfway there. How&#8217;s it going? Well&#8230; when he combines xAI (grok) revenue with X revenue (so not even just breaking out X&#8217;s ad revenue)&#8230; we get&#8230; a total of $3.201 billion in 2025. So, just to put this in perspective&#8230; when he took over in 2022 he laid out a five year plan to take the company that had $4.5 billion in ad revenue the year before he bought it up to $12 billion in five years. Three years in and&#8230; it&#8217;s now somewhere pretty far below $3 billion. And they&#8217;re proud of the fact it&#8217;s finally started to go up again:</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>Revenue for the year ended December 31, 2025 increased by $581 million, or 22.2%, compared to the prior year ended December 31, 2024. This increase was primarily due to an increase in advertising revenue of $116 million as advertising spend increased from advertising partners on X and an increase in AI solutions and infrastructure revenue of $465 million.</em></p>
+</blockquote>
+<p class="wp-block-paragraph">So&#8230; from 2024 to 2025&#8230; they increased advertising revenue on X&#8230; by&#8230; $116 million, after knocking it down by somewhere in the range of $2 billion? BUSINESS GENIUS.</p>
+<p class="wp-block-paragraph">But, that&#8217;s okay. Part of the pitch was that he was going to get advertising to be less than 50% of Twitter&#8217;s revenue by 2028 because it was going to be replaced by a massive wave of subscription revenue. $10 billion by 2028! Musk predicted 69 million users of Twitter Blue (what became X Premium) by 2025 and 159 million in 2028. And then also another 104 million subscribers to a mysterious &#8220;X&#8221; subscription by 2028, which was not explained in the pitch. Even though this was before the rollout of ChatGPT, if we want to grant Elon credit to think he had already planned to launch an AI subscription service called &#8220;X&#8221; by then&#8230; how are we doing towards those numbers?</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>As of March 31, 2026, we reached approximately 6.3 million active paid subscribers, which was comprised of approximately 4.4 million X Premium and Premium+ paid subscribers and approximately 1.9 million SuperGrok, SuperGrok Heavy and SuperGrok Lite paid subscribers.</em></p>
+</blockquote>
+<p class="wp-block-paragraph">Leaving aside the Grok subscribers&#8230; they have&#8230; 4.4 million X Premium subscribers. That seems a bit short of the 69 million paid subscribers (which was almost certainly chosen because Musk is, emotionally, a 12-year-old boy). Once you combine that with the Grok subscribers (most of those plans cost significantly more than X Premium) and you get a grand total of&#8230; $365 million. Given the breakdown of X vs. Grok subscribers and the different pricing, X subscribers likely account for less than two-thirds of that revenue — call it under $250 million. That seems juuuuust a bit short of $10 billion.</p>
+<p class="wp-block-paragraph">His initial pitch to investors also projected that by 2028 the payments business would be bringing in over a billion dollars. It&#8217;s now 2025 and while the S1 mentions payments, it&#8217;s very much a future thing:</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>We plan to further broaden the value proposition of X through offerings like Money, a product we launched in beta in November 2025, which aims to expand platform utility by enabling payments and other financial services.</em></p>
+</blockquote>
+<p class="wp-block-paragraph">In the pitch to investors, the plan was to have that generating revenue by 2023. A bit behind schedule, it seems.</p>
+<p class="wp-block-paragraph">Also, part of the pitch was that all the debt he&#8217;d taken on would be paid back through free cash flow. He even says that by 2025 (hmm&#8230; last year&#8230;) the company would grow to $3.2 billion. Uh, not so close. Again, that almost matches the <em>revenue</em> number, but the cash flow was&#8230; decidedly negative. The entire AI part of the business lost over $6 billion last year. I don&#8217;t think Elon&#8217;s paying off the debt with free cash flow any time soon.</p>
+<p class="wp-block-paragraph">Look, obviously, forward looking projections and investor pitches are fantasies. They always are. That&#8217;s kind of the point. And also, obviously, the consumer AI/LLM race which really became a consumer phenomenon started right after Musk closed the purchase, and shifted the landscape somewhat. Also, obviously, by merging X into xAI and then merging that combined company into SpaceX, the various investors are likely to make out just fine (even if it is stacking multiple houses of cards on top of each other).</p>
+<p class="wp-block-paragraph">But, given how there was a group of Silicon Valley VCs and Wall Street banker types who absolutely insisted that Elon had a Midas touch and would absolutely know how to turn Twitter into revenue gold, it seems worth checking in on just how badly those plans failed. Yes, he&#8217;s been able to paper that over with mergers between companies he owns, but the actual numbers don&#8217;t lie.</p>
+<p class="wp-block-paragraph">So where does this leave the investors who lined up to hand Elon a few billion dollars, no questions asked? Probably fine, actually. The SpaceX IPO will almost certainly value the combined entity at a number that makes early Twitter/X investors more than whole. That&#8217;s what merging a struggling social network into a so-so AI startup into a deeply in debt (but in strong demand) rocket company will get you — the underlying failure gets laundered by the valuation of everything else in the stack.</p>
+<p class="wp-block-paragraph">But the operational track record is what it is. Twitter was generating $4.5 billion in ad revenue the year before Musk bought it. Three years into his five-year plan to reach $12 billion, the combined X/xAI advertising business is at somewhere under $3 billion — and that&#8217;s counting the separate AI business he launched after acquisition. The 69 million paid subscribers became 4.4 million. The $10 billion subscription business became $250 million. The payments business that was supposed to be generating revenue in 2023 just launched in beta in November 2025.</p>
+<p class="wp-block-paragraph">The &#8220;business genius&#8221; narrative was always doing a lot of work. Now we have the numbers. They don&#8217;t.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.techdirt.com/2026/05/22/spacexs-ipo-filing-shows-elons-twitter-business-genius-was-a-fantasy/comments/feed/</wfw:commentRss>
+			<slash:comments>15</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">543580</post-id>	</item>
+		<item>
+		<title>Amazon Gets Into The AI Podcast Slop Business</title>
+		<link>https://www.techdirt.com/2026/05/22/amazon-gets-into-the-ai-podcast-slop-business/</link>
+					<comments>https://www.techdirt.com/2026/05/22/amazon-gets-into-the-ai-podcast-slop-business/#comments</comments>
+		
+		<dc:creator><![CDATA[Karl Bode]]></dc:creator>
+		<pubDate>Fri, 22 May 2026 12:32:50 +0000</pubDate>
+				<category><![CDATA[1]]></category>
+		<category><![CDATA[amazon]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[ai slop]]></category>
+		<category><![CDATA[authenticity]]></category>
+		<category><![CDATA[engagement]]></category>
+		<category><![CDATA[expertise]]></category>
+		<category><![CDATA[jeff bezos]]></category>
+		<category><![CDATA[media]]></category>
+		<category><![CDATA[podcasts]]></category>
+		<guid isPermaLink="false">https://www.techdirt.com/?p=543391&#038;preview=true&#038;preview_id=543391</guid>
+
+					<description><![CDATA[Late last year we wrote about a new startup that was flooding the internet with AI-generated podcast slop. Featuring fake hosts having fake discussions, the startup proudly stated it was creating about 3,000 new AI-generated podcasts every single week. The owners of the startup (who called critics of AI slop &#8220;Luddites,&#8221;) stated that because they [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p class="wp-block-paragraph">Late last year <a href="https://www.techdirt.com/2025/09/22/ai-slop-startup-to-flood-the-internet-with-thousands-of-ai-slop-podcasts-calls-critics-of-ai-slop-luddites/">we wrote about a new startup</a> that was flooding the internet with AI-generated podcast slop. Featuring fake hosts having fake discussions, the startup proudly stated it was creating about 3,000 new AI-generated podcasts <em>every single week</em>. The owners of the startup (who called critics of AI slop &#8220;<a href="https://www.hollywoodreporter.com/business/digital/ai-podcast-start-up-plan-shows-1236361367/">Luddites</a>,&#8221;) stated that because they cost so little to produce, even selling 30 episodes for a dollar nets them a tidy profit when scaled up appropriately.</p>
+<p>That this results in an internet positively full of lazy mass-produced cack &#8212; and what that does to the public interest, authentic creators, and informed consensus &#8212; doesn&#8217;t really enter into it. </p>
+<p>Not to be outdone, Amazon appears poised to join the AI slop podcast race. The company announced this week that it had begun mass producing AI-generated podcasts featuring two fake experts <a href="https://variety.com/2026/digital/news/amazon-alexa-plus-ai-podcasts-1236752477/">having conversations about all sorts of stuff</a>. More specifically, Amazon is reformatting Alexa+’s extended answers on different topics and turning them into “podcasts.&#8221; </p>
+<p>During this process, Jeff Bezos owned software will express manufactured opinions on all sorts of things, from the death of monoculture to the health of the U.S. recording industry:</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>&#8220;In an <a href="https://soundcloud.com/nguotran/alexa-podcasts_music-1" target="_blank" rel="noreferrer noopener">example clip</a> shared by Amazon of the new <a href="https://variety.com/t/alexa-podcasts/">Alexa Podcasts</a> feature, the two AI-generated hosts discuss “the latest music releases.” A male Alexa+ narrator says more than 50% of music listening now comes from unsigned artists. “The monoculture is just gone,” a female-voiced Alexa+ narrator chimes in. The male Alexa+ host says there has been “stoner metal,” indie pop and experimental hip-hop music “all dropping on the same Friday,” and adds, “That’s not chaos — that’s the healthiest the music ecosystem has ever been.”</em></p>
+</blockquote>
+<p class="wp-block-paragraph">Cool.</p>
+<p>For some reason the <a href="https://variety.com/2026/digital/news/amazon-alexa-plus-ai-podcasts-1236752477/">Variety story</a> didn&#8217;t quote the best part of the shared <a href="https://soundcloud.com/nguotran/alexa-podcasts_music-1">Amazon example clip</a>; namely where software in a female voice informs you that there&#8217;s no gatekeeping anymore and authenticity rules the day:</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>&#8220;There&#8217;s no gatekeeping anymore. If you make something real people are going to find it, and the algorithm is working for artists in a way it wasn&#8217;t five years ago.&#8221;</em></p>
+</blockquote>
+<p class="wp-block-paragraph">Clearly concerned that people would accuse them of creating yet more lazy and quickly automated engagement slop in the era of <a href="https://www.cnet.com/tech/services-and-software/features/digital-grave-robbing-how-ai-is-plundering-online-obituaries/">AI obituary scams</a>, Amazon is pinky swearing that journalists will play a central role in fact-checking the content:</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>&#8220;Seemingly to dispel the notion that these “podcasts” will be AI audio slop, Amazon emphasized that it has deals with major news organizations to ensure “accurate, real-time news and information.” Those include the Associated Press, Reuters, the Washington Post, Time magazine, Forbes, Business Insider, Politico and USA Today; publications from Condé Nast, Hearst and Vox Media; and more than 200 local newspapers across the U.S.&#8221;</em></p>
+</blockquote>
+<p class="wp-block-paragraph">All that extra journalistic manpower just <em>laying around</em> from places like the Jeff Bezos owned Washington Post (which just <a href="https://www.nytimes.com/2026/02/04/business/media/washington-post-layoffs.html">fired 300 journalists</a> and <a href="https://www.techdirt.com/2025/09/17/the-washington-post-fires-its-last-black-opinion-columnist-for-directly-quoting-a-bigot/">shitcanned its last black female opinion columnist</a>). Or Business Insider, one of the cornerstones of what I call <a href="https://karlbode.com/ceo-said-a-thing-journalism/">&#8220;CEO said a thing!&#8221; pseudo journalism</a>. Or Forbes, which now just lets any random yahoo contribute as a &#8220;regular columnist.&#8221; Or Vox, which is about to be <a href="https://www.reuters.com/business/media-telecom/james-murdoch-talks-buy-vox-medias-new-york-magazine-podcast-unit-wsj-reports-2026-05-05/">sold off to Rupert Murdoch&#8217;s kid</a>. Or Politico, the website owned by a <a href="https://www.status.news/p/mathias-dopfner-donald-trump-meeting-axel-springer">rich German Trump fan</a>. </p>
+<p>You know, all the places that have been hollowed out by layoffs and mismanaged into the ground by incompetent billionaires who have no idea how anything works and are keen to produce a giant badly automated engagement ouroborus that shits money without needing to pay human beings a living wage (or health insurance). </p>
+<p>In effect they&#8217;re using software automation to algorithmically hijack and repackage the informed expertise of other people, then reselling it to you as something new. With some lip service to the idea that there are enough journalists left to maintain factual quality control over large language models prone to errors, plagiarism, and <a href="https://www.techdirt.com/2023/07/07/ai-journalism-continues-to-be-a-lazy-error-prone-mess/">all sorts of disastrous fuckery at scale</a>. </p>
+<p>I desperately want to believe that as we accelerate into the era of badly automated mass engagement slop, there will be a value premium placed on <a href="https://karlbode.com/ai-artifice-and-authenticity/">authentic expertise</a>. That the bland homogenized vibe coded half-assed sameness being plattered up at impossible new scale will usher forth a renaissance for real connection, genuine skill, actual talent, and human expertise. </p>
+<p>But then I remember what most people buy at the grocery store. And the kind of people dictating the contours of both large language models and our increasingly consolidated, authoritarian-friendly media gatekeeping systems. And I quickly have my doubts that authentic expertise and connection has any meaningful chance of being heard above the din.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.techdirt.com/2026/05/22/amazon-gets-into-the-ai-podcast-slop-business/comments/feed/</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">543391</post-id>	</item>
+		<item>
+		<title>Post Loss Clarity: Bill Cassidy Rediscovers His Spine As A Lame Duck Senator</title>
+		<link>https://www.techdirt.com/2026/05/21/post-loss-clarity-bill-cassidy-rediscovers-his-spine-as-a-lame-duck-senator/</link>
+					<comments>https://www.techdirt.com/2026/05/21/post-loss-clarity-bill-cassidy-rediscovers-his-spine-as-a-lame-duck-senator/#comments</comments>
+		
+		<dc:creator><![CDATA[Timothy Geigner]]></dc:creator>
+		<pubDate>Fri, 22 May 2026 03:02:00 +0000</pubDate>
+				<category><![CDATA[1]]></category>
+		<category><![CDATA[bill cassidy]]></category>
+		<category><![CDATA[donald trump]]></category>
+		<category><![CDATA[iran]]></category>
+		<category><![CDATA[principles]]></category>
+		<category><![CDATA[rfk jr.]]></category>
+		<category><![CDATA[spine]]></category>
+		<guid isPermaLink="false">https://www.techdirt.com/?p=543549&#038;preview=true&#038;preview_id=543549</guid>
+
+					<description><![CDATA[Just a few days ago, I wrote a post about how Bill Cassidy had been primaried out of returning as a senator for Louisiana and how all of this bootlicking of the Trump administration obviously didn&#8217;t do the job he hoped it would do. As a result, he has been left as a lame duck [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p class="wp-block-paragraph">Just a few days ago, I wrote a post about how Bill Cassidy had been <a href="https://www.techdirt.com/2026/05/19/bill-cassidy-loses-primary-rfk-jr-will-be-his-legacy/">primaried out</a> of returning as a senator for Louisiana and how all of this bootlicking of the Trump administration obviously didn&#8217;t do the job he hoped it would do. As a result, he has been left as a lame duck senator with a legacy that will be primarily about his decision to belay his own moral stances generally and his heavy hand in <a href="https://www.techdirt.com/tag/rfk-jr/">RFK Jr.</a> leading HHS under Trump 2.0.</p>
+<p class="wp-block-paragraph">The point of that post was two-fold. First, I wanted to highlight just how damning to his legacy the appointment of Kennedy to HHS has become to his legacy. Second, I wanted to highlight that this supposedly serious senator was perfectly willing to give up on his principles the moment he thought, incorrectly as it turns out, that it would be politically expedient to do so.</p>
+<p class="wp-block-paragraph">And if you need a bow to put on that second point, you can get it now that <a href="https://www.nbcnews.com/politics/congress/senate-advances-resolution-end-iran-war-trump-bill-cassidy-rcna346001">Cassidy has flipped his vote</a> on the Senate bill to end America&#8217;s involvement in the war with Iran until the Trump administration gets authorization from Congress.</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>Sen. Bill Cassidy, R-La., who&nbsp;<a href="https://www.nbcnews.com/politics/2026-election/sen-bill-cassidys-defeat-shows-price-dissent-trumps-republican-party-rcna344950" target="_blank" rel="noreferrer noopener">just lost his primary</a>&nbsp;for renomination over the weekend after he&nbsp;<a href="https://www.nbcnews.com/politics/2026-election/trump-aims-defeat-dissident-republicans-key-may-primaries-rcna341407" target="_blank" rel="noreferrer noopener">faced opposition</a>&nbsp;from Trump, voted “yes” to advance the measure, the first time he has done so after having repeatedly voted “no.”</em></p>
+<p class="wp-block-paragraph"><em>“While I support the administration’s efforts to dismantle Iran’s nuclear program, the White House and Pentagon have left Congress in the dark on Operation Epic Fury,” Cassidy said in a statement. “In Louisiana, I’ve heard from people, including President Trump’s supporters, who are concerned about this war. Until the administration provides clarity, no congressional authorization or extension can be justified.”</em></p>
+</blockquote>
+<p class="wp-block-paragraph">It&#8217;s amazing how post-election-loss clarity can assist someone in rediscovering their own spinal cord. Now, you can read Cassidy&#8217;s comments about how Congress has been left in the dark and that he&#8217;s hearing from people worried that maybe this whole warlord routine by Trump isn&#8217;t so great and believe that Cassidy came to all of these epiphanies in the last couple of days&#8230; if you want. But I&#8217;m going to point at you and laugh in your face if you do.</p>
+<p class="wp-block-paragraph">Now that Cassidy has nothing to lose, he&#8217;s decided to do the right thing. That isn&#8217;t some feather in his cap. It&#8217;s a self-indictment of all of his actions leading all the way up to his primary loss. If Cassidy thought this vote was the right thing to do today, what made it the wrong thing to do a week ago? The answer is nothing.</p>
+<p class="wp-block-paragraph">Even if a vote is taken and the bill passes, it would still need to get through the Republican House and survive a presidential veto. There is little chance of either happening. But that isn&#8217;t the point.</p>
+<p class="wp-block-paragraph">The point is that Bill Cassidy could have been a patriot over the past year and a half since Trump&#8217;s reelection, but he chose not to until he didn&#8217;t have a Senate seat to defend. And that makes him a coward. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.techdirt.com/2026/05/21/post-loss-clarity-bill-cassidy-rediscovers-his-spine-as-a-lame-duck-senator/comments/feed/</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">543549</post-id>	</item>
+	</channel>
+</rss>

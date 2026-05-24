@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/blog/rss.xsl" type="text/xsl" media="screen" ?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>jwz</title>
+	<atom:link href="https://cdn.jwz.org/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.jwz.org/blog/</link>
+	<description></description>
+	<lastBuildDate>Sun, 24 May 2026 19:17:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com"/>
+<atom:link rel="hub" href="https://pubsubhubbub.superfeedr.com"/>
+<atom:link rel="hub" href="https://websubhub.com/hub"/>
+<atom:link rel="self" href="https://cdn.jwz.org/blog/feed/"/>
+	<item>
+		<title>Time for you to retire, old friend</title>
+		<link>https://www.jwz.org/blog/2026/05/time-for-you-to-retire-old-friend/</link>
+					<comments>https://www.jwz.org/blog/2026/05/time-for-you-to-retire-old-friend/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Sun, 24 May 2026 09:33:33 +0000</pubDate>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[dnalounge]]></category>
+		<category><![CDATA[glitch]]></category>
+		<category><![CDATA[retrocomputing]]></category>
+		<category><![CDATA[toys]]></category>
+		<category><![CDATA[tv]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk7l</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<DIV STYLE="text-align: center; width: 100%; max-width: 4032px; margin: 0 auto;"><A HREF="https://cdn.jwz.org/images/2026/img_4770.jpg" data-size="4032x3024"><IMG SRC="https://cdn.jwz.org/images/scaled/768/2026/img_4770.jpg" WIDTH=4032 HEIGHT=3024 STYLE="width: 100%; height: auto; border: 1px solid; margin-bottom: 0.5em" SRCSET="https://cdn.jwz.org/images/2026/img_4770.jpg 4032w, https://cdn.jwz.org/images/scaled/2048/2026/img_4770.jpg 2048w, https://cdn.jwz.org/images/scaled/1920/2026/img_4770.jpg 1920w, https://cdn.jwz.org/images/scaled/1280/2026/img_4770.jpg 1280w, https://cdn.jwz.org/images/scaled/1024/2026/img_4770.jpg 1024w, https://cdn.jwz.org/images/scaled/768/2026/img_4770.jpg 768w, https://cdn.jwz.org/images/scaled/640/2026/img_4770.jpg 640w, https://cdn.jwz.org/images/scaled/360/2026/img_4770.jpg 360w" SIZES="(max-width: 660px) 100vw, 72em" LOADING="lazy" data-size="4032x3024"></A> <P><A HREF="https://www.dnalounge.com/backstage/log/2021/05/25.html">Previously</A>, <A HREF="https://www.jwz.org/blog/2016/07/osi74/">previously</A>, <A HREF="https://www.jwz.org/blog/2016/10/export-termaaa-60/">previously</A>, <A HREF="https://www.dnalounge.com/backstage/log/2021/06/06.html">previously</A>, <A HREF="https://www.jwz.org/blog/2020/09/local58tv/">previously</A>, <A HREF="https://www.jwz.org/blog/2019/06/netflix-on-a-bw-crt/">previously</A>, <A HREF="https://www.dnalounge.com/backstage/log/2002/03/06.html">previously</A>.</DIV>]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/05/time-for-you-to-retire-old-friend/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+		<enclosure url="https://cdn.jwz.org/images/2026/img_4770.jpg" width="4032" height="3024" length="1991827" type="image/jpeg"/>
+	</item>
+		<item>
+		<title>WordPress &quot;AI&quot; Apocalypse Extremely Fucking Nigh</title>
+		<link>https://www.jwz.org/blog/2026/05/wordpress-ai-apocalypse-extremely-fucking-nigh/</link>
+					<comments>https://www.jwz.org/blog/2026/05/wordpress-ai-apocalypse-extremely-fucking-nigh/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Thu, 21 May 2026 04:57:58 +0000</pubDate>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[computers]]></category>
+		<category><![CDATA[conspiracies]]></category>
+		<category><![CDATA[corporations]]></category>
+		<category><![CDATA[doomed]]></category>
+		<category><![CDATA[firstperson]]></category>
+		<category><![CDATA[lazyweb]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[www]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk7j</guid>
+
+					<description><![CDATA[WP 7.0 was just released and apparently this is the "AI" release. Is there a patch to excise this cancer from core, or is there a bugfix-tracking fork that I should switch to instead, or should I just never upgrade again, or what?]]></description>
+										<content:encoded><![CDATA[<IMG SRC="https://cdn.jwz.org/images/scaled/768/2024/goatsepress.png" WIDTH=1024 HEIGHT=734 STYLE="width: 30%; height: auto; max-width: 1024px; max-height: 734px; border: 0; box-sizing: border-box; margin: 0 0.5em 1em 1em; float: right; clear: right;" SRCSET="https://cdn.jwz.org/images/2024/goatsepress.png 1024w, https://cdn.jwz.org/images/scaled/768/2024/goatsepress.png 768w, https://cdn.jwz.org/images/scaled/640/2024/goatsepress.png 640w, https://cdn.jwz.org/images/scaled/360/2024/goatsepress.png 360w" SIZES="(max-width: 660px) 30vw, 22em" LOADING="lazy" data-size="1024x734"> WP 7.0 was just released and apparently this <A HREF="https://www.linkedin.com/pulse/wp-70-cut-its-biggest-feature-shipped-ai-layer-instead-ishan-dwivedi-aqkvc/">is the "AI" release</A>. Is there a patch to excise this cancer from core, or is there a bugfix-tracking fork that I should switch to instead, or should I just never upgrade again, or what? <P><A HREF="https://www.jwz.org/blog/2025/12/what-if-the-torment-nexus-was-fundamental-to-wordpress/">Previously</A>, <A HREF="https://www.jwz.org/blog/2026/02/ai-is-a-dick-move/">previously</A>, <A HREF="https://www.jwz.org/blog/2024/07/gravatar-dunning-krugerrands/">previously</A>, <A HREF="https://www.jwz.org/blog/2024/10/lets-pick-the-right-product-for-you/">previously</A>, <A HREF="https://www.jwz.org/blog/2023/04/feedly-launches-strikebreaking-as-a-service/">previously</A>, <A HREF="https://www.jwz.org/blog/2013/06/google-reader-apocalypse-extremely-fucking-nigh/">previously</A>.]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/05/wordpress-ai-apocalypse-extremely-fucking-nigh/feed/</wfw:commentRss>
+			<slash:comments>35</slash:comments>
+		
+		
+		<enclosure url="https://cdn.jwz.org/images/2024/goatsepress.png" width="1024" height="734" length="31273" type="image/png"/>
+	</item>
+		<item>
+		<title>The AI botnets cannot be stopped</title>
+		<link>https://www.jwz.org/blog/2026/05/the-ai-botnets-cannot-be-stopped/</link>
+					<comments>https://www.jwz.org/blog/2026/05/the-ai-botnets-cannot-be-stopped/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Wed, 20 May 2026 18:15:45 +0000</pubDate>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[computers]]></category>
+		<category><![CDATA[corporations]]></category>
+		<category><![CDATA[doomed]]></category>
+		<category><![CDATA[firstperson]]></category>
+		<category><![CDATA[spam]]></category>
+		<category><![CDATA[www]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk7g</guid>
+
+					<description><![CDATA[I am constantly getting scrape attempts for avatar-image-JPEG URLs that have not existed on my blog since a restructuring in 2022. They come in bursts of about a 100 per minute, each from a different IP address, and in random order.
+
+I thought: enough is enough, I need to ...]]></description>
+										<content:encoded><![CDATA[<DIV STYLE="text-align: center; width: 25%; max-width: 900px; margin: 0 0 1em 1em; float: right;"><IMG SRC="https://cdn.jwz.org/images/scaled/768/2013/under_attack_pleas_stand_by_by_heder.png" WIDTH=900 HEIGHT=563 STYLE="width: 100%; height: auto; border: 1px solid; margin-bottom: 0.5em" SRCSET="https://cdn.jwz.org/images/2013/under_attack_pleas_stand_by_by_heder.png 900w, https://cdn.jwz.org/images/scaled/768/2013/under_attack_pleas_stand_by_by_heder.png 768w, https://cdn.jwz.org/images/scaled/640/2013/under_attack_pleas_stand_by_by_heder.png 640w, https://cdn.jwz.org/images/scaled/360/2013/under_attack_pleas_stand_by_by_heder.png 360w" SIZES="(max-width: 660px) 25vw, 18em" LOADING="lazy" data-size="900x563"></DIV>I am constantly getting scrape attempts for avatar-image-JPEG URLs that have not existed on my blog since a restructuring in 2022. They come in bursts of about a 100 per minute, each from a different IP address, and in random order. <P>I thought: enough is enough, I need to figure out what clown service these are coming from and start blocking whole networks. <P>Nope, they're almost all from cable modems, not from hosting facilities: <P><pre style="padding: 1em; margin: 1em; border: 1px solid; font-size: smaller; overflow: auto; max-height: 15em; clear: right;">49.43.169.105&#9;"55836 | IN | apnic | 2010-10-27 | RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN" 49.36.222.165&#9;"55836 | IN | apnic | 2010-10-27 | RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN" 49.207.199.34&#9;"24309 | IN | apnic | 2004-12-08 | CABLELITE-AS-AP Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA, IN" 60.254.88.85&#9;"17488 | IN | apnic | 2000-11-28 | HATHWAY-NET-AP Hathway IP Over Cable Internet, IN" 14.176.188.15&#9;none 113.181.115.52&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 222.252.180.57&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.191.68.81&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 203.162.75.165&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 113.166.25.40&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.234.181.48&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.232.16.94&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.226.156.45&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.186.56.201&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 123.27.88.193&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 123.24.165.158&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 123.23.84.13&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 113.173.75.211&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.254.59.191&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.247.93.88&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 134.122.23.167&#9;"14061 | US | arin | 2012-09-25 | DIGITALOCEAN-ASN - DigitalOcean, LLC, US" 113.184.185.188&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.170.114.205&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.236.40.167&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.170.244.63&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 113.165.28.93&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 163.223.48.0&#9;"138797 | IN | apnic | 2019-02-11 | COASTAL-AS-IN Coastal Broadband And Online Services Pvt. Ltd., IN" 58.249.137.74&#9;"17622 | CN | apnic | 2001-01-18 | CNCGROUP-GZ China Unicom Guangzhou network, CN" 39.68.1.38&#9;"4837 | CN | apnic | 2001-09-17 | CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN" 14.191.63.98&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 113.168.114.54&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.161.135.60&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.228.183.221&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.177.130.34&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.236.8.100&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 144.31.35.211&#9;"401560 | US | arin | 2025-01-03 | ONECABLE - OneCable Network LLC, US" 14.230.66.236&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 113.166.3.113&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 143.20.253.201&#9;"401560 | US | arin | 2025-01-03 | ONECABLE - OneCable Network LLC, US" 14.172.46.240&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.191.87.248&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.240.145.79&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 171.250.165.14&#9;"7552 | VN | apnic | 2002-10-08 | VIETEL-AS-AP Viettel Group, VN" 14.230.54.62&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.180.27.31&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 177.137.214.144&#9;"263087 | BR | lacnic | 2012-04-18 | Rawnet Informatica LTDA, BR" 120.140.8.61&#9;"4788 | MY | apnic | 1996-10-20 | TTSSB-MY TM TECHNOLOGY SERVICES SDN. BHD., MY" 49.37.213.156&#9;"55836 | IN | apnic | 2010-10-27 | RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN" 216.75.132.173&#9;"401560 | US | arin | 2025-01-03 | ONECABLE - OneCable Network LLC, US" 144.31.35.77&#9;"401560 | US | arin | 2025-01-03 | ONECABLE - OneCable Network LLC, US" 216.75.132.173&#9;"401560 | US | arin | 2025-01-03 | ONECABLE - OneCable Network LLC, US" 216.75.132.173&#9;"401560 | US | arin | 2025-01-03 | ONECABLE - OneCable Network LLC, US" 144.31.35.77&#9;"401560 | US | arin | 2025-01-03 | ONECABLE - OneCable Network LLC, US" 144.31.35.77&#9;"401560 | US | arin | 2025-01-03 | ONECABLE - OneCable Network LLC, US" 216.75.132.173&#9;"401560 | US | arin | 2025-01-03 | ONECABLE - OneCable Network LLC, US" 216.75.132.173&#9;"401560 | US | arin | 2025-01-03 | ONECABLE - OneCable Network LLC, US" 143.20.253.246&#9;"401560 | US | arin | 2025-01-03 | ONECABLE - OneCable Network LLC, US" 143.20.253.246&#9;"401560 | US | arin | 2025-01-03 | ONECABLE - OneCable Network LLC, US" 14.169.142.16&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.190.135.174&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 113.165.212.210&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 113.165.39.79&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.254.166.139&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.170.190.94&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 123.31.236.195&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.175.2.197&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.245.142.32&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 113.168.130.126&#9;none 14.234.120.102&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.187.7.237&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.169.200.172&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 113.187.7.158&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 222.253.132.0&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 113.179.243.6&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.189.84.206&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.189.125.112&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 123.27.175.238&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 113.179.139.90&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 216.75.132.167&#9;"401560 | US | arin | 2025-01-03 | ONECABLE - OneCable Network LLC, US" 216.75.132.167&#9;"401560 | US | arin | 2025-01-03 | ONECABLE - OneCable Network LLC, US" 14.191.192.133&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 216.75.132.212&#9;"401560 | US | arin | 2025-01-03 | ONECABLE - OneCable Network LLC, US" 207.180.11.239&#9;"401560 | US | arin | 2025-01-03 | ONECABLE - OneCable Network LLC, US" 207.180.11.239&#9;"401560 | US | arin | 2025-01-03 | ONECABLE - OneCable Network LLC, US" 113.186.16.134&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.170.25.114&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.229.9.235&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.188.28.166&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 123.16.224.122&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.173.194.120&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.239.74.25&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.239.32.210&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 14.177.207.17&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 113.173.255.127&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 144.31.35.232&#9;"401560 | US | arin | 2025-01-03 | ONECABLE - OneCable Network LLC, US" 181.213.41.191&#9;"28573 | BR | lacnic | 2003-11-27 | Claro NXT Telecomunicacoes Ltda, BR" 113.182.199.97&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 88.235.232.128&#9;"9121 | TR | ripencc | 1998-12-29 | TTNET, TR" 181.191.153.5&#9;"267488 | BR | lacnic | 2017-08-17 | Pronet Construcoes LTDA, BR" 211.241.113.62&#9;"9316 | KR | apnic | 1998-06-03 | DACOM-PUBNETPLUS-AS-KR DACOM-PUBNETPLUS, KR" 152.58.183.66&#9;"55836 | IN | apnic | 2010-10-27 | RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN" 59.184.62.53&#9;"9829 | IN | apnic | 2000-01-19 | BSNL-NIB National Internet Backbone, IN" 14.164.166.200&#9;"45899 | VN | apnic | 2009-08-28 | VNPT-AS-VN VNPT Corp, VN" 152.57.115.213&#9;"55836 | IN | apnic | 2010-10-27 | RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN" 49.34.210.1&#9;"55836 | IN | apnic | 2010-10-27 | RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN" 1.246.164.57&#9;"9318 | KR | apnic | 1998-06-03 | SKB-AS SK Broadband Co Ltd, KR" 31.223.92.91&#9;"12735 | TR | ripencc | 1999-10-18 | ASTURKNET, TR" 103.66.177.245&#9;"135578 | BD | apnic | 2016-06-18 | DIT-AS-AP Muhammad Nasir ta Dhaka Information Technology, BD" 152.42.242.171&#9;"14061 | US | arin | 2012-09-25 | DIGITALOCEAN-ASN - DigitalOcean, LLC, US" 143.20.253.31&#9;"401560 | US | arin | 2025-01-03 | ONECABLE - OneCable Network LLC, US"</pre> <P><A HREF="https://www.jwz.org/blog/2025/10/exterminate-all-rational-ai-scrapers-redux-redux/">Previously</A>, <A HREF="https://www.jwz.org/blog/2026/01/zipbomb-json/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/05/user-agent-blocking/">previously</A>, <A HREF="https://www.jwz.org/blog/2024/02/harassing-botnets-with-zipbombs/">previously</A>, <A HREF="https://www.jwz.org/blog/2018/04/oh-botnets-never-give-up-hope/">previously</A>.]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/05/the-ai-botnets-cannot-be-stopped/feed/</wfw:commentRss>
+			<slash:comments>95</slash:comments>
+		
+		
+		<enclosure url="https://cdn.jwz.org/images/2013/under_attack_pleas_stand_by_by_heder.png" width="900" height="563" length="432495" type="image/png"/>
+	</item>
+		<item>
+		<title>Today in hot superyacht probs...</title>
+		<link>https://www.jwz.org/blog/2026/05/today-in-hot-superyacht-probs-10/</link>
+					<comments>https://www.jwz.org/blog/2026/05/today-in-hot-superyacht-probs-10/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Mon, 18 May 2026 19:36:42 +0000</pubDate>
+		<category><![CDATA[big brother]]></category>
+		<category><![CDATA[conspiracies]]></category>
+		<category><![CDATA[corporations]]></category>
+		<category><![CDATA[doomed]]></category>
+		<category><![CDATA[grim meathook future]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk7b</guid>
+
+					<description><![CDATA["Use google to sign in to your private jet!"
+
+"and the question every CEO eventually has to answer: who's next?"]]></description>
+										<content:encoded><![CDATA[<div align=center> "Use google to sign in to your private jet!" <P>"and the question every CEO eventually has to answer: who's next?" <P><DIV STYLE="text-align: center; width: 100%; max-width: 500px; margin: 0 auto;"><A HREF="https://cdn.jwz.org/images/2026/fortune.jpg" data-size="800x416"><IMG SRC="https://cdn.jwz.org/images/scaled/768/2026/fortune.jpg" WIDTH=800 HEIGHT=416 STYLE="width: 100%; height: auto; border: 1px solid; margin-bottom: 0.5em" ALT="Mamdani's New York is coming to tax your private jet. Here's how to prepare" SRCSET="https://cdn.jwz.org/images/2026/fortune.jpg 800w, https://cdn.jwz.org/images/scaled/768/2026/fortune.jpg 768w, https://cdn.jwz.org/images/scaled/640/2026/fortune.jpg 640w, https://cdn.jwz.org/images/scaled/360/2026/fortune.jpg 360w" SIZES="(max-width: 660px) 100vw, 72em" LOADING="lazy" data-size="800x416"></A></DIV> <P><A HREF="https://www.jwz.org/blog/2023/12/today-in-hot-superyacht-probs-9/">Previously</A>, <A HREF="https://www.jwz.org/blog/2022/08/today-in-hot-superyacht-probs-literally/">previously</A>, <A HREF="https://www.jwz.org/blog/2021/05/today-in-hot-superyacht-probs-7/">previously</A>, <A HREF="https://www.jwz.org/blog/2019/07/today-in-hot-superyacht-probs-3/">previously</A>, <A HREF="https://www.jwz.org/blog/2019/02/today-in-hot-superyacht-probs-2/">previously</A>, <A HREF="https://www.jwz.org/blog/2019/02/today-in-hot-superyacht-probs/">previously</A>, <A HREF="https://www.jwz.org/blog/2018/12/are-super-yachts-the-best-places-to-keep-your-art-collection/">previously</A>, <A HREF="https://www.jwz.org/blog/2026/01/periodic-reminder-that-newsom-sucks/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/08/today-in-billionaire-turd-news/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/06/bezos-moves-wedding-after-threat-of-inflatable-alligators/">previously</A>, <A HREF="https://www.jwz.org/blog/2020/10/today-in-hot-superyacht-probs-5/">previously</A>.</DIV>]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/05/today-in-hot-superyacht-probs-10/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<enclosure url="https://cdn.jwz.org/images/2026/fortune.jpg" width="800" height="416" length="22089" type="image/jpeg"/>
+	</item>
+		<item>
+		<title>Sometimes, when two fighter jets love each other very much...</title>
+		<link>https://www.jwz.org/blog/2026/05/sometimes-when-two-fighter-jets-love-each-other-very-much/</link>
+					<comments>https://www.jwz.org/blog/2026/05/sometimes-when-two-fighter-jets-love-each-other-very-much/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Mon, 18 May 2026 19:28:20 +0000</pubDate>
+		<category><![CDATA[big brother]]></category>
+		<category><![CDATA[doomed]]></category>
+		<category><![CDATA[movies]]></category>
+		<category><![CDATA[mpegs]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk7Z</guid>
+
+					<description><![CDATA["Maverick, you can ride my tail any time."]]></description>
+										<content:encoded><![CDATA[<DIV STYLE="text-align: center; width: 100%; max-width: 640px; margin: 0 auto;"><DIV STYLE="display: inline-block; margin: 2px; width: 100%;" STYLE=" margin-bottom: 0.5em"><DIV STYLE="overflow: hidden; position: relative; padding-bottom: 56.25%; display: inline-block; width: 100%;" STYLE="padding-bottom: 56%"><A HREF="https://www.youtube.com/watch?v=WO7FvvP33r0" ONCLICK="return popup_video(this)"><DIV STYLE="position: absolute; top: 0; left: 0; border: 0; margin: 0; padding: 0; z-index: 1; width: 100%; height: 100%;" STYLE="background-image: url('https://cdn.jwz.org/images/2026/wo7fvvp33r0.jpg')"><DIV ><DIV >&#x25B6;&#xFE0E;</DIV></DIV></DIV></A></DIV></DIV> <P><A HREF="https://www.youtube.com/watch?v=ZF1LXL6OOsM?t=33">"Maverick, you can ride my tail any time."</A> <P><A HREF="https://www.jwz.org/blog/2025/10/perennial-fuck-the-blue-angels-post-5/">Previously</A>, <A HREF="https://www.jwz.org/blog/2022/06/a-great-review-of-a-movie-that-there-was-no-chance-id-be-seeing/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/09/yet-another-space-x-vehicle-explodes/">previously</A>, <A HREF="https://www.jwz.org/blog/2022/07/wildfires-are-setting-off-100-year-old-bombs-on-wwi-battlefields/">previously</A>, <A HREF="https://www.jwz.org/blog/2020/11/exploding-whale-50th-anniversary-remaster/">previously</A>.</DIV>]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/05/sometimes-when-two-fighter-jets-love-each-other-very-much/feed/</wfw:commentRss>
+			<slash:comments>18</slash:comments>
+		
+		
+		<enclosure url="https://cdn.jwz.org/images/2026/wo7fvvp33r0.jpg" length="4121" type="image/jpeg"/>
+	</item>
+		<item>
+		<title>Links</title>
+		<link>https://www.jwz.org/blog/2026/05/links/</link>
+					<comments>https://www.jwz.org/blog/2026/05/links/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Sat, 16 May 2026 20:37:36 +0000</pubDate>
+		<category><![CDATA[computers]]></category>
+		<category><![CDATA[firstperson]]></category>
+		<category><![CDATA[meta]]></category>
+		<category><![CDATA[www]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk7X</guid>
+
+					<description><![CDATA[Any time one of my blog posts escapes containment on Mastodon, I am again reminded that "click links" is an ability that a shockingly large part of that community simply does not possess.
+
+I weep for the future.]]></description>
+										<content:encoded><![CDATA[Any time one of my blog posts escapes containment on Mastodon, I am again reminded that "click links" is an ability that a <I>shockingly</I> large part of that community simply does not possess. <P>I weep for the future. <P><A HREF="https://www.jwz.org/blog/2024/09/my-taxonomy-is-the-best/">Previously</A>, <A HREF="https://www.jwz.org/blog/2024/02/links-what-are-they-good-for/">previously</A>, <A HREF="https://www.jwz.org/blog/2024/01/hypertext-emerges-from-his-well-to-shame-the-tech-industry/">previously</A>.]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/05/links/feed/</wfw:commentRss>
+			<slash:comments>49</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Rust Evangelism Task Force has declared &quot;ethics&quot; to be out of scope</title>
+		<link>https://www.jwz.org/blog/2026/05/the-rust-evangelism-task-force-has-declared-ethics-to-be-out-of-scope/</link>
+					<comments>https://www.jwz.org/blog/2026/05/the-rust-evangelism-task-force-has-declared-ethics-to-be-out-of-scope/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Fri, 15 May 2026 19:16:57 +0000</pubDate>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[computers]]></category>
+		<category><![CDATA[copyright]]></category>
+		<category><![CDATA[corporations]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk7V</guid>
+
+					<description><![CDATA[And that's going as well as you might guess:
+
+This document establishes a policy for how LLMs can be used when contributing to rust-lang/rust. [...]
+
+No comment on this PR may mention the following topics:
+
+Long-term social or economic impact of LLMs.
+The environmental ...]]></description>
+										<content:encoded><![CDATA[<A HREF="https://github.com/rust-lang/rust-forge/pull/1040">And that's going as well as you might guess:</A> <P><BLOCKQUOTE STYLE="margin: 1em 0 1em 1.5em; padding: 0.75em 0.5em 0.75em 1em; border: 1px solid; border-left: 4px solid;"> <P>This document establishes a policy for how LLMs can be used when contributing to rust-lang/rust. [...] <P>No comment on this PR may mention the following topics: <P><ul><li> Long-term social or economic impact of LLMs </li><li> The environmental impact of LLMs </li><li> Anything to do with the copyright status of LLM output </li><li> Moral judgements about people who use LLMs </li></ul> <P>We have asked the moderation team to help us enforce these rules.</BLOCKQUOTE> <P><A HREF="https://www.jwz.org/blog/2026/04/ai-vegan/">Previously</A>, <A HREF="https://www.jwz.org/blog/2026/05/a-slopfondler-walks-into-a-bar-redux/">previously</A>, <A HREF="https://www.jwz.org/blog/2026/04/important-xscreensaver-policy-update/">previously</A>, <A HREF="https://www.jwz.org/blog/2026/03/the-oberlin-luddite-club/">previously</A>, <A HREF="https://www.jwz.org/blog/2026/02/cocaine/">previously</A>, <A HREF="https://www.jwz.org/blog/2026/02/ai-is-a-dick-move/">previously</A>, <A HREF="https://www.jwz.org/blog/2026/01/kitten-meat-deli-slices/">previously</A>, <A HREF="https://www.jwz.org/blog/2018/07/a-webshit-shits-webshit-about-webshit/">previously</A>.]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/05/the-rust-evangelism-task-force-has-declared-ethics-to-be-out-of-scope/feed/</wfw:commentRss>
+			<slash:comments>87</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Today in &quot;Fascists and their dongs&quot; news</title>
+		<link>https://www.jwz.org/blog/2026/05/today-in-fascists-and-their-dongs-news/</link>
+					<comments>https://www.jwz.org/blog/2026/05/today-in-fascists-and-their-dongs-news/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Fri, 15 May 2026 19:03:42 +0000</pubDate>
+		<category><![CDATA[big brother]]></category>
+		<category><![CDATA[conspiracies]]></category>
+		<category><![CDATA[doomed]]></category>
+		<category><![CDATA[parts]]></category>
+		<category><![CDATA[perversions]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk7T</guid>
+
+					<description><![CDATA[Not The Onion:
+
+Penile implant specialist with history of far-right comments led hantavirus presser:
+
+Before he joined the Trump administration last year, Dr. Brian Christine was an Alabama-based urologist who specialized in penile implants. He has little public health ...]]></description>
+										<content:encoded><![CDATA[<DIV STYLE="text-align: center; width: 30%; max-width: 800px; margin: 0 0 1em 1em; float: right;"><A HREF="https://www.cnn.com/2026/05/15/politics/brian-christine-vaccine-skepticism-history"><IMG SRC="https://cdn.jwz.org/images/scaled/768/2026/gettyimages-2275125836.jpg" WIDTH=800 HEIGHT=533 STYLE="width: 100%; height: auto; border: 1px solid; margin-bottom: 0.5em" SRCSET="https://cdn.jwz.org/images/2026/gettyimages-2275125836.jpg 800w, https://cdn.jwz.org/images/scaled/768/2026/gettyimages-2275125836.jpg 768w, https://cdn.jwz.org/images/scaled/640/2026/gettyimages-2275125836.jpg 640w, https://cdn.jwz.org/images/scaled/360/2026/gettyimages-2275125836.jpg 360w" SIZES="(max-width: 660px) 30vw, 22em" LOADING="lazy" data-size="800x533"></A></DIV>Not The Onion: <P><A HREF="https://www.cnn.com/2026/05/15/politics/brian-christine-vaccine-skepticism-history">Penile implant specialist with history of far-right comments led hantavirus presser:</A> <P><BLOCKQUOTE STYLE="margin: 1em 0 1em 1.5em; padding: 0.75em 0.5em 0.75em 1em; border: 1px solid; border-left: 4px solid;"> <P>Before he joined the Trump administration last year, Dr. Brian Christine was an Alabama-based urologist who specialized in penile implants. He has little public health experience and a history of far-right commentary and promoting conspiracy theories. He's said the Covid pandemic led to a wider government plot to control people, compared the Biden administration to Nazi Germany and suggested the Covid vaccine had little effect in stopping the pandemic. <P>He once hosted a YouTube show called "Erection Connection," a professional YouTube series on erectile dysfunction for fellow urologists. <P>A CNN review of archived podcast episodes, social media posts and radio appearances found that Christine repeatedly framed public health institutions, the federal government and pandemic-era policies as tools used to target conservatives and religious Americans.</BLOCKQUOTE> <P><A HREF="https://www.jwz.org/blog/2025/01/fascists-and-their-dongs-amirite/">Previously</A>, <A HREF="https://www.jwz.org/blog/2018/11/heck-of-a-resum-you-got-there/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/05/mark-wahlberg-claims-elon-musks-botched-penis-implant-wouldnt-have-gone-down-like-that-if-he-was-attending-surgeon/">previously</A>.]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/05/today-in-fascists-and-their-dongs-news/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<enclosure url="https://cdn.jwz.org/images/2026/gettyimages-2275125836.jpg" width="800" height="533" length="45965" type="image/jpeg"/>
+	</item>
+		<item>
+		<title>Internet of Shit</title>
+		<link>https://www.jwz.org/blog/2026/05/internet-of-shit/</link>
+					<comments>https://www.jwz.org/blog/2026/05/internet-of-shit/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Fri, 15 May 2026 01:46:08 +0000</pubDate>
+		<category><![CDATA[computers]]></category>
+		<category><![CDATA[corporations]]></category>
+		<category><![CDATA[mad science]]></category>
+		<category><![CDATA[perversions]]></category>
+		<category><![CDATA[poop]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk7R</guid>
+
+					<description><![CDATA[AI Poop Analysis App Offered to Sell Me Database of Its Users' Poops:
+
+The post was advertising exactly what it sounds like: A database of poop images, collected from an AI poop analyzing app that he had launched several years ago. Basically, 25,000 people had been taking ...]]></description>
+										<content:encoded><![CDATA[<DIV STYLE="text-align: center; width: 35%; max-width: 1200px; margin: 0 0 1em 1em; float: right;"><A HREF="https://www.404media.co/ai-poop-analysis-app-offered-to-sell-me-access-to-its-users-poops/"><IMG SRC="https://cdn.jwz.org/images/scaled/768/2026/img_9595.jpg" WIDTH=1200 HEIGHT=967 STYLE="width: 100%; height: auto; border: 1px solid; margin-bottom: 0.5em" SRCSET="https://cdn.jwz.org/images/2026/img_9595.jpg 1200w, https://cdn.jwz.org/images/scaled/1024/2026/img_9595.jpg 1024w, https://cdn.jwz.org/images/scaled/768/2026/img_9595.jpg 768w, https://cdn.jwz.org/images/scaled/640/2026/img_9595.jpg 640w, https://cdn.jwz.org/images/scaled/360/2026/img_9595.jpg 360w" SIZES="(max-width: 660px) 35vw, 26em" LOADING="lazy" data-size="1200x967"></A></DIV><A HREF="https://www.404media.co/ai-poop-analysis-app-offered-to-sell-me-access-to-its-users-poops/">AI Poop Analysis App Offered to Sell Me Database of Its Users' Poops</A> <P><BLOCKQUOTE STYLE="margin: 1em 0 1em 1.5em; padding: 0.75em 0.5em 0.75em 1em; border: 1px solid; border-left: 4px solid;"> <P>The post was advertising exactly what it sounds like: A database of poop images, collected from an AI poop analyzing app that he had launched several years ago. Basically, 25,000 people had been taking images of their poop and uploading them to his app. He'd been collecting, analyzing, and annotating these images and now wanted to sell access to them. [...] <P>The poop database comes from an app called PoopCheck, an app made by a company called Soft All Things that purports to use AI to analyze images of one's stool in order to give you a "daily gut health score." [...] <P>The app also features a "community," of 151,317 "shared stools" at the time of this writing and a "leaderboard," where people can share images of their poop for commentary from other users and earn points for participating.</BLOCKQUOTE> <P><A HREF="https://www.jwz.org/blog/2025/12/kohlers-600-month-toilet-camera-uses-your-turds-to-train-ai/">Previously</A>, <A HREF="https://www.jwz.org/blog/2025/12/honsky-dot-cx-adjustable-anus-clamp/">previously</A>, <A HREF="https://www.jwz.org/blog/2020/04/analprint-scan/">previously</A>, <A HREF="https://www.jwz.org/blog/2014/11/smart-pipe/">previously</A>, <A HREF="https://www.jwz.org/blog/2016/03/internet-connected-rectal-thermometer/">previously</A>, <A HREF="https://www.jwz.org/blog/2024/05/first-and-foremost-this-blog-is-for-poop-jokes/">previously</A>.]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/05/internet-of-shit/feed/</wfw:commentRss>
+			<slash:comments>28</slash:comments>
+		
+		
+		<enclosure url="https://cdn.jwz.org/images/2026/img_9595.jpg" width="1200" height="967" length="91491" type="image/jpeg"/>
+	</item>
+		<item>
+		<title>I see 1Password is stepping on the rake again</title>
+		<link>https://www.jwz.org/blog/2026/05/i-see-1password-is-stepping-on-the-rake-again/</link>
+					<comments>https://www.jwz.org/blog/2026/05/i-see-1password-is-stepping-on-the-rake-again/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Thu, 14 May 2026 17:35:50 +0000</pubDate>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[computers]]></category>
+		<category><![CDATA[corporations]]></category>
+		<category><![CDATA[doomed]]></category>
+		<category><![CDATA[firstperson]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[phones]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk7M</guid>
+
+					<description><![CDATA[The brain geniuses securing your passwords just squirted out this statement:
+
+At 1Password, we applied agentic tooling to a multi-million-line Go monolith.
+
+(No I'm not linking to it.) Ok first, how in the everloving fuck did you allow a password manager to reach multiple ...]]></description>
+										<content:encoded><![CDATA[<IMG SRC="https://cdn.jwz.org/images/2023/1password2.jpg" STYLE="width: 30%; height: auto; max-width: 520px; max-height: 602px; border: 0; box-sizing: border-box; margin: 0 0 1em 1em; float: right; clear: right;" SRCSET="https://cdn.jwz.org/images/2023/1password2.jpg 520w, https://cdn.jwz.org/images/scaled/360/2023/1password2.jpg 360w" SIZES="(max-width: 660px) 30vw, 22em" LOADING="lazy" data-size="520x602" WIDTH="520" HEIGHT="602"> The brain geniuses securing your passwords just squirted out this statement: <P><BLOCKQUOTE STYLE="margin: 1em 0 1em 1.5em; padding: 0.75em 0.5em 0.75em 1em; border: 1px solid; border-left: 4px solid;">At 1Password, we applied agentic tooling to a multi-million-line Go monolith.</BLOCKQUOTE> <P>(No I'm not linking to it.) Ok first, how in the <I>everloving fuck</I> did you allow a <I>password manager</I> to reach <I>multiple millions of lines??</I> <P>(I assume they're not even counting the <I>entire embedded copy of Chrome</I> that lurks inside 1Password.) <P>And now they sloppified it, so more people are jumping ship. <P>Welp, I warned you about 1Password's self-immolation in 2023 <A HREF="https://www.jwz.org/blog/2023/12/migrating-from-1password-to-apple-keychain/">and posted a migration guide</A>. You're welcome. <P><BR> <B>Please note:</b> If you have come here to recommend a different password manager, I implore you to not do that, as I just do not care. This is what I did. If something else works for you, good for you. Write it up on your own blog. <P><BR><A HREF="https://www.jwz.org/blog/2023/12/migrating-from-1password-to-apple-keychain/">Previously</A>, <A HREF="https://www.jwz.org/blog/2023/10/maybe-later-or-not-today-satan/">previously</A>, <A HREF="https://www.jwz.org/blog/2026/04/ai-vegan/">previously</A>, <A HREF="https://www.jwz.org/blog/2026/04/important-xscreensaver-policy-update/">previously</A>, <A HREF="https://www.jwz.org/blog/2026/02/cocaine/">previously</A>.]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/05/i-see-1password-is-stepping-on-the-rake-again/feed/</wfw:commentRss>
+			<slash:comments>80</slash:comments>
+		
+		
+		<enclosure url="https://cdn.jwz.org/images/2023/1password2.jpg" width="520" height="602" length="38006" type="image/jpeg"/>
+	</item>
+		<item>
+		<title>How to radicalize investment bankers against AI:</title>
+		<link>https://www.jwz.org/blog/2026/05/how-to-radicalize-investment-bankers-against-ai/</link>
+					<comments>https://www.jwz.org/blog/2026/05/how-to-radicalize-investment-bankers-against-ai/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Wed, 13 May 2026 06:13:12 +0000</pubDate>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[conspiracies]]></category>
+		<category><![CDATA[corporations]]></category>
+		<category><![CDATA[doomed]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk7J</guid>
+
+					<description><![CDATA[Plunge their ski resorts into darkness for data centers:
+
+The Sierra Nevada tourist hub -- home to ski resorts, lakeside casinos, and roughly 25 to 28 million annual visitors -- is facing an energy crisis with a familiar culprit: the data centers powering the AI boom.
+
+NV ...]]></description>
+										<content:encoded><![CDATA[<DIV STYLE="text-align: center; width: 35%; max-width: 1200px; margin: 0 0 1em 1em; float: right;"><A HREF="https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/"><IMG SRC="https://cdn.jwz.org/images/scaled/768/2026/gettyimages-150869132-e1778601940917.jpg" WIDTH=1200 HEIGHT=600 STYLE="width: 100%; height: auto; border: 1px solid; margin-bottom: 0.5em" SRCSET="https://cdn.jwz.org/images/2026/gettyimages-150869132-e1778601940917.jpg 1200w, https://cdn.jwz.org/images/scaled/1024/2026/gettyimages-150869132-e1778601940917.jpg 1024w, https://cdn.jwz.org/images/scaled/768/2026/gettyimages-150869132-e1778601940917.jpg 768w, https://cdn.jwz.org/images/scaled/640/2026/gettyimages-150869132-e1778601940917.jpg 640w, https://cdn.jwz.org/images/scaled/360/2026/gettyimages-150869132-e1778601940917.jpg 360w" SIZES="(max-width: 660px) 35vw, 26em" LOADING="lazy" data-size="1200x600"></A></DIV><A HREF="https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/">Plunge their ski resorts into darkness for data centers:</A> <P><BLOCKQUOTE STYLE="margin: 1em 0 1em 1.5em; padding: 0.75em 0.5em 0.75em 1em; border: 1px solid; border-left: 4px solid;"> <P>The Sierra Nevada tourist hub -- home to ski resorts, lakeside casinos, and roughly 25 to 28 million annual visitors -- is facing an energy crisis with a familiar culprit: the data centers powering the AI boom. <P>NV Energy, the Nevada utility that has supplied the bulk of Lake Tahoe's electricity for decades, told Liberty Utilities -- the small California company that services the region -- that it will stop providing power after May 2027. The reason? NV Energy needs the capacity for data centers. As in: the energy supplier for the Lake Tahoe region is telling the utility company that it has less than a year to find another power source.</BLOCKQUOTE> <P><A HREF="https://www.jwz.org/blog/2017/09/this-is-fine/">Previously</A>, <A HREF="https://www.jwz.org/blog/2020/08/arctic-wildfires-emit-35-more-co2-so-far-in-2020-than-for-whole-of-2019/">previously</A>, <A HREF="https://www.jwz.org/blog/2018/06/this-is-fine-3/">previously</A>, <A HREF="https://www.jwz.org/blog/2018/08/chemtrails-are-magic/">previously</A>, <A HREF="https://www.jwz.org/blog/2023/10/under-appreciated-existential-threats-of-ai-drinking-water/">previously</A>, <A HREF="https://www.jwz.org/blog/2021/03/bitcoin-mine-cargo-container-literally-incinerating-planet/">previously</A>.]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/05/how-to-radicalize-investment-bankers-against-ai/feed/</wfw:commentRss>
+			<slash:comments>16</slash:comments>
+		
+		
+		<enclosure url="https://cdn.jwz.org/images/2026/gettyimages-150869132-e1778601940917.jpg" width="1200" height="600" length="123784" type="image/jpeg"/>
+	</item>
+		<item>
+		<title>Speaking of robot bartenders</title>
+		<link>https://www.jwz.org/blog/2026/05/speaking-of-robot-bartenders/</link>
+					<comments>https://www.jwz.org/blog/2026/05/speaking-of-robot-bartenders/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Tue, 12 May 2026 21:42:46 +0000</pubDate>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[computers]]></category>
+		<category><![CDATA[dnalounge]]></category>
+		<category><![CDATA[doomed]]></category>
+		<category><![CDATA[firstperson]]></category>
+		<category><![CDATA[robots]]></category>
+		<category><![CDATA[sf]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk7G</guid>
+
+					<description><![CDATA[Since robot bartenders came up in that slopfondler post... From a recent email exchange:
+
+They:
+I just re-read your 2021 Cocktail Robotics cancellation post: "Weren&apos;t able to round up enough robots... maybe Plague World just isn&apos;t ready for barbots yet."
+
+Curious ...]]></description>
+										<content:encoded><![CDATA[Since robot bartenders came up in that <A HREF="https://www.jwz.org/blog/2026/05/a-slopfondler-walks-into-a-bar-redux/">slopfondler post</A>... From a recent email exchange: <P><TABLE CELLPADDING=4 CELLSPACING=0 BORDER=0> <TR> <TD ALIGN=LEFT VALIGN=TOP><B>They:</B></TD> <TD ALIGN=LEFT VALIGN=TOP>I just re-read your 2021 <A HREF="https://www.dnalounge.com/tickets/robots/">Cocktail Robotics</A> cancellation post: &quot;Weren&apos;t able to round up enough robots... maybe Plague World just isn&apos;t ready for barbots yet.&quot; <P>Curious what your read is. On one hand, TechShop closed, hackerspaces shrinking, weekend builders aging into other responsibilities. On the other, robotics as a professional field is bigger than it&apos;s ever been, so it&apos;s not that the people are gone, it&apos;s that the unpaid-saturday-night version of them is. <P>Covid artifact or structural?</TD> </TR> <TR> <TD ALIGN=LEFT VALIGN=TOP><B>jwz:</B></TD> <TD ALIGN=LEFT VALIGN=TOP>Yeah, I dunno. Maybe the spirit of whimsy has left the land. Or at least been evicted from San Francisco. <P>You&apos;re the first person to even mention Cocktail Robotics to me in I-can&apos;t-remember-how-long. So it&apos;s not as if people are banging on the door asking me &quot;Hey, when&apos;s that coming back, I&apos;ve got a cool idea...&quot; <P>And, oh wow, can you imagine what an AI-slop shitshow it would be now? Half the entries would be &quot;I made a vending machine that can talk like a sexy secretary, I think we might try to get VC funding for this&quot;.</TD> </TR> <TR> <TD ALIGN=LEFT VALIGN=TOP><B>They:</B></TD> <TD ALIGN=LEFT VALIGN=TOP>Yeah, the sexy secretary vending machine fear is real. Half the discord servers full of robotics hobbyists in 2026 are also half-full of people workshopping their seed pitch. <P></TD> </TR> <TR> <TD ALIGN=LEFT VALIGN=TOP><B>jwz:</B></TD> <TD ALIGN=LEFT VALIGN=TOP>That is horrifying and unsurprising. <P>Also that this is all happening on Discord instead of out in the open on the fediverse means that I&apos;d never even see it...</TD> </TR> <TR> <TD ALIGN=LEFT VALIGN=TOP><B>They:</B></TD> <TD ALIGN=LEFT VALIGN=TOP>Yup - I&apos;m in a handful of robotics and adjacent slack/discord communities and that&apos;s the shape of it. Maybe I&apos;m in the wrong ones. Would you say the fediverse has any meaningful SF robotics/maker presence these days? <P></TD> </TR> <TR> <TD ALIGN=LEFT VALIGN=TOP><B>jwz:</B></TD> <TD ALIGN=LEFT VALIGN=TOP>None that I&apos;ve seen! <P></TD> </TR> </TABLE> <P><A HREF="https://www.jwz.org/blog/2026/05/a-slopfondler-walks-into-a-bar-redux/">Previously</A>, <A HREF="https://www.dnalounge.com/backstage/log/2020/11/20.html">previously</A>.]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/05/speaking-of-robot-bartenders/feed/</wfw:commentRss>
+			<slash:comments>14</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A slopfondler walks into a bar, redux</title>
+		<link>https://www.jwz.org/blog/2026/05/a-slopfondler-walks-into-a-bar-redux/</link>
+					<comments>https://www.jwz.org/blog/2026/05/a-slopfondler-walks-into-a-bar-redux/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Tue, 12 May 2026 20:34:42 +0000</pubDate>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[computers]]></category>
+		<category><![CDATA[conspiracies]]></category>
+		<category><![CDATA[corporations]]></category>
+		<category><![CDATA[dnalounge]]></category>
+		<category><![CDATA[doomed]]></category>
+		<category><![CDATA[fanboys]]></category>
+		<category><![CDATA[firstperson]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk7E</guid>
+
+					<description><![CDATA[Once or twice a month some tech industry guy recognizes me at DNA Lounge. It always used to be blah blah Mozilla blah blah Code Rush, whatever... but lately all they want to do is proselytize "AI" at me. This has been 100% of fanboy interactions this year. And then they're ...]]></description>
+										<content:encoded><![CDATA[Once or twice a month some tech industry guy recognizes me at DNA Lounge. It always used to be <I>blah blah</I> Mozilla <I>blah blah</I> Code Rush, whatever... but lately all they want to do is proselytize "AI" at me. This has been 100% of fanboy interactions this year. And then they're shocked when I don't want to hear about their awesome project and in fact I tell them that what they are doing is unethical and harmful. <P>It's so weird, like: you sought me out at my place of business and the first thing you do is demonstrate that you haven't <A HREF="https://www.jwz.org/blog/2026/03/a-slopfondler-walks-into-a-bar/">read my blog</A>, ever. <P>This is getting so frequent that I feel like I would save time if I actually memorized a prepared speech. <I>"I have been asked to read the following statement."</I> <P>A couple of weeks ago one of these kids kept throwing out all of these ridiculous sci-fi what-ifs leading me to say, "I really need you to understand this, Lieutenant Commander Data is a work of fiction." <P><div style="margin-left: 2em"> "But what if you had a robot bartender who..."<BR> "So in your scenario I would have fired my friend here, who has worked at DNA for 26 years."<BR> "Well, but, but..."</div> <P>Then later he says: <P><div style="margin-left: 2em"> "You blocked me on Mastodon!"<BR> "Oh, how did you piss me off?"<BR> "Talking about AI."<BR> "This is my shocked face."</div> <P><A HREF="https://www.jwz.org/blog/2026/03/a-slopfondler-walks-into-a-bar/">Previously</A>, <A HREF="https://www.jwz.org/blog/2026/02/ai-is-a-dick-move/">previously</A>, <A HREF="https://www.jwz.org/blog/2026/01/kitten-meat-deli-slices/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/12/what-if-the-torment-nexus-was-fundamental-to-wordpress/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/08/i-am-an-ai-hater/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/08/butlerian-jihad/">previously</A>.]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/05/a-slopfondler-walks-into-a-bar-redux/feed/</wfw:commentRss>
+			<slash:comments>29</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Life imitates Carpenter once more</title>
+		<link>https://www.jwz.org/blog/2026/05/life-imitates-carpenter-once-more/</link>
+					<comments>https://www.jwz.org/blog/2026/05/life-imitates-carpenter-once-more/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Tue, 12 May 2026 19:20:02 +0000</pubDate>
+		<category><![CDATA[big brother]]></category>
+		<category><![CDATA[conspiracies]]></category>
+		<category><![CDATA[dnalounge]]></category>
+		<category><![CDATA[firstperson]]></category>
+		<category><![CDATA[grim meathook future]]></category>
+		<category><![CDATA[movies]]></category>
+		<category><![CDATA[mutants]]></category>
+		<category><![CDATA[obey]]></category>
+		<category><![CDATA[zombies]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk7B</guid>
+
+					<description><![CDATA[On Thursday, I hosted a screening of They Live. And then today this happened. Racist, election-denying, insider-trading, fascist, methane-breathing space ghoul "Coach" Tommy Tuberville busts out the Hoffman lenses.
+
+People keep describing things as "mask off" but this is ...]]></description>
+										<content:encoded><![CDATA[<DIV STYLE="text-align: center; width: 60%; max-width: 2356px; margin: 0 0 1em 1em; float: right;"><A HREF="https://cdn.jwz.org/images/2026/methane-tommy-tuberville.jpg" data-size="2356x1334"><IMG SRC="https://cdn.jwz.org/images/scaled/768/2026/methane-tommy-tuberville.jpg" WIDTH=2356 HEIGHT=1334 STYLE="width: 100%; height: auto; border: 1px solid; margin-bottom: 0.5em" SRCSET="https://cdn.jwz.org/images/2026/methane-tommy-tuberville.jpg 2356w, https://cdn.jwz.org/images/scaled/2048/2026/methane-tommy-tuberville.jpg 2048w, https://cdn.jwz.org/images/scaled/1920/2026/methane-tommy-tuberville.jpg 1920w, https://cdn.jwz.org/images/scaled/1280/2026/methane-tommy-tuberville.jpg 1280w, https://cdn.jwz.org/images/scaled/1024/2026/methane-tommy-tuberville.jpg 1024w, https://cdn.jwz.org/images/scaled/768/2026/methane-tommy-tuberville.jpg 768w, https://cdn.jwz.org/images/scaled/640/2026/methane-tommy-tuberville.jpg 640w, https://cdn.jwz.org/images/scaled/360/2026/methane-tommy-tuberville.jpg 360w" SIZES="(max-width: 660px) 60vw, 44em" LOADING="lazy" data-size="2356x1334"></A></DIV>On Thursday, I <A HREF="https://www.dnalounge.com/calendar/2026/05-07.html">hosted a screening</A> of <A HREF="https://www.jwz.org/blog/2016/10/they-live-and-the-secret-history-of-the-mozilla-logo/"><I>They Live</I></A>. And then today <A HREF="https://www.c-span.org/congress/?chamber=senate&amp;date=2026-05-12">this happened</A>. Racist, election-denying, insider-trading, fascist, methane-breathing space ghoul <A HREF="https://en.wikipedia.org/wiki/Tommy_Tuberville#Objections_to_the_2020_U.S._presidential_election">"Coach" Tommy Tuberville</A> busts out the <A HREF="https://www.jwz.org/blog/tag/obey/">Hoffman lenses</A>. <P>People keep describing things as "mask off" but this is just getting ridiculous. <P><DIV STYLE="text-align: center; width: 100%; max-width: 600px; margin: 0 auto;"><DIV STYLE="display: inline-block; margin: 2px; width: 100%;" STYLE=" margin-bottom: 0.5em"><DIV STYLE="overflow: hidden; position: relative; padding-bottom: 56.25%; display: inline-block; width: 100%;" STYLE="padding-bottom: 56%"><VIDEO STYLE="position: absolute; top: 0; left: 0; border: 0; margin: 0; padding: 0; z-index: 1; width: 100%; height: 100%;" SRC="https://cdn.jwz.org/images/2026/obey.mp4" AUTOPLAY LOOP MUTED PLAYSINLINE ALLOW="autoplay; fullscreen" ALLOWFULLSCREEN POSTER="https://cdn.jwz.org/images/2026/obey.jpg"></VIDEO></DIV></DIV></DIV> <P><A HREF="https://www.jwz.org/blog/2025/11/today-in-hoffman-lenses-4/">Previously</A>, <A HREF="https://www.jwz.org/blog/2025/10/hand-cranked-they-live-transformation/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/04/manly-tariffs/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/02/project-20251988-edition/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/02/today-in-hoffman-lenses-3/">previously</A>, <A HREF="https://www.jwz.org/blog/2023/11/happy-they-live-day-to-all-who-celebrate/">previously</A>, <A HREF="https://www.jwz.org/blog/2020/12/got-my-stimulus-hell-yeah/">previously</A>, <A HREF="https://www.jwz.org/blog/2016/10/they-live-and-the-secret-history-of-the-mozilla-logo/">previously</A>.]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/05/life-imitates-carpenter-once-more/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+		<enclosure url="https://cdn.jwz.org/images/2026/methane-tommy-tuberville.jpg" width="2356" height="1334" length="368121" type="image/jpeg"/>
+<enclosure url="https://cdn.jwz.org/images/2026/obey.jpg" length="20032" type="image/jpeg"/>
+	</item>
+		<item>
+		<title>Operation Epic Furious</title>
+		<link>https://www.jwz.org/blog/2026/05/operation-epic-furious/</link>
+					<comments>https://www.jwz.org/blog/2026/05/operation-epic-furious/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Mon, 11 May 2026 18:41:39 +0000</pubDate>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[big brother]]></category>
+		<category><![CDATA[computers]]></category>
+		<category><![CDATA[conspiracies]]></category>
+		<category><![CDATA[doomed]]></category>
+		<category><![CDATA[pranks]]></category>
+		<category><![CDATA[toys]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk6_</guid>
+
+					<description><![CDATA[Secret Handshake:
+
+Three "fully functional" arcade games were installed Monday at the District of Columbia War Memorial. According to the group, the game features "furious tweet battles against Iranian schoolgirls, low-flow shower heads, and other threats to American freedom ]]></description>
+										<content:encoded><![CDATA[<DIV STYLE="text-align: center; width: 65%; max-width: 1268px; margin: 0 0 1em 1em; float: right;"><DIV STYLE="display: flex; gap: 0.5em; margin-bottom: 0.5em;"><DIV STYLE="flex: 1"><A HREF="https://www.yahoo.com/news/articles/trump-gets-3-fully-functional-143540248.html"><IMG SRC="https://cdn.jwz.org/images/2026/8bbd80427b265e27944b53de138610e5.jpg" WIDTH=630 HEIGHT=421 STYLE="width: 100%; height: auto; border: 1px solid;" SRCSET="https://cdn.jwz.org/images/2026/8bbd80427b265e27944b53de138610e5.jpg 630w, https://cdn.jwz.org/images/scaled/360/2026/8bbd80427b265e27944b53de138610e5.jpg 360w" SIZES="(max-width: 660px) 100vw, 72em" LOADING="lazy" data-size="630x421"></A></DIV><DIV STYLE="flex: 0.9883"><A HREF="https://www.yahoo.com/news/articles/trump-gets-3-fully-functional-143540248.html"><IMG SRC="https://cdn.jwz.org/images/2026/4c8297f015739902122b862d039f26ab.jpg" WIDTH=630 HEIGHT=426 STYLE="width: 100%; height: auto; border: 1px solid;" SRCSET="https://cdn.jwz.org/images/2026/4c8297f015739902122b862d039f26ab.jpg 630w, https://cdn.jwz.org/images/scaled/360/2026/4c8297f015739902122b862d039f26ab.jpg 360w" SIZES="(max-width: 660px) 100vw, 72em" LOADING="lazy" data-size="630x426"></A></DIV></DIV><DIV STYLE="display: flex; gap: 0.5em; margin-bottom: 0.5em;"><DIV STYLE="flex: 1"><A HREF="https://www.yahoo.com/news/articles/trump-gets-3-fully-functional-143540248.html"><IMG SRC="https://cdn.jwz.org/images/2026/3b998b086fb5f748d329029c476ba088.jpg" WIDTH=630 HEIGHT=422 STYLE="width: 100%; height: auto; border: 1px solid;" SRCSET="https://cdn.jwz.org/images/2026/3b998b086fb5f748d329029c476ba088.jpg 630w, https://cdn.jwz.org/images/scaled/360/2026/3b998b086fb5f748d329029c476ba088.jpg 360w" SIZES="(max-width: 660px) 100vw, 72em" LOADING="lazy" data-size="630x422"></A></DIV><DIV STYLE="flex: 0.9701"><A HREF="https://www.yahoo.com/news/articles/trump-gets-3-fully-functional-143540248.html"><IMG SRC="https://cdn.jwz.org/images/2026/1cb5f806cb3f2926ab4f6bb42fa8f9b9.jpg" WIDTH=630 HEIGHT=435 STYLE="width: 100%; height: auto; border: 1px solid;" SRCSET="https://cdn.jwz.org/images/2026/1cb5f806cb3f2926ab4f6bb42fa8f9b9.jpg 630w, https://cdn.jwz.org/images/scaled/360/2026/1cb5f806cb3f2926ab4f6bb42fa8f9b9.jpg 360w" SIZES="(max-width: 660px) 100vw, 72em" LOADING="lazy" data-size="630x435"></A></DIV></DIV><DIV STYLE="display: flex; gap: 0.5em; margin-bottom: 0.5em;"><DIV STYLE="flex: 1"><A HREF="https://www.yahoo.com/news/articles/trump-gets-3-fully-functional-143540248.html"><IMG SRC="https://cdn.jwz.org/images/2026/c6fb8b647fe06f46939539184e66dc7e.jpg" WIDTH=630 HEIGHT=469 STYLE="width: 100%; height: auto; border: 1px solid;" SRCSET="https://cdn.jwz.org/images/2026/c6fb8b647fe06f46939539184e66dc7e.jpg 630w, https://cdn.jwz.org/images/scaled/360/2026/c6fb8b647fe06f46939539184e66dc7e.jpg 360w" SIZES="(max-width: 660px) 100vw, 72em" LOADING="lazy" data-size="630x469"></A></DIV><DIV STYLE="flex: 0.654"><A HREF="https://www.yahoo.com/news/articles/trump-gets-3-fully-functional-143540248.html"><IMG SRC="https://cdn.jwz.org/images/2026/bafkreigsjwen35ja2vwwu3gbu5gjd3ntivs.jpg" WIDTH=752 HEIGHT=856 STYLE="width: 100%; height: auto; border: 1px solid;" SRCSET="https://cdn.jwz.org/images/2026/bafkreigsjwen35ja2vwwu3gbu5gjd3ntivs.jpg 752w, https://cdn.jwz.org/images/scaled/640/2026/bafkreigsjwen35ja2vwwu3gbu5gjd3ntivs.jpg 640w, https://cdn.jwz.org/images/scaled/360/2026/bafkreigsjwen35ja2vwwu3gbu5gjd3ntivs.jpg 360w" SIZES="(max-width: 660px) 100vw, 72em" LOADING="lazy" data-size="752x856"></A></DIV></DIV></DIV><A HREF="https://www.yahoo.com/news/articles/trump-gets-3-fully-functional-143540248.html">Secret Handshake:</A> <P><BLOCKQUOTE STYLE="margin: 1em 0 1em 1.5em; padding: 0.75em 0.5em 0.75em 1em; border: 1px solid; border-left: 4px solid;"> <P>Three "fully functional" arcade games were installed Monday at the District of Columbia War Memorial. According to the group, the game features "furious tweet battles against Iranian schoolgirls, low-flow shower heads, and other threats to American freedom like DEI and The Pope, and an opportunity to collect several Trump style peace trophies." <P>"Just to save you time, the only way you can lose is by trying to hold Melania's hand. But it's The Middle East, so you also can't win either," the group said in a statement shared with HuffPost. <P>A plaque next to the machines states: "The Trump administration knows that the best way to sell combat is by making it a video game, that's why they've been pumping out the 'sickest' Iran War video game hype reels. But why stop at clips when you could go full throttle? Introducing Operation Epic Furious: Strait to Hell, a high-octane, flag-waving, boots-on-the-ground simulator where freedom isn't debated, it's deployed. No briefings, no hesitation; just pure pixelated patriotism. Strap in and play hard, because this game may never end." <P>The arcade games are expected to stay at the D.C. War Memorial, located near the reflecting pool in West Potomac Park, for a few days. The group also made the game <A HREF="https://www.epicfurious.com/">available online</A>. <I>[currently not working.]</I></BLOCKQUOTE> <P><A HREF="https://www.jwz.org/blog/2026/04/operation-dildo-blitz/">Previously</A>, <A HREF="https://www.jwz.org/blog/2025/09/maga-is-mad-at-gwar/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/09/the-alleged-sandwich/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/06/always-scrub-your-travel-phone-of-jd-vance-memes/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/04/cage-tech/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/02/toesucker-in-chief/">previously</A>, <A HREF="https://www.jwz.org/blog/2023/11/happy-four-seasons-total-landscaping-day-to-all-who-celebrate/">previously</A>, <A HREF="https://www.jwz.org/blog/2022/07/big-grandma-energy/">previously</A>, <A HREF="https://www.jwz.org/blog/2014/09/naked-saluting-satan-statue-removed-from-vancouver-park/">previously</A>.]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/05/operation-epic-furious/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<enclosure url="https://cdn.jwz.org/images/2026/8bbd80427b265e27944b53de138610e5.jpg" width="630" height="421" length="125335" type="image/jpeg"/>
+<enclosure url="https://cdn.jwz.org/images/2026/4c8297f015739902122b862d039f26ab.jpg" width="630" height="426" length="113776" type="image/jpeg"/>
+<enclosure url="https://cdn.jwz.org/images/2026/3b998b086fb5f748d329029c476ba088.jpg" width="630" height="422" length="127652" type="image/jpeg"/>
+<enclosure url="https://cdn.jwz.org/images/2026/1cb5f806cb3f2926ab4f6bb42fa8f9b9.jpg" width="630" height="435" length="121414" type="image/jpeg"/>
+	</item>
+		<item>
+		<title>This fountain is not going down without a fight!</title>
+		<link>https://www.jwz.org/blog/2026/05/this-fountain-is-not-going-down-without-a-fight/</link>
+					<comments>https://www.jwz.org/blog/2026/05/this-fountain-is-not-going-down-without-a-fight/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Thu, 07 May 2026 00:41:19 +0000</pubDate>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[doomed]]></category>
+		<category><![CDATA[mpegs]]></category>
+		<category><![CDATA[sf]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk69</guid>
+
+					<description><![CDATA[Flames erupt as crews dismantle Vaillancourt Fountain:]]></description>
+										<content:encoded><![CDATA[<DIV ALIGN=CENTER><A HREF="https://www.sfchronicle.com/sf/article/vaillancourt-fountain-fire-embarcadero-22245314.php">Flames erupt as crews dismantle Vaillancourt Fountain:</A></DIV> <P><DIV STYLE="text-align: center; width: 100%; max-width: 1280px; margin: 0 auto;"><DIV STYLE="display: flex; gap: 0.5em; margin-bottom: 0.5em;"><DIV STYLE="flex: 1"><A HREF="https://www.sfchronicle.com/sf/article/vaillancourt-fountain-fire-embarcadero-22245314.php"><IMG SRC="https://cdn.jwz.org/images/scaled/768/2026/960x0.jpg" WIDTH=960 HEIGHT=640 STYLE="width: 100%; height: auto; border: 1px solid;" SRCSET="https://cdn.jwz.org/images/2026/960x0.jpg 960w, https://cdn.jwz.org/images/scaled/768/2026/960x0.jpg 768w, https://cdn.jwz.org/images/scaled/640/2026/960x0.jpg 640w, https://cdn.jwz.org/images/scaled/360/2026/960x0.jpg 360w" SIZES="(max-width: 660px) 100vw, 72em" LOADING="lazy" data-size="960x640"></A></DIV><DIV STYLE="flex: 1"><A HREF="https://www.sfchronicle.com/sf/article/vaillancourt-fountain-fire-embarcadero-22245314.php"><IMG SRC="https://cdn.jwz.org/images/scaled/768/2026/960x0-2.jpg" WIDTH=960 HEIGHT=640 STYLE="width: 100%; height: auto; border: 1px solid;" SRCSET="https://cdn.jwz.org/images/2026/960x0-2.jpg 960w, https://cdn.jwz.org/images/scaled/768/2026/960x0-2.jpg 768w, https://cdn.jwz.org/images/scaled/640/2026/960x0-2.jpg 640w, https://cdn.jwz.org/images/scaled/360/2026/960x0-2.jpg 360w" SIZES="(max-width: 660px) 100vw, 72em" LOADING="lazy" data-size="960x640"></A></DIV></DIV><DIV STYLE="display: flex; gap: 0.5em; margin-bottom: 0.5em;"><DIV STYLE="flex: 1"><DIV STYLE="display: inline-block; margin: 2px; width: 100%;" STYLE="margin: 0; max-width: 400px;"><DIV STYLE="overflow: hidden; position: relative; padding-bottom: 56.25%; display: inline-block; width: 100%;" ><A HREF="https://www.youtube.com/watch?v=eBZLC8bpqDg" ONCLICK="return popup_video(this)"><DIV STYLE="position: absolute; top: 0; left: 0; border: 0; margin: 0; padding: 0; z-index: 1; width: 100%; height: 100%;" STYLE="background-image: url('https://cdn.jwz.org/images/2026/hqdefault-6.jpg')"><DIV ><DIV >&#x25B6;&#xFE0E;</DIV></DIV></DIV></A></DIV></DIV></DIV><DIV STYLE="flex: 1"><DIV STYLE="display: inline-block; margin: 2px; width: 100%;" STYLE="margin: 0; max-width: 400px;"><DIV STYLE="overflow: hidden; position: relative; padding-bottom: 56.25%; display: inline-block; width: 100%;" ><A HREF="https://www.youtube.com/watch?v=kMbBUDtDyI4" ONCLICK="return popup_video(this)"><DIV STYLE="position: absolute; top: 0; left: 0; border: 0; margin: 0; padding: 0; z-index: 1; width: 100%; height: 100%;" STYLE="background-image: url('https://cdn.jwz.org/images/2026/hqdefault-7.jpg')"><DIV ><DIV >&#x25B6;&#xFE0E;</DIV></DIV></DIV></A></DIV></DIV></DIV></DIV> <P><A HREF="https://www.jwz.org/blog/2025/07/we-cant-have-nice-fountains/">Previously</A>, <A HREF="https://www.jwz.org/blog/2025/08/we-cant-have-nice-fountains-part-2/">previously</A>, <A HREF="https://www.jwz.org/blog/2026/02/futre-of-the-ferry-building/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/11/we-cant-have-nice-fountains-part-3/">previously</A>, <A HREF="https://www.jwz.org/blog/2018/06/this-color-is-deeply-unsettling/">previously</A>, <A HREF="https://www.jwz.org/blog/2015/07/architecture-fail/">previously</A>, <A HREF="https://www.jwz.org/blog/2008/05/damned-dirty-apes-2/">previously</A>, <A HREF="https://www.jwz.org/blog/2018/05/some-dragons-just-want-to-watch-the-world-burn-wait-thats-all-dragons/">previously</A>, <A HREF="https://www.jwz.org/blog/2017/12/some-elves-just-want-to-watch-the-world-burn/">previously</A>, <A HREF="https://www.jwz.org/blog/2018/06/this-is-fine-3/">previously</A>.</DIV>]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/05/this-fountain-is-not-going-down-without-a-fight/feed/</wfw:commentRss>
+			<slash:comments>22</slash:comments>
+		
+		
+		<enclosure url="https://cdn.jwz.org/images/2026/960x0.jpg" width="960" height="640" length="216234" type="image/jpeg"/>
+<enclosure url="https://cdn.jwz.org/images/2026/960x0-2.jpg" width="960" height="640" length="179785" type="image/jpeg"/>
+<enclosure url="https://cdn.jwz.org/images/2026/hqdefault-6.jpg" length="96100" type="image/jpeg"/>
+<enclosure url="https://cdn.jwz.org/images/2026/hqdefault-7.jpg" length="93629" type="image/jpeg"/>
+	</item>
+		<item>
+		<title>Last Days of Playland</title>
+		<link>https://www.jwz.org/blog/2026/05/last-days-of-playland/</link>
+					<comments>https://www.jwz.org/blog/2026/05/last-days-of-playland/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Wed, 06 May 2026 20:06:28 +0000</pubDate>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[sf]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk66</guid>
+
+					<description><![CDATA[SF Memory:]]></description>
+										<content:encoded><![CDATA[<DIV ALIGN=CENTER><A HREF="https://sfmemory.org/Update/2026-05-06">SF Memory:</A></DIV> <P><DIV STYLE="text-align: center; width: 100%; max-width: 1356px; margin: 0 auto;"><DIV STYLE="display: flex; gap: 0.5em; margin-bottom: 0.5em;"><DIV STYLE="flex: 1"><A HREF="https://sfmemory.org/Update/2026-05-06"><IMG SRC="https://cdn.jwz.org/images/2026/sfm005-02805.jpg" WIDTH=678 HEIGHT=1000 STYLE="width: 100%; height: auto; border: 1px solid;" SRCSET="https://cdn.jwz.org/images/2026/sfm005-02805.jpg 678w, https://cdn.jwz.org/images/scaled/640/2026/sfm005-02805.jpg 640w, https://cdn.jwz.org/images/scaled/360/2026/sfm005-02805.jpg 360w" SIZES="(max-width: 660px) 100vw, 72em" LOADING="lazy" data-size="678x1000"></A></DIV><DIV STYLE="flex: 1"><A HREF="https://sfmemory.org/Update/2026-05-06"><IMG SRC="https://cdn.jwz.org/images/2026/sfm005-02786.jpg" WIDTH=678 HEIGHT=1000 STYLE="width: 100%; height: auto; border: 1px solid;" SRCSET="https://cdn.jwz.org/images/2026/sfm005-02786.jpg 678w, https://cdn.jwz.org/images/scaled/640/2026/sfm005-02786.jpg 640w, https://cdn.jwz.org/images/scaled/360/2026/sfm005-02786.jpg 360w" SIZES="(max-width: 660px) 100vw, 72em" LOADING="lazy" data-size="678x1000"></A></DIV></DIV><DIV STYLE="display: flex; gap: 0.5em; margin-bottom: 0.5em;"><DIV STYLE="flex: 1"><A HREF="https://sfmemory.org/Update/2026-05-06"><IMG SRC="https://cdn.jwz.org/images/scaled/768/2026/sfm005-02793.jpg" WIDTH=1000 HEIGHT=678 STYLE="width: 100%; height: auto; border: 1px solid;" SRCSET="https://cdn.jwz.org/images/2026/sfm005-02793.jpg 1000w, https://cdn.jwz.org/images/scaled/768/2026/sfm005-02793.jpg 768w, https://cdn.jwz.org/images/scaled/640/2026/sfm005-02793.jpg 640w, https://cdn.jwz.org/images/scaled/360/2026/sfm005-02793.jpg 360w" SIZES="(max-width: 660px) 100vw, 72em" LOADING="lazy" data-size="1000x678"></A></DIV><DIV STYLE="flex: 0.4597"><A HREF="https://sfmemory.org/Update/2026-05-06"><IMG SRC="https://cdn.jwz.org/images/2026/sfm005-02812.jpg" WIDTH=678 HEIGHT=1000 STYLE="width: 100%; height: auto; border: 1px solid;" SRCSET="https://cdn.jwz.org/images/2026/sfm005-02812.jpg 678w, https://cdn.jwz.org/images/scaled/640/2026/sfm005-02812.jpg 640w, https://cdn.jwz.org/images/scaled/360/2026/sfm005-02812.jpg 360w" SIZES="(max-width: 660px) 100vw, 72em" LOADING="lazy" data-size="678x1000"></A></DIV></DIV> <P><A HREF="https://www.jwz.org/blog/2018/07/playland-not-at-the-beach-is-closing/">Previously</A>, <A HREF="https://www.jwz.org/blog/2018/08/completely-normal-waterpark-ho-thuy-tien/">previously</A>, <A HREF="https://www.jwz.org/blog/2017/05/feed-the-mermaids/">previously</A>, <A HREF="https://www.jwz.org/blog/2017/09/a-showman-to-the-end-his-gorilla-suits-launched-a-costume-empire/">previously</A>, <A HREF="https://www.jwz.org/blog/2021/10/some-words-of-advice-for-owners-of-skeletons/">previously</A>.</DIV>]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/05/last-days-of-playland/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<enclosure url="https://cdn.jwz.org/images/2026/sfm005-02805.jpg" width="678" height="1000" length="279971" type="image/jpeg"/>
+<enclosure url="https://cdn.jwz.org/images/2026/sfm005-02786.jpg" width="678" height="1000" length="238562" type="image/jpeg"/>
+<enclosure url="https://cdn.jwz.org/images/2026/sfm005-02793.jpg" width="1000" height="678" length="292462" type="image/jpeg"/>
+<enclosure url="https://cdn.jwz.org/images/2026/sfm005-02812.jpg" width="678" height="1000" length="192904" type="image/jpeg"/>
+	</item>
+		<item>
+		<title>File systems</title>
+		<link>https://www.jwz.org/blog/2026/05/file-systems/</link>
+					<comments>https://www.jwz.org/blog/2026/05/file-systems/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Wed, 06 May 2026 06:09:27 +0000</pubDate>
+		<category><![CDATA[computers]]></category>
+		<category><![CDATA[firstperson]]></category>
+		<category><![CDATA[lazyweb]]></category>
+		<category><![CDATA[mac]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk64</guid>
+
+					<description><![CDATA[Dear Lazyweb,
+
+For an external USB 5TB+ spinning disk (not SSD), is HFS a better choice than APFS? Assume no weird edge cases like spanning volumes or RAID are involved. It's just a disk.
+
+It is very easy to find either answer, but hard to find one that sounds like it's from ]]></description>
+										<content:encoded><![CDATA[Dear Lazyweb, <P>For an external USB 5TB+ spinning disk (not SSD), is HFS a better choice than APFS? Assume no weird edge cases like spanning volumes or RAID are involved. It's just a disk. <P>It is very easy to find <I>either</I> answer, but hard to find one that sounds like it's from someone who knows what they are talking about, and isn't just cargo-culting it or reading from a press release. So show your work. <P><A HREF="https://www.jwz.org/blog/2024/08/time-machine/">Previously</A>, <A HREF="https://www.jwz.org/blog/2023/04/time-machine-got-weirder/">previously</A>, <A HREF="https://www.jwz.org/blog/2020/05/readonly/">previously</A>, <A HREF="https://www.jwz.org/blog/2019/11/some-stupid-things-about-macos-that-i-learned-today/">previously</A>.]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/05/file-systems/feed/</wfw:commentRss>
+			<slash:comments>24</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Happy time_t 1777777777 to all who celebrate</title>
+		<link>https://www.jwz.org/blog/2026/05/happy-time_t-1777777777-to-all-who-celebrate/</link>
+					<comments>https://www.jwz.org/blog/2026/05/happy-time_t-1777777777-to-all-who-celebrate/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Sun, 03 May 2026 03:09:07 +0000</pubDate>
+		<category><![CDATA[computers]]></category>
+		<category><![CDATA[firstperson]]></category>
+		<category><![CDATA[time_t]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk62</guid>
+
+					<description><![CDATA[# date +'%F %r %Z = %s'
+2026-05-02 08:09:37 PM PDT = 1777777777]]></description>
+										<content:encoded><![CDATA[<DIV STYLE="text-align: center; width: 35%; max-width: 597px; margin: 0 0 1em 1em; float: right;"><A HREF="https://cdn.jwz.org/images/2023/y2038.jpg" data-size="597x395"><IMG SRC="https://cdn.jwz.org/images/2023/y2038.jpg" WIDTH=597 HEIGHT=395 STYLE="width: 100%; height: auto; border: 1px solid; margin-bottom: 0.5em" SRCSET="https://cdn.jwz.org/images/2023/y2038.jpg 597w, https://cdn.jwz.org/images/scaled/360/2023/y2038.jpg 360w" SIZES="(max-width: 660px) 35vw, 26em" LOADING="lazy" data-size="597x395"></A></DIV><tt><b># date +'%F %r %Z = %s'</b><br> 2026-05-02 08:09:37 PM PDT = 1777777777</tt> <P><br> <P><A HREF="https://www.jwz.org/blog/2017/07/time_t-1500000000/">Previously</A>, <A HREF="https://www.jwz.org/blog/2009/02/today-in-time-t-news/">previously</A>, <A HREF="https://www.jwz.org/blog/2004/01/1000000000000000000000000000000-seconds/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/05/y2232-bug/">previously</A>, <A HREF="https://www.jwz.org/blog/2024/03/time_t-is-not-gmt/">previously</A>, <A HREF="https://www.dnalounge.com/backstage/log/2024/03/02.html">previously</A>, <A HREF="https://www.jwz.org/blog/2024/02/today-in-daylight-savings-chaos-monkey/">previously</A>, <A HREF="https://www.jwz.org/blog/2024/02/the-time_t-is-now/">previously</A>, <A HREF="https://www.jwz.org/blog/2023/11/daylight-savings-your-biannual-chaos-monkey/">previously</A>, <A HREF="https://www.jwz.org/blog/2021/02/reminder-that-the-y2k-bug-is-old-enough-to-drink/">previously</A>, <A HREF="https://www.jwz.org/blog/2020/11/leap-second-news/">previously</A>, <A HREF="https://www.jwz.org/blog/2017/05/a-look-at-horologys-easter-problem/">previously</A>, <A HREF="https://www.jwz.org/blog/2006/04/123456/">previously</A>.]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/05/happy-time_t-1777777777-to-all-who-celebrate/feed/</wfw:commentRss>
+			<slash:comments>13</slash:comments>
+		
+		
+		<enclosure url="https://cdn.jwz.org/images/2023/y2038.jpg" width="597" height="395" length="102919" type="image/jpeg"/>
+	</item>
+		<item>
+		<title>A C A Bee</title>
+		<link>https://www.jwz.org/blog/2026/05/a-c-a-bee/</link>
+					<comments>https://www.jwz.org/blog/2026/05/a-c-a-bee/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Sat, 02 May 2026 20:27:02 +0000</pubDate>
+		<category><![CDATA[big brother]]></category>
+		<category><![CDATA[pranks]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[stormtroopers]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk60</guid>
+
+					<description><![CDATA[Six-Month Sentence in Bee-Assault Case:
+
+She seems to have argued at trial that she had no intent to harm anyone, and had only released the bees so they could "enjoy the lovely, flowering landscape" in the area. The landscape was also infested with deputies, though, and the ...]]></description>
+										<content:encoded><![CDATA[<DIV STYLE="text-align: center; width: 30%; max-width: 768px; margin: 0 0 1em 1em; float: right;"><A HREF="https://www.loweringthebar.net/2026/05/six-month-sentence-in-bee-assault-case.html"><IMG SRC="https://cdn.jwz.org/images/2022/aa139aj7.img.jpg" WIDTH=768 HEIGHT=960 STYLE="width: 100%; height: auto; border: 1px solid; margin-bottom: 0.5em" SRCSET="https://cdn.jwz.org/images/2022/aa139aj7.img.jpg 768w, https://cdn.jwz.org/images/scaled/640/2022/aa139aj7.img.jpg 640w, https://cdn.jwz.org/images/scaled/360/2022/aa139aj7.img.jpg 360w" SIZES="(max-width: 660px) 30vw, 22em" LOADING="lazy" data-size="768x960"></A></DIV><A HREF="https://www.loweringthebar.net/2026/05/six-month-sentence-in-bee-assault-case.html">Six-Month Sentence in Bee-Assault Case</A> <P><BLOCKQUOTE STYLE="margin: 1em 0 1em 1.5em; padding: 0.75em 0.5em 0.75em 1em; border: 1px solid; border-left: 4px solid;"> <P>She seems to have argued at trial that she had no intent to harm anyone, and had only released the bees so they could "enjoy the lovely, flowering landscape" in the area. The landscape was also infested with deputies, though, and the jury does not seem to have believed that was a coincidence. [...] <P>I've seen no evidence that the one deputy taken to the hospital suffered from anaphylactic shock. It seems a lot more likely that his "elevated heart rate" was caused by his decision to tackle a 59-year-old beekeeper than by the bees themselves. But I'm speculating about that. [...] <P>This week, the judge sentenced Woods to six months on those charges. According to her lawyer, with time served she will be out in two weeks anyway. [...] <P>Finally, kudos to <I>The Guardian</I> for refusing to let society ignore the real victims in this case: the bees. "[A]bout a thousand of Woods's bees died during the encounter," it reported, "many of them crushed when several hives toppled as she wrestled with deputies trying to arrest her, and others because female honeybees die after delivering their sting." I assume that "about a thousand" is based on a careful reckoning by a court-appointed bee expert and not just a number that Woods threw out there. Regardless, while I don't really buy the deputies' story here, I do sympathize with the bees. They have enough trouble these days without humans getting them involved in dispute resolution. Leave the bees out of it.</BLOCKQUOTE> <P><A HREF="https://www.jwz.org/blog/2022/10/not-the-hero-we-deserve-but-the-hero-we-need/">Previously</A>, <A HREF="https://www.jwz.org/blog/2025/05/today-in-acab-7/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/07/radioactive-wasps/">previously</A>, <A HREF="https://www.jwz.org/blog/2024/05/most-of-15-million-bees-contained/">previously</A>, <A HREF="https://www.jwz.org/blog/2023/08/bees/">previously</A>, <A HREF="https://www.jwz.org/blog/2018/01/security-failure-epipens-database-of-everyone-whos-allergic-to-bees-has-been-obtained-by-bees/">previously</A>, <A HREF="https://www.jwz.org/blog/2017/06/beehive-chop-shop/">previously</A>.]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/05/a-c-a-bee/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+		<enclosure url="https://cdn.jwz.org/images/2022/aa139aj7.img.jpg" width="768" height="960" length="79632" type="image/jpeg"/>
+	</item>
+		<item>
+		<title>Fake Courtesy Machine</title>
+		<link>https://www.jwz.org/blog/2026/05/fake-courtesy-machine/</link>
+					<comments>https://www.jwz.org/blog/2026/05/fake-courtesy-machine/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Sat, 02 May 2026 18:10:19 +0000</pubDate>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[computers]]></category>
+		<category><![CDATA[mad science]]></category>
+		<category><![CDATA[mail]]></category>
+		<category><![CDATA[mpegs]]></category>
+		<category><![CDATA[robots]]></category>
+		<category><![CDATA[spam]]></category>
+		<category><![CDATA[toys]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk6y</guid>
+
+					<description><![CDATA[Amadeo Capelli:]]></description>
+										<content:encoded><![CDATA[<DIV ALIGN=CENTER><A HREF="https://www.youtube.com/@stoccafissodesign2569">Amadeo Capelli:</A> </DIV> <P><DIV STYLE="text-align: center; width: 100%; max-width: 320px; margin: 0 auto;"><DIV STYLE="display: inline-block; margin: 2px; width: 100%;" STYLE=" margin-bottom: 0.5em max-width: 400px;"><DIV STYLE="overflow: hidden; position: relative; padding-bottom: 56.25%; display: inline-block; width: 100%;" ><A HREF="https://www.youtube.com/watch?v=qKs_-uN6SSQ" ONCLICK="return popup_video(this)"><DIV STYLE="position: absolute; top: 0; left: 0; border: 0; margin: 0; padding: 0; z-index: 1; width: 100%; height: 100%;" STYLE="background-image: url('https://cdn.jwz.org/images/2026/hqdefault-5.jpg')"><DIV ><DIV >&#x25B6;&#xFE0E;</DIV></DIV></DIV></A></DIV></DIV> <P><A HREF="https://www.jwz.org/blog/2018/02/a-portrait-of-the-artist-as-a-pelvic-thrusting-rotisserie-chicken/">Previously</A>, <A HREF="https://www.jwz.org/blog/2012/08/cup-the-balls/">previously</A>, <A HREF="https://www.jwz.org/blog/2026/02/having-a-plurality-of-actuators/">previously</A>, <A HREF="https://www.jwz.org/blog/2022/01/great-moments-in-patents-all-skeletons-are-bastards/">previously</A>, <A HREF="https://www.jwz.org/blog/2024/05/ai-would-like-you-to-know-what-it-thinks-about-you/">previously</A>, <A HREF="https://www.jwz.org/blog/2026/04/sms-chatbots-are-going-great/">previously</A>, <A HREF="https://www.jwz.org/blog/2010/11/steampunk-yeah-its-kind-of-like-that/">previously</A>, <A HREF="https://www.jwz.org/blog/2011/01/how-to-tie-a-necktie-skynet-edition/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/01/new-gmail-war-crime-spotted-in-the-wild/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/12/today-in-email-hegemony-2/">previously</A>, <A HREF="https://www.jwz.org/blog/2022/10/juggling-robot-or-not/">previously</A>, <A HREF="https://www.jwz.org/blog/2005/08/jules-vernes-three-laws-of-automata/">previously</A>.</DIV>]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/05/fake-courtesy-machine/feed/</wfw:commentRss>
+			<slash:comments>19</slash:comments>
+		
+		
+		<enclosure url="https://cdn.jwz.org/images/2026/hqdefault-5.jpg" length="7812" type="image/jpeg"/>
+	</item>
+		<item>
+		<title>Single-issue voters</title>
+		<link>https://www.jwz.org/blog/2026/04/single-issue-voters/</link>
+					<comments>https://www.jwz.org/blog/2026/04/single-issue-voters/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Mon, 27 Apr 2026 21:57:09 +0000</pubDate>
+		<category><![CDATA[big brother]]></category>
+		<category><![CDATA[bike]]></category>
+		<category><![CDATA[conspiracies]]></category>
+		<category><![CDATA[doomed]]></category>
+		<category><![CDATA[firstperson]]></category>
+		<category><![CDATA[sf]]></category>
+		<category><![CDATA[sprawl]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk6w</guid>
+
+					<description><![CDATA[It continues to amaze me that everyone in the Sunset is a single-issue voter, and that issue is wanting to turn a park into a freeway.
+
+District 4 shaping up to be San Francisco's loudest and silliest race:
+
+This level of turmoil befitting a Latin American junta is, again, ...]]></description>
+										<content:encoded><![CDATA[<DIV STYLE="text-align: center; width: 35%; max-width: 2270px; margin: 0 0 1em 1em; float: right;"><A HREF="https://missionlocal.org/2026/04/district-4-supervisor-silly/"><IMG SRC="https://cdn.jwz.org/images/scaled/768/2026/dscf0732-scaled-e1776366180200.jpg" WIDTH=2270 HEIGHT=1702 STYLE="width: 100%; height: auto; border: 1px solid; margin-bottom: 0.5em" SRCSET="https://cdn.jwz.org/images/2026/dscf0732-scaled-e1776366180200.jpg 2270w, https://cdn.jwz.org/images/scaled/2048/2026/dscf0732-scaled-e1776366180200.jpg 2048w, https://cdn.jwz.org/images/scaled/1920/2026/dscf0732-scaled-e1776366180200.jpg 1920w, https://cdn.jwz.org/images/scaled/1280/2026/dscf0732-scaled-e1776366180200.jpg 1280w, https://cdn.jwz.org/images/scaled/1024/2026/dscf0732-scaled-e1776366180200.jpg 1024w, https://cdn.jwz.org/images/scaled/768/2026/dscf0732-scaled-e1776366180200.jpg 768w, https://cdn.jwz.org/images/scaled/640/2026/dscf0732-scaled-e1776366180200.jpg 640w, https://cdn.jwz.org/images/scaled/360/2026/dscf0732-scaled-e1776366180200.jpg 360w" SIZES="(max-width: 660px) 35vw, 26em" LOADING="lazy" data-size="2270x1702"></A></DIV>It continues to amaze me that everyone in the Sunset is a single-issue voter, and that issue is wanting to turn a park into a freeway. <P><A HREF="https://missionlocal.org/2026/04/district-4-supervisor-silly/">District 4 shaping up to be San Francisco's loudest and silliest race:</A> <P><BLOCKQUOTE STYLE="margin: 1em 0 1em 1.5em; padding: 0.75em 0.5em 0.75em 1em; border: 1px solid; border-left: 4px solid;"> <P>This level of turmoil befitting a Latin American junta is, again, incongruous for a nice, quiet little beach community. But, again, don't believe it -- this is a place where odd stuff happens. District 4 voters have managed to elect two representatives who later spent time in federal prison -- Leland Yee and Ed Jew. Other than Dan White, who murdered Mayor George Moscone and Supervisor Harvey Milk, the only supes to be incarcerated have been from District 4. And, for what it's worth, both of them went down for on-the-job crimes. [...] In the era of district elections, no D4 supervisor has served two full terms. No district has run through more representatives than District 4. [...] <P>And yet these are the issues getting the most play in this race: hand-waving about a done-deal zoning plan, calling for the installation of a Great Highway on top of Great Highway and pushing distorted and hyperbolic crime narratives during a time of citywide and nationwide crime reductions. But it gets better: All of this is being undertaken via a tsunami of third-party cash. Vast sums of money are flowing into the sleepy Sunset to further rile everyone up.</BLOCKQUOTE> <P><A HREF="https://www.jwz.org/blog/2026/01/car-brain/">Previously</A>, <A HREF="https://www.jwz.org/blog/2025/08/danny-bluejeans-loves-cars/">previously</A>, <A HREF="https://www.jwz.org/blog/2024/08/find-someone-who-loves-you-like-matt-boschetto-loves-freeways/">previously</A>, <A HREF="https://www.jwz.org/blog/2024/05/merchants-are-getting-people-killed/">previously</A>, <A HREF="https://www.jwz.org/blog/2023/07/we-regret-this-bike-lane/">previously</A>, <A HREF="https://www.jwz.org/blog/2023/11/just-one-more-lane-bro-bro-i-swear-just-one-more-lane-and-itll-fix-the-traffic-bro/">previously</A>.]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/04/single-issue-voters/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+		<enclosure url="https://cdn.jwz.org/images/2026/dscf0732-scaled-e1776366180200.jpg" width="2270" height="1702" length="407567" type="image/jpeg"/>
+	</item>
+		<item>
+		<title>Respectful</title>
+		<link>https://www.jwz.org/blog/2026/04/respectful/</link>
+					<comments>https://www.jwz.org/blog/2026/04/respectful/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Mon, 27 Apr 2026 18:43:21 +0000</pubDate>
+		<category><![CDATA[corporations]]></category>
+		<category><![CDATA[doomed]]></category>
+		<category><![CDATA[firstperson]]></category>
+		<category><![CDATA[sf]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk6u</guid>
+
+					<description><![CDATA[Per my previous email to my HOA's management company regarding the third unannounced multi-hour water shut-off in two weeks, they "kindly ask that all communications remain respectful".]]></description>
+										<content:encoded><![CDATA[Per my previous email to my HOA's management company regarding the third unannounced multi-hour water shut-off in two weeks, they "kindly ask that all communications remain respectful". <P><A HREF="https://www.jwz.org/blog/2025/04/butterflymx-is-going-great/">Previously</A>, <A HREF="https://www.jwz.org/blog/2015/09/exercise-vague-caution/">previously</A>, <A HREF="https://www.jwz.org/blog/2015/10/exercising-my-vague-caution/">previously</A>, <A HREF="https://www.jwz.org/blog/2015/09/exercise-vague-spartacus/">previously</A>, <A HREF="https://www.jwz.org/blog/2015/12/exercise-vague-joy/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/02/on-blocking-mastodon-hoa-edition/">previously</A>.]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/04/respectful/feed/</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>DNA Lounge: Wherein we have a gallery of dick pix</title>
+		<link>https://www.dnalounge.com/backstage/log/2026/04/25.html</link>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Sat, 25 Apr 2026 22:01:46 +0000</pubDate>
+		<category><![CDATA[dnalounge]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk6r</guid>
+
+					<description><![CDATA[When people sign their names on the point-of-sale tablet at the bar, at least half of those signatures are "wavy horizontal line". Most of the rest are an attempt at an actual signature, but probably only about 1 in 1000 of those have anything in them that you would perceive ]]></description>
+										<content:encoded><![CDATA[When people sign their names on the point-of-sale tablet at the bar, at least half of those signatures are "wavy horizontal line". Most of the rest are an attempt at an actual signature, but probably only about 1 in 1000 of those have anything in them that you would perceive as letters, or in fact, writing. <P>And about 1 time in 100, the customer draws a little picture for us instead. So I thought I should <A HREF="https://www.dnalounge.com/gallery/2026/signatures/">share some of those.</A> <P>If you're thinking, "they're all dicks, aren't they"... <P><DIV STYLE="text-align: center; width: 100%; max-width: 200px; margin: 0 auto;"><A HREF="https://www.dnalounge.com/gallery/2026/signatures/"><IMG SRC="https://cdn.dnalounge.com/gallery/2026/signatures/001.jpg" data-size="400x116" WIDTH=400 HEIGHT=116 STYLE="width: 100%; height: auto; border: 1px solid; padding: 0.5em; margin-bottom: 0.5em"></A></DIV> <P>...you are a smart person. <P>Of the drawings, I'd say that it's 90% dongs; the rest are a mixture of smilies, pentagrams and cats, in about that order. <P>(I especially like the ones that just wrote out the word <I>"PENIS",</I> which is like, the Philip K. Dick of dicks.) <P>To generate this gallery, I had to place eyeballs on <I>hundreds of thousands</I> of signatures, going back to 2021. That's right, I just white-knuckled it, you're welcome. (If you're about to start replying with <I>"Why Didn't You Just",</I> I am begging you to <I>Not</I>.) <P>Now, if you're thinking, "Wait, why do you even still <I>have</I> that 5-year-old data"... you are, again, a smart person. <P>Even though the payment processors won't let you issue a refund or a chargeback on a transaction older than 6 months, our point-of-sale saves every bit of information it has about every transaction forever. "Oh geez, you should delete that" you might be thinking. There literally is not a delete button. <P>After a year, one might want to look at daily graphs, but there's no way you'd care about individual transactions, or anything of higher aggregate resolution than "hourly". Maybe "10 minutes" if you're a complete maniac. But nope, we still have the full PDF of the receipt, including name, last-four, scrawled signature and exactly what products were purchased. <P>(Though, the customer name isn't included most of the time, only sometimes. I'm not sure what the difference is.) <P>Anyway that means that when -- not if, <I>when</I> -- this vendor gets popped, all of that data will be stolen, sold, laundered, mixed, and purchased by a data broker who will annotate their profile about you with how much you drink and what, how many nights a week, and whether you attend gay parties. Some of it might even be true! That profile will then be purchased by your car insurance company, your health insurance company, the recruiters used by every future employer, Google, Amazon, Instagram, ICE, TSA, FBI, CIA, all of the "AI" companies, and Deputy Dewey of the East Cowfuck, Texas Police Department. <P>Oh no, what started off as a juvenile story about poorly-drawn dicks turned into a dystopian nightmare. Welp.]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://cdn.dnalounge.com/gallery/2026/signatures/001.jpg" width="400" height="116" type="image/jpeg"/>
+	</item>
+		<item>
+		<title>Everything Is Free And Nothing Matters</title>
+		<link>https://www.jwz.org/blog/2026/04/everything-is-free-and-nothing-matters/</link>
+					<comments>https://www.jwz.org/blog/2026/04/everything-is-free-and-nothing-matters/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Wed, 22 Apr 2026 19:03:08 +0000</pubDate>
+		<category><![CDATA[big brother]]></category>
+		<category><![CDATA[conspiracies]]></category>
+		<category><![CDATA[corporations]]></category>
+		<category><![CDATA[doomed]]></category>
+		<category><![CDATA[grim meathook future]]></category>
+		<category><![CDATA[perversions]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk6p</guid>
+
+					<description><![CDATA[Noah Hawley:
+
+This is different from classic narcissism, in which a grandiose but fragile self-image can mask deep insecurity. What I'm talking about is a self-definition in which the individual grows to the size of the universe, and the universe vanishes. [...]
+
+Decades of ...]]></description>
+										<content:encoded><![CDATA[<DIV STYLE="text-align: center; width: 35%; max-width: 1200px; margin: 0 0 1em 1em; float: right;"><A HREF="https://www.theatlantic.com/magazine/2026/05/billionaire-consequence-free-reality/686588/"><IMG SRC="https://cdn.jwz.org/images/scaled/768/2026/original.jpg" WIDTH=1200 HEIGHT=625 STYLE="width: 100%; height: auto; border: 1px solid; margin-bottom: 0.5em" SRCSET="https://cdn.jwz.org/images/2026/original.jpg 1200w, https://cdn.jwz.org/images/scaled/1024/2026/original.jpg 1024w, https://cdn.jwz.org/images/scaled/768/2026/original.jpg 768w, https://cdn.jwz.org/images/scaled/640/2026/original.jpg 640w, https://cdn.jwz.org/images/scaled/360/2026/original.jpg 360w" SIZES="(max-width: 660px) 35vw, 26em" LOADING="lazy" data-size="1200x625"></A></DIV><A HREF="https://www.theatlantic.com/magazine/2026/05/billionaire-consequence-free-reality/686588/">Noah Hawley:</A> <P><BLOCKQUOTE STYLE="margin: 1em 0 1em 1.5em; padding: 0.75em 0.5em 0.75em 1em; border: 1px solid; border-left: 4px solid;"> <P>This is different from classic narcissism, in which a grandiose but fragile self-image can mask deep insecurity. What I'm talking about is a self-definition in which the individual grows to the size of the universe, and the universe vanishes. [...] <P>Decades of research in developmental psychology have shown that moral reasoning develops through consequences -- not punishment, necessarily, but experiencing the effects of your actions on others, receiving honest feedback, having to accommodate reality as it actually is rather than as you wish it to be. It's not that the wealthy become evil; it's that their environment stops teaching them the things that nonwealthy people are forced to learn simply by living in a world that pushes back. When you can buy your way out of any mistake, when you can fire anyone who disagrees with you, when your social circle consists entirely of people who need something from you, the basic mechanism by which humans learn that other people are real goes dark. <P>When Peter Thiel said, "I no longer believe that freedom and democracy are compatible," he wasn't talking about your freedom. He was talking about his own. You don't exist.</BLOCKQUOTE> <P><A HREF="https://www.jwz.org/blog/2025/06/bezos-moves-wedding-after-threat-of-inflatable-alligators/">Previously</A>, <A HREF="https://www.jwz.org/blog/2024/04/my-dinner-with-andreessen/">previously</A>, <A HREF="https://www.jwz.org/blog/2018/07/grim-meathook-thinktanking/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/06/bezos-wedding-guests-given-monogrammed-plastic-bottles-to-urinate-in-during-ceremony/">previously</A>, <A HREF="https://www.jwz.org/blog/2024/10/wealth-distribution-in-the-united-states/">previously</A>, <A HREF="https://www.jwz.org/blog/2013/03/amanda-palmers-ted-talk/">previously</A>, <A HREF="https://www.jwz.org/blog/2023/12/zuckerbunker/">previously</A>, <A HREF="https://www.jwz.org/blog/2023/12/malcon/">previously</A>, <A HREF="https://www.jwz.org/blog/2019/01/mark-zuckerberg-doesnt-care-about-corporeal-goats/">previously</A>.]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/04/everything-is-free-and-nothing-matters/feed/</wfw:commentRss>
+			<slash:comments>38</slash:comments>
+		
+		
+		<enclosure url="https://cdn.jwz.org/images/2026/original.jpg" width="1200" height="625" length="380044" type="image/jpeg"/>
+	</item>
+		<item>
+		<title>DNA Lounge: Wherein we check in on the flashbulb</title>
+		<link>https://www.dnalounge.com/backstage/log/2026/04/21.html</link>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Tue, 21 Apr 2026 19:38:10 +0000</pubDate>
+		<category><![CDATA[dnalounge]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk6n</guid>
+
+					<description><![CDATA[Speaking of our neighbors... Hey, remember that hideous flashbulb of an office building they built across the street from us in 2019? How's that going? Still walled up with plywood and sitting 100% vacant after 7 years? Blank wall covered with graffiti and posters rather ...]]></description>
+										<content:encoded><![CDATA[<DIV STYLE="text-align: center; width: 35%; max-width: 360px; margin: 0 0 1em 1em; float: right;"><A HREF="https://www.dnalounge.com/backstage/log/2026/04/flashbulb.html" data-size="2400x1800"><IMG SRC="https://cdn.dnalounge.com/backstage/log/2026/04/flashbulb-thumb.jpg" data-size="360x270" WIDTH=360 HEIGHT=270 STYLE="width: 100%; height: auto; border: 1px solid; margin-bottom: 0.5em"></A></DIV> Speaking of <A HREF="https://www.dnalounge.com/backstage/log/2026/04/20.html">our neighbors</A>... Hey, remember that hideous flashbulb of an office building they built across the street from us <A HREF="https://www.dnalounge.com/backstage/log/2019/07/23.html">in 2019</A>? How's that going? Still walled up with plywood and sitting 100% vacant after 7 years? Blank wall covered with graffiti and posters rather than that "ground-floor commercial" we were promised? Emergency lights still strobing all night long? <P>Good, good... <P>I guess the matryoshka doll of shell companies begins with <A HREF="https://www.bizprofile.net/ca/san-francisco/340-350-11th-street">340-350 11th Street LLC</A>. The <A href="https://kidder.com/">realtor</a> on that sign does not acknowledge it existing. Zillow <A HREF="https://www.zillow.com/homedetails/340-350-11th-St-San-Francisco-CA-94103/303806982_zpid/">has a listing</A> for it, which might be entirely fiction, but it does have this banger of a photo of the property that they lifted from street view. What's not to love! <P><DIV STYLE="text-align: center; width: 50%; max-width: 360px; margin: 0 auto;"><A HREF="https://www.dnalounge.com/backstage/log/2026/04/flashbulb2.html" data-size="1536x1152"><IMG SRC="https://cdn.dnalounge.com/backstage/log/2026/04/flashbulb2-thumb.jpg" data-size="360x270" WIDTH=360 HEIGHT=270 STYLE="width: 100%; height: auto; border: 1px solid; margin-bottom: 0.5em"></A></DIV>]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://cdn.dnalounge.com/backstage/log/2026/04/flashbulb-thumb.jpg" width="360" height="270" type="image/jpeg"/>
+<enclosure url="https://cdn.dnalounge.com/backstage/log/2026/04/flashbulb2-thumb.jpg" width="360" height="270" type="image/jpeg"/>
+	</item>
+		<item>
+		<title>Penis costume protester prevails in court</title>
+		<link>https://www.jwz.org/blog/2026/04/penis-costume-protester-prevails-in-court/</link>
+					<comments>https://www.jwz.org/blog/2026/04/penis-costume-protester-prevails-in-court/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Mon, 20 Apr 2026 19:10:04 +0000</pubDate>
+		<category><![CDATA[balls]]></category>
+		<category><![CDATA[big brother]]></category>
+		<category><![CDATA[parts]]></category>
+		<category><![CDATA[perversions]]></category>
+		<category><![CDATA[pranks]]></category>
+		<category><![CDATA[stormtroopers]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk6k</guid>
+
+					<description><![CDATA[City prosecutor Marcus McDowell said it wasn't a free speech case but argued "no one has a Constitutional right to dress up as an erect penis and stand on the side of the road."
+
+He called Gamble's husband as a witness to testify that he had withdrawn bail money before they ...]]></description>
+										<content:encoded><![CDATA[<DIV STYLE="text-align: center; width: 30%; max-width: 800px; margin: 0 0 1em 1em; float: right;"><A HREF="https://www.courthousenews.com/penis-costume-protester-prevails-in-court/"><IMG SRC="https://cdn.jwz.org/images/scaled/768/2026/renea-gamble-penis-costume-protest-a.jpg" WIDTH=800 HEIGHT=600 STYLE="width: 100%; height: auto; border: 1px solid; margin-bottom: 0.5em" SRCSET="https://cdn.jwz.org/images/2026/renea-gamble-penis-costume-protest-a.jpg 800w, https://cdn.jwz.org/images/scaled/768/2026/renea-gamble-penis-costume-protest-a.jpg 768w, https://cdn.jwz.org/images/scaled/640/2026/renea-gamble-penis-costume-protest-a.jpg 640w, https://cdn.jwz.org/images/scaled/360/2026/renea-gamble-penis-costume-protest-a.jpg 360w" SIZES="(max-width: 660px) 30vw, 22em" LOADING="lazy" data-size="800x600"></A></DIV><A HREF="https://www.courthousenews.com/penis-costume-protester-prevails-in-court/">City prosecutor Marcus McDowell said it wasn't a free speech case but argued "no one has a Constitutional right to dress up as an erect penis and stand on the side of the road."</A> <P><BLOCKQUOTE STYLE="margin: 1em 0 1em 1.5em; padding: 0.75em 0.5em 0.75em 1em; border: 1px solid; border-left: 4px solid;"> <P>He called Gamble's husband as a witness to testify that he had withdrawn bail money before they attended the protest, as if she knew she was going to break the law in advance. <P>"I always make sure we got bail money on us," Larry Fletcher responded, to laughter from the gallery. "I have bail money on me now. Whenever there are this many cops around I have bail money on me." <P>There were no fewer than 16 uniformed police officers standing around the perimeter of the courtroom. [...] <P>Outside the courtroom, Mary Kay Smith was dressed up in an eggplant costume waving a "NO KINGS - NO DICK-TATORS" sign. "I am here for the Constitution," she said. "The arrest was violent, abusive and uncalled for. It was not even civilized behavior." <P>Shelly Welch was standing alongside Smith, with a sign depicting a half-peeled banana with a bite taken. "FREE SPEECH SHOULDN'T BE HARD TO SWALLOW," it read.</BLOCKQUOTE> <P><A HREF="https://www.jwz.org/blog/2022/07/big-grandma-energy/">Previously</A>, <A HREF="https://www.jwz.org/blog/2014/09/naked-saluting-satan-statue-removed-from-vancouver-park/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/10/protest-costumes/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/05/mark-wahlberg-claims-elon-musks-botched-penis-implant-wouldnt-have-gone-down-like-that-if-he-was-attending-surgeon/">previously</A>, <A HREF="https://www.jwz.org/blog/2025/01/fascists-and-their-dongs-amirite/">previously</A>.]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/04/penis-costume-protester-prevails-in-court/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<enclosure url="https://cdn.jwz.org/images/2026/renea-gamble-penis-costume-protest-a.jpg" width="800" height="600" length="63774" type="image/jpeg"/>
+	</item>
+		<item>
+		<title>Global Tetrahedron</title>
+		<link>https://www.jwz.org/blog/2026/04/global-tetrahedron-2/</link>
+					<comments>https://www.jwz.org/blog/2026/04/global-tetrahedron-2/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Mon, 20 Apr 2026 18:58:02 +0000</pubDate>
+		<category><![CDATA[big brother]]></category>
+		<category><![CDATA[conspiracies]]></category>
+		<category><![CDATA[corporations]]></category>
+		<category><![CDATA[grim meathook future]]></category>
+		<category><![CDATA[pranks]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk6i</guid>
+
+					<description><![CDATA[At Long Last, InfoWars Is Ours:
+
+Imagine a roaring arena packed to the rafters with pathological liars. High above you in the nosebleeds are podcasters, screaming that you'll die if you don't buy their skincare products. Below, on the floor, imagine demonic battalions of ...]]></description>
+										<content:encoded><![CDATA[<DIV STYLE="text-align: center; width: 65%; max-width: 1024px; margin: 0 0 1em 1em; float: right;"><A HREF="https://theonion.com/at-long-last-infowars-is-ours/"><IMG SRC="https://cdn.jwz.org/images/scaled/768/2026/iw_nrh-topper_r01_greenfowars_cta.jpg" WIDTH=1024 HEIGHT=576 STYLE="width: 100%; height: auto; border: 1px solid; margin-bottom: 0.5em" SRCSET="https://cdn.jwz.org/images/2026/iw_nrh-topper_r01_greenfowars_cta.jpg 1024w, https://cdn.jwz.org/images/scaled/768/2026/iw_nrh-topper_r01_greenfowars_cta.jpg 768w, https://cdn.jwz.org/images/scaled/640/2026/iw_nrh-topper_r01_greenfowars_cta.jpg 640w, https://cdn.jwz.org/images/scaled/360/2026/iw_nrh-topper_r01_greenfowars_cta.jpg 360w" SIZES="(max-width: 660px) 65vw, 47em" LOADING="lazy" data-size="1024x576"></A></DIV><A HREF="https://theonion.com/at-long-last-infowars-is-ours/">At Long Last, InfoWars Is Ours:</A> <P><BLOCKQUOTE STYLE="margin: 1em 0 1em 1.5em; padding: 0.75em 0.5em 0.75em 1em; border: 1px solid; border-left: 4px solid;"> <P>Imagine a roaring arena packed to the rafters with pathological liars. High above you in the nosebleeds are podcasters, screaming that you'll die if you don't buy their skincare products. Below, on the floor, imagine demonic battalions of super-influencers physically forcing people into home fitness devices designed to dismantle their bodies bone by bone and reassemble them into a grotesque statue of yourself. Out of the throngs, an extremely sick looking man approaches you. He puts his hands on your shoulders. He explains that he is your life coach and that you owe him $800. <P>Such is the InfoWars I envision: An infinite virtual surface teeming with ads. Not just ads, but scams! Not just scams, but lies with no object, free radical misinformation, sentences and images so poorly thought out that they are unhealthy even to view for just a few seconds. The InfoWars of old was only the prototype for the hell I know we can build together: A digital platform where, every day, visitors sacrifice themselves at altars of delusion and misery, their minds fully disintegrating on contact.</BLOCKQUOTE> <P><A HREF="https://www.jwz.org/blog/2024/11/global-tetrahedron/">Previously</A>, <A HREF="https://www.jwz.org/blog/2024/11/expert-explains-why-essentially-youre-fucked/">previously</A>.]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/04/global-tetrahedron-2/feed/</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+		<enclosure url="https://cdn.jwz.org/images/2026/iw_nrh-topper_r01_greenfowars_cta.jpg" width="1024" height="576" length="125745" type="image/jpeg"/>
+	</item>
+		<item>
+		<title>DNA Lounge: Wherein The Pound gets a retrospective</title>
+		<link>https://www.dnalounge.com/backstage/log/2026/04/20.html</link>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Mon, 20 Apr 2026 18:45:24 +0000</pubDate>
+		<category><![CDATA[dnalounge]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk6g</guid>
+
+					<description><![CDATA[KQED says: Long Live The Pound: The Forgotten 2000s Venue That Changed the Bay Area:
+
+At The Pound, Carracci, Cardinal and Cipriano carved out a pivotal and mostly unsung revolution in San Francisco's legendary music scene. The Pound was born on Feb. 8, 2001 with Jerry ...]]></description>
+										<content:encoded><![CDATA[KQED says: <A HREF="https://www.kqed.org/arts/13988656/the-pound-san-francisco-punk-metal-venue-history">Long Live The Pound: The Forgotten 2000s Venue That Changed the Bay Area</A>: <P><BLOCKQUOTE STYLE="margin:1em;border:1px solid;padding:1em"> <P>At The Pound, Carracci, Cardinal and Cipriano carved out a pivotal and mostly unsung revolution in San Francisco's legendary music scene. The Pound was born on Feb. 8, 2001 with Jerry Cantrell from Alice in Chains playing the venue's first show. Its short-but-influential run lasted just five years; the Port Authority pulled the plug on their lease in fall 2006. <P>Along the way, The Pound hosted a blizzard of early 2000s bands that would go on to become household names [...] "Back then, no one wanted to touch these bands. The powers that be did not believe that these bands had any kind of draw, staying power. They're playing stadiums now," Cipriano tells KQED. "I was right. My big prize for being right is all the bands eventually go on to Live Nation and suddenly there's no room for the independent venues." </BLOCKQUOTE> <P>Cip is our booker here at DNA Lounge, so if you've enjoyed live music here in recent years, that has almost certainly been thanks to him! <P>Speaking of independent venues... About a year ago <A HREF="https://web.archive.org/web/20250225010128/https%3A//www.yolonightclub.com/">Yolo</A>, the bottle service club that <A HREF="https://www.dnalounge.com/backstage/log/2020/08/11.html">replaced Slim's</A> in 2020 <A HREF="https://www.sfgate.com/culture-events/article/san-francisco-club-yolo-slims-closing-20271608.php">closed</A>. <I>(<A HREF="https://www.kqed.org/arts/13899093/i-went-to-yolo-the-nightclub-that-replaced-slims-so-you-dont-have-to">Oh no</A>.)</I> Then in January it was <A HREF="https://sfist.com/2025/12/29/east-bay-rapper-budda-mack-takes-over-former-slims-nightclub-will-reopen-it-as-budda/">announced</A> that some Oakland rapper bought it and named it after himself. Well <A HREF="https://www.thebuddanightclub.com/">The Budda</A> seems to be closed already. The sign is painted over and everything. As far as I can tell they only did like a dozen events there total. They didn't even have a web site for the first month, only Instagram. <P>So I'm sure that's all going really well. <P>I've heard that <A HREF="https://www.theeparkside.com/">Thee Parkside</A>'s last live show will be this weekend, and they're closing for good in July. And <A HREF="https://bottomofthehill.com/">Bottom of the Hill</A> is still planning to close at the end of the year. <P>Will the last band to play San Francisco please <A HREF="https://www.dnalounge.com/backstage/log/2018/01/31.html">turn out the lights</A>? <P>In the meantime here at DNA Lounge, we're still pushing that boulder up the hill. Same liver different eagles, as I often say. <A HREF="https://www.dnalounge.com/tickets/">Come see some shows.</A>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pablo Escobar&#039;s Cocaine Hippos Are Doomed</title>
+		<link>https://www.jwz.org/blog/2026/04/pablo-escobars-cocaine-hippos-are-doomed/</link>
+					<comments>https://www.jwz.org/blog/2026/04/pablo-escobars-cocaine-hippos-are-doomed/#comments</comments>
+		
+		<dc:creator><![CDATA[jwz]]></dc:creator>
+		<pubDate>Sat, 18 Apr 2026 21:49:50 +0000</pubDate>
+		<category><![CDATA[doomed]]></category>
+		<category><![CDATA[mutants]]></category>
+		<category><![CDATA[parts]]></category>
+		<category><![CDATA[perversions]]></category>
+		<category><![CDATA[teeth]]></category>
+		<guid isPermaLink="false">https://jwz.org/b/yk6e</guid>
+
+					<description><![CDATA[After two years of failed attempts at relocation and sterilization, Colombia's government has decided it will euthanize 80 of the at least 169 "cocaine hippos" that were once owned by notorious drug trafficker Pablo Escobar.
+
+"Without this action it is impossible to control ...]]></description>
+										<content:encoded><![CDATA[<DIV STYLE="text-align: center; width: 50%; max-width: 1200px; margin: 0 0 1em 1em; float: right;"><A HREF="https://www.scientificamerican.com/article/colombia-will-euthanize-pablo-escobars-invasive-cocaine-hippos/"><IMG SRC="https://cdn.jwz.org/images/scaled/768/2026/gettyimages-1252513826_web.jpg" WIDTH=1200 HEIGHT=800 STYLE="width: 100%; height: auto; border: 1px solid; margin-bottom: 0.5em" SRCSET="https://cdn.jwz.org/images/2026/gettyimages-1252513826_web.jpg 1200w, https://cdn.jwz.org/images/scaled/1024/2026/gettyimages-1252513826_web.jpg 1024w, https://cdn.jwz.org/images/scaled/768/2026/gettyimages-1252513826_web.jpg 768w, https://cdn.jwz.org/images/scaled/640/2026/gettyimages-1252513826_web.jpg 640w, https://cdn.jwz.org/images/scaled/360/2026/gettyimages-1252513826_web.jpg 360w" SIZES="(max-width: 660px) 50vw, 36em" LOADING="lazy" data-size="1200x800"></A></DIV><A HREF="https://www.scientificamerican.com/article/colombia-will-euthanize-pablo-escobars-invasive-cocaine-hippos/">After two years of failed attempts at relocation and sterilization, Colombia's government has decided it will euthanize 80 of the at least 169 "cocaine hippos" that were once owned by notorious drug trafficker Pablo Escobar.</A> <P><BLOCKQUOTE STYLE="margin: 1em 0 1em 1.5em; padding: 0.75em 0.5em 0.75em 1em; border: 1px solid; border-left: 4px solid;"> <P>"Without this action it is impossible to control them," said Colombia's environment minister Irene V&eacute;lez at a press conference on Monday. Citing estimates that the population could reach at least 500 individuals by 2030, "affecting our ecosystems and native species," she added that "it is our responsibility to take this action." [...] <P>In 2022 the government launched a sterilization program to slow reproduction of the hippos, which could number up to 200 individuals. At the same time, officials opened talks with seven countries and two international zoo and aquarium associations to relocate the animals. To date, no country has agreed to take even a single hippo, according to the Colombian government, which ultimately led its Ministry of Environment to opt for euthanasia. <P>Widespread sterilization is not a viable option because it is a "cumbersome, costly and dangerous procedure that progresses at a very slow pace," says Jorge Moreno Bernal, a Ph.D. candidate at the University of the North in Barranquilla, Colombia. A single sterilization requires cranes and puts human lives at risk, he says. "It is not like sterilizing a dog or a cat."</BLOCKQUOTE> <P><A HREF="https://www.jwz.org/blog/2021/10/pablo-escobars-cocaine-hippos-are-legally-people-court-rules/">Previously</A>, <A HREF="https://www.jwz.org/blog/2021/01/periodic-wellness-check-on-pablo-escobars-cocaine-hippos/">previously</A>, <A HREF="https://www.jwz.org/blog/2016/07/lets-check-in-with-pablo-escobars-herd-of-feral-hippos/">previously</A>, <A HREF="https://www.jwz.org/blog/2014/07/today-in-hippo-news/">previously</A>, <A HREF="https://www.jwz.org/blog/2014/02/hippo-nuts/">previously</A>, <A HREF="https://www.jwz.org/blog/2003/01/hippos-roam-drug-lords-ranch/">previously</A>.]]></content:encoded>
+					
+					<wfw:commentRss>https://cdn.jwz.org/blog/2026/04/pablo-escobars-cocaine-hippos-are-doomed/feed/</wfw:commentRss>
+			<slash:comments>21</slash:comments>
+		
+		
+		<enclosure url="https://cdn.jwz.org/images/2026/gettyimages-1252513826_web.jpg" width="1200" height="800" length="155621" type="image/jpeg"/>
+	</item>
+	</channel>
+</rss>
