@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:dcterms="http://purl.org/dc/terms/"  
+xmlns:ssr="http://purl.org/stuff/ssr"
+xmlns:rev="http://www.purl.org/stuff/rev/"
+xmlns:geotags="http://geotags.com/geo/geotags2.html"  xmlns:geourl="http://geourl.org/rss/module/"  
+xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title><![CDATA[The Tyee | BC's home for today's news, analysis and updates ]]></title>
+    <link>https://thetyee.ca/</link>   
+<description><![CDATA[ ]]></description>
+    <image>
+      <url>https://thetyee.ca/images/tyee_small_icon.png</url>
+      <title>The Tyee.ca</title>
+      <link>https://thetyee.ca/</link>
+    </image>
+   
+   <language>en</language>
+    <docs>https://blogs.law.harvard.edu/tech/rss</docs>
+     <generator>Bricolage</generator>
+    <ttl>60</ttl>
+   <webMaster>info@thetyee.ca (Tyee Webmaster)</webMaster>
+    <managingEditor>editor@thetyee.ca (Editor)</managingEditor>
+    <copyright>Copyright 2026 TheTyee.ca </copyright>
+    <category>News</category>
+    <pubDate>Sun, 31 May 2026 10:13:21 -0700</pubDate>
+    <lastBuildDate>Sun, 31 May 2026 10:13:21 -0700</lastBuildDate>
+
+
+
+
+
+
+
+
+  <item>
+    <title><![CDATA[BC’s Family Doctor Crisis Gets Even Worse]]></title>
+    <link>https://thetyee.ca/News/2026/05/31/BC-Family-Doctor-Crisis-Gets-Even-Worse/</link>
+    <guid isPermaLink="true">https://thetyee.ca/News/2026/05/31/BC-Family-Doctor-Crisis-Gets-Even-Worse/</guid>
+   <description><![CDATA[Despite measures, almost one in four people lack access to primary care.]]></description>
+   <uuid>4D84B89E-5CAA-11F1-B56B-847478C3E88C</uuid>
+   <pubDate>Sun, 31 May 2026 17:20:00 +0000</pubDate>
+
+<enclosure url="https://thetyee.ca/Opinion/2025/08/21/JosieOsborneRareDiseaseDrug.jpg" type="image/jpeg" length="76188"></enclosure>
+
+        <dc:subject><![CDATA[ Andrew Longhurst ]]></dc:subject>
+        <dc:subject><![CDATA[ BC family doctor shortage ]]></dc:subject>
+        <dc:subject><![CDATA[ BC Health Minister Josie Osborne ]]></dc:subject>
+        <dc:subject><![CDATA[ BC Health Ministry ]]></dc:subject>
+        <dc:subject><![CDATA[ BC physician payment model ]]></dc:subject>
+        <dc:subject><![CDATA[ Brennan Day ]]></dc:subject>
+        <dc:subject><![CDATA[ Canadian Community Health Survey ]]></dc:subject>
+        <dc:subject><![CDATA[ Doctors of BC ]]></dc:subject>
+        <dc:subject><![CDATA[ Health Connect Registry ]]></dc:subject>
+<dc:creator><![CDATA[Andrew MacLeod]]></dc:creator>
+  </item>
+
+
+
+
+
+
+
+  <item>
+    <title><![CDATA[Trump, Hoekstra and the Cabal Pushing Alberta Separatism]]></title>
+    <link>https://thetyee.ca/Analysis/2026/05/31/Trump-Hoekstra-Cabal-Pushing-Alberta-Separatism/</link>
+    <guid isPermaLink="true">https://thetyee.ca/Analysis/2026/05/31/Trump-Hoekstra-Cabal-Pushing-Alberta-Separatism/</guid>
+   <description><![CDATA[Signs of deepening American collusion point to the US ambassador among others. Will Ottawa investigate?]]></description>
+   <uuid>8D984BE2-5C9D-11F1-B302-847478C3E88C</uuid>
+   <pubDate>Sun, 31 May 2026 17:10:00 +0000</pubDate>
+
+<enclosure url="https://thetyee.ca/Analysis/2026/05/30/PeteHoekstraCloseup.jpg" type="image/jpeg" length="280229"></enclosure>
+
+        <dc:subject><![CDATA[ 10xVotes ]]></dc:subject>
+        <dc:subject><![CDATA[ Alberta Brexit comparison ]]></dc:subject>
+        <dc:subject><![CDATA[ Alberta indendence referendum ]]></dc:subject>
+        <dc:subject><![CDATA[ Alberta independence ]]></dc:subject>
+        <dc:subject><![CDATA[ Alberta Secession ]]></dc:subject>
+        <dc:subject><![CDATA[ Alberta separation referendum ]]></dc:subject>
+        <dc:subject><![CDATA[ Alberta separatism ]]></dc:subject>
+        <dc:subject><![CDATA[ Alberta voter data breach ]]></dc:subject>
+        <dc:subject><![CDATA[ Communion of Reformed Evangelical Churches ]]></dc:subject>
+        <dc:subject><![CDATA[ Danielle Smith ]]></dc:subject>
+        <dc:subject><![CDATA[ David Cameron ]]></dc:subject>
+        <dc:subject><![CDATA[ David Parker ]]></dc:subject>
+        <dc:subject><![CDATA[ Dean Blundell ]]></dc:subject>
+        <dc:subject><![CDATA[ Donald Trump ]]></dc:subject>
+        <dc:subject><![CDATA[ Douglas Wilson ]]></dc:subject>
+        <dc:subject><![CDATA[ Elections Alberta ]]></dc:subject>
+        <dc:subject><![CDATA[ Elon Musk ]]></dc:subject>
+        <dc:subject><![CDATA[ Ian Cooper Brexit Institute ]]></dc:subject>
+        <dc:subject><![CDATA[ Janet Brown pollster ]]></dc:subject>
+        <dc:subject><![CDATA[ Jason Kenney ]]></dc:subject>
+        <dc:subject><![CDATA[ Jason Stephan ]]></dc:subject>
+        <dc:subject><![CDATA[ Mark Carney ]]></dc:subject>
+        <dc:subject><![CDATA[ Mike Pompeo ]]></dc:subject>
+        <dc:subject><![CDATA[ Mitch Sylvestre ]]></dc:subject>
+        <dc:subject><![CDATA[ Pete Hoekstra ]]></dc:subject>
+        <dc:subject><![CDATA[ Pierre Poilievre ]]></dc:subject>
+        <dc:subject><![CDATA[ Rob Smith UCP ]]></dc:subject>
+        <dc:subject><![CDATA[ Stay Free Alberta petition ]]></dc:subject>
+        <dc:subject><![CDATA[ Take Back Alberta ]]></dc:subject>
+        <dc:subject><![CDATA[ United Conservative Party ]]></dc:subject>
+<dc:creator><![CDATA[Michael Harris]]></dc:creator>
+  </item>
+
+
+
+
+
+
+
+  <item>
+    <title><![CDATA[Kerry-Lynne Findlay Pulls BC Conservatives to the Right]]></title>
+    <link>https://thetyee.ca/News/2026/05/31/Kerry-Lynne-Findlay-Pulls-BC-Conservatives-Right/</link>
+    <guid isPermaLink="true">https://thetyee.ca/News/2026/05/31/Kerry-Lynne-Findlay-Pulls-BC-Conservatives-Right/</guid>
+   <description><![CDATA[]]></description>
+   <uuid>0545C176-5D0A-11F1-8DD3-B3330D366075</uuid>
+   <pubDate>Sun, 31 May 2026 17:00:00 +0000</pubDate>
+
+<enclosure url="https://thetyee.ca/News/2026/05/31/KerryLynneFindlay.jpg" type="image/jpeg" length="135758"></enclosure>
+
+        <dc:subject><![CDATA[ Amelia Boultbee ]]></dc:subject>
+        <dc:subject><![CDATA[ BC Conservative leader ]]></dc:subject>
+        <dc:subject><![CDATA[ Brent Chapman ]]></dc:subject>
+        <dc:subject><![CDATA[ Caroline Elliott ]]></dc:subject>
+        <dc:subject><![CDATA[ Conservative Party of BC ]]></dc:subject>
+        <dc:subject><![CDATA[ Dallas Brodie ]]></dc:subject>
+        <dc:subject><![CDATA[ Declaration on the Rights of Indigenous Peoples Act ]]></dc:subject>
+        <dc:subject><![CDATA[ Elenore Sturko ]]></dc:subject>
+        <dc:subject><![CDATA[ Iain Black ]]></dc:subject>
+        <dc:subject><![CDATA[ Jennifer Whiteside ]]></dc:subject>
+        <dc:subject><![CDATA[ John Rustad ]]></dc:subject>
+        <dc:subject><![CDATA[ Kerry-Lynne Findlay ]]></dc:subject>
+        <dc:subject><![CDATA[ Peter Milobar ]]></dc:subject>
+        <dc:subject><![CDATA[ Stephen Harper ]]></dc:subject>
+        <dc:subject><![CDATA[ Trevor Halford ]]></dc:subject>
+        <dc:subject><![CDATA[ Yuri Fulmer ]]></dc:subject>
+<dc:creator><![CDATA[Jen St. Denis]]></dc:creator>
+  </item>
+
+
+
+
+
+
+
+  <item>
+    <title><![CDATA[A Stunning Exploration of Climate Grief]]></title>
+    <link>https://thetyee.ca/Culture/2026/05/29/Stunning-Exploration-Climate-Grief/</link>
+    <guid isPermaLink="true">https://thetyee.ca/Culture/2026/05/29/Stunning-Exploration-Climate-Grief/</guid>
+   <description><![CDATA[Staggering in scale, the VAG’s newest show offers an unforgettable portrait of environmental change and its human costs.]]></description>
+   <uuid>5F9CED10-5B80-11F1-B4F6-97F8F7682566</uuid>
+   <pubDate>Sat, 30 May 2026 00:40:00 +0000</pubDate>
+
+<enclosure url="https://thetyee.ca/Culture/2026/05/29/Sanctuary_Embed5.jpeg" type="image/jpeg" length="973837"></enclosure>
+
+        <dc:subject><![CDATA[ Co-existence of Times — A conversation with John Akomfrah ]]></dc:subject>
+        <dc:subject><![CDATA[ Heathcote Williams epic poem Whale Nation ]]></dc:subject>
+        <dc:subject><![CDATA[ Herman Melville Moby-Dick ]]></dc:subject>
+        <dc:subject><![CDATA[ Johanne Løgstrup ]]></dc:subject>
+        <dc:subject><![CDATA[ Lawrence Paul Yuxweluptun Lets’lo:tseltun ]]></dc:subject>
+        <dc:subject><![CDATA[ PuSh International Performing Arts Festival ]]></dc:subject>
+        <dc:subject><![CDATA[ SANCTUARY: The Ancient Forest Experience ]]></dc:subject>
+        <dc:subject><![CDATA[ university of british columbia Climate Action Lab ]]></dc:subject>
+        <dc:subject><![CDATA[ Vancouver Art Gallery ]]></dc:subject>
+        <dc:subject><![CDATA[ Virginia Woolf To the Lighthouse ]]></dc:subject>
+<dc:creator><![CDATA[Dorothy Woodend]]></dc:creator>
+  </item>
+
+
+
+
+
+
+
+  <item>
+    <title><![CDATA[Gu Xiong’s Constant Evolution]]></title>
+    <link>https://thetyee.ca/Presents/2026/05/29/Gu-Xiong-Constant-Evolution/</link>
+    <guid isPermaLink="true">https://thetyee.ca/Presents/2026/05/29/Gu-Xiong-Constant-Evolution/</guid>
+   <description><![CDATA[In a new exhibition at the Museum of Vancouver, the artist reflects on his career.]]></description>
+   <uuid>6D7FF2E4-56FB-11F1-95D7-B5F04EDEC614</uuid>
+   <pubDate>Sat, 30 May 2026 00:30:00 +0000</pubDate>
+
+<enclosure url="https://thetyee.ca/Presents/2026/05/23/GuXiongArt.jpg" type="image/jpeg" length="229067"></enclosure>
+
+        <dc:subject><![CDATA[ Alvin Balkind ]]></dc:subject>
+        <dc:subject><![CDATA[ Banff Centre ]]></dc:subject>
+        <dc:subject><![CDATA[ Becoming: The Art of Gu Xiong ]]></dc:subject>
+        <dc:subject><![CDATA[ Gu Xiong ]]></dc:subject>
+        <dc:subject><![CDATA[ Gu Xiong Yellow Cargo ]]></dc:subject>
+        <dc:subject><![CDATA[ Museum of Vancouver ]]></dc:subject>
+        <dc:subject><![CDATA[ Sichuan Fine Arts Institute ]]></dc:subject>
+<dc:creator><![CDATA[ Museum of Vancouver]]></dc:creator>
+  </item>
+
+
+
+
+
+
+
+  <item>
+    <title><![CDATA[Teaching Artificial Intelligence to Zap Hate Speech]]></title>
+    <link>https://thetyee.ca/Culture/2026/05/29/Teaching-Artificial-Intelligence-Zap-Hate-Speech/</link>
+    <guid isPermaLink="true">https://thetyee.ca/Culture/2026/05/29/Teaching-Artificial-Intelligence-Zap-Hate-Speech/</guid>
+   <description><![CDATA[Deciding which words are toxic in different online worlds is complex. This engineer cracked the code. A Tyee Q&A.]]></description>
+   <uuid>24AC5208-591A-11F1-8998-9DC836F3FB4A</uuid>
+   <pubDate>Sat, 30 May 2026 00:20:00 +0000</pubDate>
+
+<enclosure url="https://thetyee.ca/Culture/2026/05/26/LiamHebertProfile.jpg" type="image/jpeg" length="315640"></enclosure>
+
+        <dc:subject><![CDATA[ Artificial Intelligence ]]></dc:subject>
+        <dc:subject><![CDATA[ bigotry online ]]></dc:subject>
+        <dc:subject><![CDATA[ European Union ]]></dc:subject>
+        <dc:subject><![CDATA[ hate speech ]]></dc:subject>
+        <dc:subject><![CDATA[ IEEE Canadian Foundation ]]></dc:subject>
+        <dc:subject><![CDATA[ January 6 United States Capitol attack ]]></dc:subject>
+        <dc:subject><![CDATA[ Nick Cercone Graduate Scholarship in Computer Science award ]]></dc:subject>
+        <dc:subject><![CDATA[ online radicalization ]]></dc:subject>
+        <dc:subject><![CDATA[ online trolls ]]></dc:subject>
+        <dc:subject><![CDATA[ RuPaul’s Drag Race ]]></dc:subject>
+        <dc:subject><![CDATA[ University of Waterloo ]]></dc:subject>
+<dc:creator><![CDATA[Tharini Ramesh]]></dc:creator><dc:creator><![CDATA[Nadha Zacky]]></dc:creator>
+  </item>
+
+
+
+
+
+
+
+  <item>
+    <title><![CDATA[When Urban Planning Works Too Well]]></title>
+    <link>https://thetyee.ca/Culture/2026/05/29/Urban-Planning-Works-too-Well/</link>
+    <guid isPermaLink="true">https://thetyee.ca/Culture/2026/05/29/Urban-Planning-Works-too-Well/</guid>
+   <description><![CDATA[The conditions that make it effective are not always the ones that make it democratic.]]></description>
+   <uuid>F8CB1EBA-5AA1-11F1-B7B1-8544FB12EE49</uuid>
+   <pubDate>Sat, 30 May 2026 00:10:00 +0000</pubDate>
+
+<enclosure url="https://thetyee.ca/Culture/2026/05/28/Cityscape_Related.jpg" type="image/jpeg" length="142036"></enclosure>
+
+        <dc:subject><![CDATA[ Abu Dhabi ]]></dc:subject>
+        <dc:subject><![CDATA[ Arab-Islamic urban traditions ]]></dc:subject>
+        <dc:subject><![CDATA[ Expatriate ]]></dc:subject>
+        <dc:subject><![CDATA[ Foreign Workers ]]></dc:subject>
+        <dc:subject><![CDATA[ UBC Campus and Community Planning ]]></dc:subject>
+        <dc:subject><![CDATA[ University of British Columbia ]]></dc:subject>
+<dc:creator><![CDATA[Erick Villagomez]]></dc:creator>
+  </item>
+
+
+
+
+
+
+
+  <item>
+    <title><![CDATA[Listen Up! ‘The Tyee Podcast’ Is Now Live]]></title>
+    <link>https://thetyee.ca/Tyeenews/2026/05/29/The-Tyee-Podcast-Now-Live/</link>
+    <guid isPermaLink="true">https://thetyee.ca/Tyeenews/2026/05/29/The-Tyee-Podcast-Now-Live/</guid>
+   <description><![CDATA[Readers asked, and we delivered. Find it today across major streaming platforms.]]></description>
+   <uuid>D6FB1FAC-5AF0-11F1-AB76-8544FB12EE49</uuid>
+   <pubDate>Fri, 29 May 2026 07:40:00 +0000</pubDate>
+
+<enclosure url="https://thetyee.ca/Tyeenews/2026/05/28/TheTyeePodcastLaptop.jpg" type="image/jpeg" length="277176"></enclosure>
+
+        <dc:subject><![CDATA[ adam olsen ]]></dc:subject>
+        <dc:subject><![CDATA[ Declaration on the Rights of Indigenous Peoples Act ]]></dc:subject>
+        <dc:subject><![CDATA[ Harrison Mooney ]]></dc:subject>
+        <dc:subject><![CDATA[ Isaac Phan Nay ]]></dc:subject>
+        <dc:subject><![CDATA[ Jacob Boon ]]></dc:subject>
+        <dc:subject><![CDATA[ Premier David Eby ]]></dc:subject>
+        <dc:subject><![CDATA[ Sarah Krichel ]]></dc:subject>
+        <dc:subject><![CDATA[ The Tyee Audio Edition ]]></dc:subject>
+        <dc:subject><![CDATA[ The Tyee Podcast ]]></dc:subject>
+        <dc:subject><![CDATA[ Tyee Builders ]]></dc:subject>
+<dc:creator><![CDATA[Jacob Boon]]></dc:creator>
+  </item>
+
+
+
+
+
+
+
+  <item>
+    <title><![CDATA[Amid Tensions over Police in Schools, a Vancouver Report Shows Promising Change]]></title>
+    <link>https://thetyee.ca/News/2026/05/29/Police-Schools-Vancouver-Report-Promising-Change/</link>
+    <guid isPermaLink="true">https://thetyee.ca/News/2026/05/29/Police-Schools-Vancouver-Report-Promising-Change/</guid>
+   <description><![CDATA[BC’s human rights commissioner would like to see external reviews for all programs in the province.
+]]></description>
+   <uuid>EDB36A8E-5AF9-11F1-BAD0-8544FB12EE49</uuid>
+   <pubDate>Fri, 29 May 2026 07:30:00 +0000</pubDate>
+
+<enclosure url="https://thetyee.ca/News/2026/05/28/VancouverPoliceCar.jpg" type="image/jpeg" length="230243"></enclosure>
+
+        <dc:subject><![CDATA[ Argyle PR ]]></dc:subject>
+        <dc:subject><![CDATA[ Evaluation of the School Liaison Officer Program ]]></dc:subject>
+        <dc:subject><![CDATA[ Greater Victoria School District ]]></dc:subject>
+        <dc:subject><![CDATA[ Jennifer McCrea ]]></dc:subject>
+        <dc:subject><![CDATA[ Kasari Govender ]]></dc:subject>
+        <dc:subject><![CDATA[ Office of the Information and Privacy Commissioner ]]></dc:subject>
+        <dc:subject><![CDATA[ Qatalyst Research Group ]]></dc:subject>
+        <dc:subject><![CDATA[ school liaison officer program ]]></dc:subject>
+        <dc:subject><![CDATA[ Vancouver Police Department ]]></dc:subject>
+        <dc:subject><![CDATA[ Vancouver police in schools ]]></dc:subject>
+        <dc:subject><![CDATA[ Vancouver School Board ]]></dc:subject>
+        <dc:subject><![CDATA[ Vancouver school liaison officer training ]]></dc:subject>
+        <dc:subject><![CDATA[ Victoria police Deputy Chief Mike Brown ]]></dc:subject>
+        <dc:subject><![CDATA[ Victoria school board trustees ]]></dc:subject>
+<dc:creator><![CDATA[Katie Hyslop]]></dc:creator>
+  </item>
+
+
+
+
+
+
+
+  <item>
+    <title><![CDATA[Vancouver Unveils Its World Cup Human Rights Plan. And Gets Blasted]]></title>
+    <link>https://thetyee.ca/News/2026/05/29/Vancouver-Unveils-World-Cup-Human-Rights-Plan/</link>
+    <guid isPermaLink="true">https://thetyee.ca/News/2026/05/29/Vancouver-Unveils-World-Cup-Human-Rights-Plan/</guid>
+   <description><![CDATA[The approach falls short in preventing and addressing violations, says Vancouver Anti-FIFA Coalition. The city responds.]]></description>
+   <uuid>F62B88E6-5B02-11F1-987C-8544FB12EE49</uuid>
+   <pubDate>Fri, 29 May 2026 07:20:00 +0000</pubDate>
+
+<enclosure url="https://thetyee.ca/News/2026/05/28/FIFAVancouverSign.jpg" type="image/jpeg" length="268809"></enclosure>
+
+        <dc:subject><![CDATA[ BC Civil Liberties Association ]]></dc:subject>
+        <dc:subject><![CDATA[ BC Poverty Reduction Coalition ]]></dc:subject>
+        <dc:subject><![CDATA[ FIFA World Cup ]]></dc:subject>
+        <dc:subject><![CDATA[ Pivot Legal Society ]]></dc:subject>
+        <dc:subject><![CDATA[ Vancouver 311 ]]></dc:subject>
+        <dc:subject><![CDATA[ Vancouver Anti-FIFA Coalition ]]></dc:subject>
+        <dc:subject><![CDATA[ Vancouver Police Department ]]></dc:subject>
+        <dc:subject><![CDATA[ Vancouver World Cup human rights plan ]]></dc:subject>
+        <dc:subject><![CDATA[ World Cup Vancouver ]]></dc:subject>
+<dc:creator><![CDATA[Katie Hyslop]]></dc:creator>
+  </item>
+
+
+
+
+
+
+
+  <item>
+    <title><![CDATA[Firing Victoria’s School Board Was an Abuse of Power]]></title>
+    <link>https://thetyee.ca/Opinion/2026/05/29/Firing-Victoria-School-Board-Abuse-Power/</link>
+    <guid isPermaLink="true">https://thetyee.ca/Opinion/2026/05/29/Firing-Victoria-School-Board-Abuse-Power/</guid>
+   <description><![CDATA[The provincial government colluded with police on a costly, undemocratic campaign.]]></description>
+   <uuid>BE937044-5B00-11F1-A080-8544FB12EE49</uuid>
+   <pubDate>Fri, 29 May 2026 07:10:00 +0000</pubDate>
+
+<enclosure url="https://thetyee.ca/Opinion/2026/05/28/LisaBeare.jpg" type="image/jpeg" length="179423"></enclosure>
+
+        <dc:subject><![CDATA[ BC Education Minister Lisa Beare ]]></dc:subject>
+        <dc:subject><![CDATA[ BC Education Ministry ]]></dc:subject>
+        <dc:subject><![CDATA[ BC School Trustees Association ]]></dc:subject>
+        <dc:subject><![CDATA[ Greater Victoria School District ]]></dc:subject>
+        <dc:subject><![CDATA[ Jennifer McCrea ]]></dc:subject>
+        <dc:subject><![CDATA[ Justice Lindsay LeBlanc ]]></dc:subject>
+        <dc:subject><![CDATA[ Kasari Govender ]]></dc:subject>
+        <dc:subject><![CDATA[ Kevin Godden ]]></dc:subject>
+        <dc:subject><![CDATA[ Nicole Duncan ]]></dc:subject>
+        <dc:subject><![CDATA[ police in schools ]]></dc:subject>
+        <dc:subject><![CDATA[ Victoria Police Department ]]></dc:subject>
+        <dc:subject><![CDATA[ Victoria police Deputy Chief Mike Brown ]]></dc:subject>
+        <dc:subject><![CDATA[ Victoria school board ]]></dc:subject>
+        <dc:subject><![CDATA[ Victoria school board trustees ]]></dc:subject>
+        <dc:subject><![CDATA[ Victoria school liaison officers ]]></dc:subject>
+<dc:creator><![CDATA[Paul Willcocks]]></dc:creator>
+  </item>
+
+
+
+
+
+
+
+  <item>
+    <title><![CDATA[Alberta Had a Bad Case of ‘Guilbeault Derangement Syndrome.’ Now What?]]></title>
+    <link>https://thetyee.ca/Opinion/2026/05/28/Steven-Guilbeault-Drove-Alberta-Petro-Politicians-Nuts/</link>
+    <guid isPermaLink="true">https://thetyee.ca/Opinion/2026/05/28/Steven-Guilbeault-Drove-Alberta-Petro-Politicians-Nuts/</guid>
+   <description><![CDATA[The former environment minister drove petro politicians nuts. And not just UCP ones.]]></description>
+   <uuid>00CD3816-5AC8-11F1-B84C-8544FB12EE49</uuid>
+   <pubDate>Thu, 28 May 2026 18:27:00 +0000</pubDate>
+
+<enclosure url="https://thetyee.ca/Opinion/2026/05/28/StevenGuilbeaultResignation.jpg" type="image/jpeg" length="85915"></enclosure>
+
+        <dc:subject><![CDATA[ Alberta Premier Danielle Smith ]]></dc:subject>
+        <dc:subject><![CDATA[ Alberta Premier Jason Kenney ]]></dc:subject>
+        <dc:subject><![CDATA[ Alberta Premier Ralph Klein ]]></dc:subject>
+        <dc:subject><![CDATA[ Canada Environment Minister Steven Guilbeault ]]></dc:subject>
+        <dc:subject><![CDATA[ Ernst Stavro Blofeld ]]></dc:subject>
+        <dc:subject><![CDATA[ Prime Minister Justin Trudeau ]]></dc:subject>
+        <dc:subject><![CDATA[ prime minister mark carney ]]></dc:subject>
+        <dc:subject><![CDATA[ Spider-Man ]]></dc:subject>
+        <dc:subject><![CDATA[ Wild Rose Country ]]></dc:subject>
+<dc:creator><![CDATA[David Climenhaga]]></dc:creator>
+  </item>
+
+
+
+
+
+
+
+  <item>
+    <title><![CDATA[AI Chatbots Are Coming to BC Classrooms]]></title>
+    <link>https://thetyee.ca/News/2026/05/28/AI-Chatbots-Coming-BC-Classrooms/</link>
+    <guid isPermaLink="true">https://thetyee.ca/News/2026/05/28/AI-Chatbots-Coming-BC-Classrooms/</guid>
+   <description><![CDATA[Students need to learn to use it responsibly, the school board says. But a few youths are pushing back.]]></description>
+   <uuid>CBE91724-5A3F-11F1-A511-F199BBB1B758</uuid>
+   <pubDate>Thu, 28 May 2026 07:40:00 +0000</pubDate>
+
+<enclosure url="https://thetyee.ca/News/2026/05/27/CopilotAICollage.jpg" type="image/jpeg" length="276977"></enclosure>
+
+        <dc:subject><![CDATA[ AI BC schools ]]></dc:subject>
+        <dc:subject><![CDATA[ AI chatbots ]]></dc:subject>
+        <dc:subject><![CDATA[ AI energy use ]]></dc:subject>
+        <dc:subject><![CDATA[ AI ethics ]]></dc:subject>
+        <dc:subject><![CDATA[ AI hallucinations ]]></dc:subject>
+        <dc:subject><![CDATA[ Alexander Rudolph ]]></dc:subject>
+        <dc:subject><![CDATA[ cognitive offloading ]]></dc:subject>
+        <dc:subject><![CDATA[ Ethical Ed Tech: How Educators Can Lead on AI and Digital Safety in K-12 ]]></dc:subject>
+        <dc:subject><![CDATA[ generative AI ]]></dc:subject>
+        <dc:subject><![CDATA[ Henry van Iersel ]]></dc:subject>
+        <dc:subject><![CDATA[ Karim Khan ICC ]]></dc:subject>
+        <dc:subject><![CDATA[ Mary Warner Microsoft ]]></dc:subject>
+        <dc:subject><![CDATA[ Microsoft Canada ]]></dc:subject>
+        <dc:subject><![CDATA[ Microsoft Copilot ]]></dc:subject>
+        <dc:subject><![CDATA[ Microsoft Copilot Vancouver schools ]]></dc:subject>
+        <dc:subject><![CDATA[ OpenAI ChatGPT ]]></dc:subject>
+        <dc:subject><![CDATA[ Pedro da Silva ]]></dc:subject>
+        <dc:subject><![CDATA[ Priten Soundar-Shah ]]></dc:subject>
+        <dc:subject><![CDATA[ Tobey Steeves ]]></dc:subject>
+        <dc:subject><![CDATA[ US CLOUD Act ]]></dc:subject>
+        <dc:subject><![CDATA[ Vancouver School Board ]]></dc:subject>
+        <dc:subject><![CDATA[ xAI Grok ]]></dc:subject>
+<dc:creator><![CDATA[Katie Hyslop]]></dc:creator>
+  </item>
+
+
+
+
+
+
+
+  <item>
+    <title><![CDATA[Would You Eat a Salmon Fillet Grown in a Lab?]]></title>
+    <link>https://thetyee.ca/WhatWorks/2026/05/28/Would-You-Eat-Salmon-Fillet-Grown-Lab/</link>
+    <guid isPermaLink="true">https://thetyee.ca/WhatWorks/2026/05/28/Would-You-Eat-Salmon-Fillet-Grown-Lab/</guid>
+   <description><![CDATA[Wildtype, a San Francisco startup, recently secured FDA approval to bring ‘cultivated’ seafood to the market.]]></description>
+   <uuid>615AF234-5A2F-11F1-BFE6-F199BBB1B758</uuid>
+   <pubDate>Thu, 28 May 2026 07:20:00 +0000</pubDate>
+
+<enclosure url="https://thetyee.ca/WhatWorks/2026/05/27/JustinKolbeckAryeElfenbein.jpg" type="image/jpeg" length="191155"></enclosure>
+
+        <dc:subject><![CDATA[ Aryé Elfenbein ]]></dc:subject>
+        <dc:subject><![CDATA[ Claire Bomkamp ]]></dc:subject>
+        <dc:subject><![CDATA[ cultivated salmon ]]></dc:subject>
+        <dc:subject><![CDATA[ Good Food Institute ]]></dc:subject>
+        <dc:subject><![CDATA[ Jacki Kuder ]]></dc:subject>
+        <dc:subject><![CDATA[ Justin Kolbeck ]]></dc:subject>
+        <dc:subject><![CDATA[ Kingfisher Bar and Grill Tucson ]]></dc:subject>
+        <dc:subject><![CDATA[ lab-grown meat ]]></dc:subject>
+        <dc:subject><![CDATA[ lab-grown salmon ]]></dc:subject>
+        <dc:subject><![CDATA[ lab-grown seafood ]]></dc:subject>
+        <dc:subject><![CDATA[ Renee Erickson ]]></dc:subject>
+        <dc:subject><![CDATA[ the Walrus and the Carpenter Seattle ]]></dc:subject>
+        <dc:subject><![CDATA[ Wildtype ]]></dc:subject>
+<dc:creator><![CDATA[Josh Kozelj]]></dc:creator>
+  </item>
+
+
+
+
+
+
+
+  <item>
+    <title><![CDATA[Mother’s Death Inspires Fundraiser for Postpartum Mental Health Care]]></title>
+    <link>https://thetyee.ca/News/2026/05/28/Postpartum-Mental-Health-Care/</link>
+    <guid isPermaLink="true">https://thetyee.ca/News/2026/05/28/Postpartum-Mental-Health-Care/</guid>
+   <description><![CDATA[Jenna Dorman’s friends say new parents are suffering due to gaps in supports. They’re working to change that.]]></description>
+   <uuid>EF8871BC-5A43-11F1-816F-F199BBB1B758</uuid>
+   <pubDate>Thu, 28 May 2026 07:10:00 +0000</pubDate>
+
+<enclosure url="https://thetyee.ca/News/2026/05/27/JennaDormanCollage.jpg" type="image/jpeg" length="350246"></enclosure>
+
+        <dc:subject><![CDATA[ BC Women’s Health Foundation ]]></dc:subject>
+        <dc:subject><![CDATA[ BC Women’s Hospital perinatal mental health unit ]]></dc:subject>
+        <dc:subject><![CDATA[ BC Women’s Reproductive Mental Health Clinic ]]></dc:subject>
+        <dc:subject><![CDATA[ Catriona Hippman ]]></dc:subject>
+        <dc:subject><![CDATA[ community perinatal mental health teams ]]></dc:subject>
+        <dc:subject><![CDATA[ Doulas for Aboriginal Families Grant Program ]]></dc:subject>
+        <dc:subject><![CDATA[ In Her Circle fundraiser ]]></dc:subject>
+        <dc:subject><![CDATA[ Jay Hoggard ]]></dc:subject>
+        <dc:subject><![CDATA[ Jenna Dorman ]]></dc:subject>
+        <dc:subject><![CDATA[ Journal of Obstetrics and Gynaecology Canada ]]></dc:subject>
+        <dc:subject><![CDATA[ Kiri Bird ]]></dc:subject>
+        <dc:subject><![CDATA[ Pacific Post Partum Support Society ]]></dc:subject>
+        <dc:subject><![CDATA[ Perinatal and Postnatal Mental Health Strategy Act ]]></dc:subject>
+        <dc:subject><![CDATA[ Postpartum Depression ]]></dc:subject>
+        <dc:subject><![CDATA[ postpartum mental health care ]]></dc:subject>
+<dc:creator><![CDATA[Michelle Gamage]]></dc:creator>
+  </item>
+
+
+
+
+
+
+
+  <item>
+    <title><![CDATA[Alberta Is Spending $5 Million to Win BC Indigenous Pipeline Support]]></title>
+    <link>https://thetyee.ca/News/2026/05/27/Alberta-Spending-BC-Indigenous-Pipeline-Support/</link>
+    <guid isPermaLink="true">https://thetyee.ca/News/2026/05/27/Alberta-Spending-BC-Indigenous-Pipeline-Support/</guid>
+   <description><![CDATA[Well-connected lobbyists and consultants have been given contracts to smooth the way.]]></description>
+   <uuid>7D91C1CC-5970-11F1-957F-9DC836F3FB4A</uuid>
+   <pubDate>Wed, 27 May 2026 07:40:00 +0000</pubDate>
+
+<enclosure url="https://thetyee.ca/News/2020/02/20/COVER.RCMP-Unistoten-Complaints.jpg" type="image/jpeg" length="235487"></enclosure>
+
+        <dc:subject><![CDATA[ Alberta pipeline proposal ]]></dc:subject>
+        <dc:subject><![CDATA[ Alberta Premier Danielle Smith ]]></dc:subject>
+        <dc:subject><![CDATA[ Axxcelus Capital Fund ]]></dc:subject>
+        <dc:subject><![CDATA[ BC oil tanker moratorium ]]></dc:subject>
+        <dc:subject><![CDATA[ BC Premier David Eby ]]></dc:subject>
+        <dc:subject><![CDATA[ BC tanker ban ]]></dc:subject>
+        <dc:subject><![CDATA[ Billy Morin ]]></dc:subject>
+        <dc:subject><![CDATA[ Blackfish Enterprises ]]></dc:subject>
+        <dc:subject><![CDATA[ Byng Giraud ]]></dc:subject>
+        <dc:subject><![CDATA[ Canada Alberta pipeline deal ]]></dc:subject>
+        <dc:subject><![CDATA[ Chief Marilyn Slett ]]></dc:subject>
+        <dc:subject><![CDATA[ Chris Sankey ]]></dc:subject>
+        <dc:subject><![CDATA[ Christine Anderson ]]></dc:subject>
+        <dc:subject><![CDATA[ Coastal First Nations ]]></dc:subject>
+        <dc:subject><![CDATA[ Gary Lunn ]]></dc:subject>
+        <dc:subject><![CDATA[ Ian Anderson Trans Mountain ]]></dc:subject>
+        <dc:subject><![CDATA[ Karah Folk ]]></dc:subject>
+        <dc:subject><![CDATA[ Lax Kw’alaams Band ]]></dc:subject>
+        <dc:subject><![CDATA[ prime minister mark carney ]]></dc:subject>
+        <dc:subject><![CDATA[ Rajan Sawhney ]]></dc:subject>
+        <dc:subject><![CDATA[ Sedgwick Strategies ]]></dc:subject>
+        <dc:subject><![CDATA[ Union of BC Indian Chiefs ]]></dc:subject>
+        <dc:subject><![CDATA[ West Coast Oil Pipeline ]]></dc:subject>
+        <dc:subject><![CDATA[ Woodfibre LNG ]]></dc:subject>
+<dc:creator><![CDATA[Andrew MacLeod]]></dc:creator>
+  </item>
+
+
+
+
+
+
+
+  <item>
+    <title><![CDATA[The BC Conservative Leadership Race Ends Under a Cloud]]></title>
+    <link>https://thetyee.ca/Opinion/2026/05/27/BC-Conservative-Leadership-Race-Ends-Under-Cloud/</link>
+    <guid isPermaLink="true">https://thetyee.ca/Opinion/2026/05/27/BC-Conservative-Leadership-Race-Ends-Under-Cloud/</guid>
+   <description><![CDATA[No matter who wins Saturday, the party’s deep divisions will continue.]]></description>
+   <uuid>0267261A-5973-11F1-87B1-9DC836F3FB4A</uuid>
+   <pubDate>Wed, 27 May 2026 07:20:00 +0000</pubDate>
+
+<enclosure url="https://thetyee.ca/News/2026/05/11/FulmerElliottFindlayDebate.jpg" type="image/jpeg" length="199147"></enclosure>
+
+        <dc:subject><![CDATA[ BC Conservative Leadership Race ]]></dc:subject>
+        <dc:subject><![CDATA[ Caroline Elliott ]]></dc:subject>
+        <dc:subject><![CDATA[ Commissioner of Canada Elections ]]></dc:subject>
+        <dc:subject><![CDATA[ Conservative Party of BC ]]></dc:subject>
+        <dc:subject><![CDATA[ Dallas Brodie ]]></dc:subject>
+        <dc:subject><![CDATA[ Iain Black ]]></dc:subject>
+        <dc:subject><![CDATA[ John Rustad ]]></dc:subject>
+        <dc:subject><![CDATA[ Kerry-Lynne Findlay ]]></dc:subject>
+        <dc:subject><![CDATA[ OneBC ]]></dc:subject>
+        <dc:subject><![CDATA[ Peter Milobar ]]></dc:subject>
+        <dc:subject><![CDATA[ Rob Shaw ]]></dc:subject>
+        <dc:subject><![CDATA[ Yuri Fulmer ]]></dc:subject>
+<dc:creator><![CDATA[Paul Willcocks]]></dc:creator>
+  </item>
+
+
+
+
+
+
+
+  <item>
+    <title><![CDATA[Inside the Fight to Protect an Urban Forest in BC]]></title>
+    <link>https://thetyee.ca/News/2026/05/27/Fight-Protect-Urban-Forest-BC/</link>
+    <guid isPermaLink="true">https://thetyee.ca/News/2026/05/27/Fight-Protect-Urban-Forest-BC/</guid>
+   <description><![CDATA[‘How can the self-proclaimed salmon capital of the world not act to protect the salmon-bearing creek?’ asks a Campbell River advocate.]]></description>
+   <uuid>A5AD7F12-5974-11F1-AD4C-9DC836F3FB4A</uuid>
+   <pubDate>Wed, 27 May 2026 07:10:00 +0000</pubDate>
+
+<enclosure url="https://thetyee.ca/News/2026/05/26/BarbRoundDeborahBroadley.jpg" type="image/jpeg" length="419408"></enclosure>
+
+        <dc:subject><![CDATA[ Barb Round ]]></dc:subject>
+        <dc:subject><![CDATA[ BC Environmental Appeal Board ]]></dc:subject>
+        <dc:subject><![CDATA[ BC urban wetlands ]]></dc:subject>
+        <dc:subject><![CDATA[ BC Water Sustainability Act ]]></dc:subject>
+        <dc:subject><![CDATA[ BC wetlands ]]></dc:subject>
+        <dc:subject><![CDATA[ Beaver Lodge forest lands ]]></dc:subject>
+        <dc:subject><![CDATA[ Campbell River salmon capital of the world ]]></dc:subject>
+        <dc:subject><![CDATA[ Campbell River Urban Forest Management Plan ]]></dc:subject>
+        <dc:subject><![CDATA[ City of Campbell River ]]></dc:subject>
+        <dc:subject><![CDATA[ Darrell Le Houillier ]]></dc:subject>
+        <dc:subject><![CDATA[ Deborah Broadley ]]></dc:subject>
+        <dc:subject><![CDATA[ Karen Stefanyk ]]></dc:subject>
+        <dc:subject><![CDATA[ Kirsten Rudyk ]]></dc:subject>
+        <dc:subject><![CDATA[ Michael Stefanyk ]]></dc:subject>
+        <dc:subject><![CDATA[ Ministry of Water, Land and Resource Stewardship ]]></dc:subject>
+        <dc:subject><![CDATA[ Patricia Halinowski ]]></dc:subject>
+        <dc:subject><![CDATA[ Riparian Areas Protection Regulation ]]></dc:subject>
+        <dc:subject><![CDATA[ Sacha O’Regan ]]></dc:subject>
+        <dc:subject><![CDATA[ Save Simms Creek Society ]]></dc:subject>
+        <dc:subject><![CDATA[ Simms Creek ]]></dc:subject>
+        <dc:subject><![CDATA[ Simms Creek greenway Campbell River ]]></dc:subject>
+        <dc:subject><![CDATA[ Stephen Sheppard UBC ]]></dc:subject>
+        <dc:subject><![CDATA[ WestUrban Developments ]]></dc:subject>
+<dc:creator><![CDATA[Sarah Cox]]></dc:creator>
+  </item>
+
+
+
+
+
+
+
+  <item>
+    <title><![CDATA[A Very Shiny Debt Trap]]></title>
+    <link>https://thetyee.ca/News/2026/05/26/Very-Shiny-Debt-Trap/</link>
+    <guid isPermaLink="true">https://thetyee.ca/News/2026/05/26/Very-Shiny-Debt-Trap/</guid>
+   <description><![CDATA[How online financial companies persuade Canadians to sign up for loans they can’t pay off. An in-depth look.]]></description>
+   <uuid>E41D13AA-589A-11F1-92A4-E46671642A72</uuid>
+   <pubDate>Tue, 26 May 2026 07:40:00 +0000</pubDate>
+
+<enclosure url="https://thetyee.ca/News/2026/05/25/OnlineDebtPhotoIllustration.jpg" type="image/jpeg" length="114977"></enclosure>
+
+        <dc:subject><![CDATA[ Anti-Fraud Intelligence Consulting ]]></dc:subject>
+        <dc:subject><![CDATA[ BC Civil Resolution Tribunal ]]></dc:subject>
+        <dc:subject><![CDATA[ Better Business Bureau ]]></dc:subject>
+        <dc:subject><![CDATA[ Consumer Protection BC ]]></dc:subject>
+        <dc:subject><![CDATA[ criminal interest rate Canada ]]></dc:subject>
+        <dc:subject><![CDATA[ Danial Obermann ]]></dc:subject>
+        <dc:subject><![CDATA[ Gregory Best ]]></dc:subject>
+        <dc:subject><![CDATA[ high-cost credit grantors ]]></dc:subject>
+        <dc:subject><![CDATA[ high-interest loans ]]></dc:subject>
+        <dc:subject><![CDATA[ Office of the Superintendent of Bankruptcy ]]></dc:subject>
+        <dc:subject><![CDATA[ online loans ]]></dc:subject>
+        <dc:subject><![CDATA[ Payday Loans ]]></dc:subject>
+        <dc:subject><![CDATA[ Peter Mennie ]]></dc:subject>
+        <dc:subject><![CDATA[ predatory lending ]]></dc:subject>
+        <dc:subject><![CDATA[ Smythe Insolvency ]]></dc:subject>
+        <dc:subject><![CDATA[ Spring Financial ]]></dc:subject>
+        <dc:subject><![CDATA[ Spring Financial Foundation program ]]></dc:subject>
+        <dc:subject><![CDATA[ Vanessa Iafolla ]]></dc:subject>
+<dc:creator><![CDATA[Isaac Phan Nay]]></dc:creator>
+  </item>
+
+
+
+
+
+
+
+  <item>
+    <title><![CDATA[Please Advise! What’s with BC’s Coked-Up Salmon?]]></title>
+    <link>https://thetyee.ca/Opinion/2026/05/26/Please-Advise-BC-Coked-Up-Salmon/</link>
+    <guid isPermaLink="true">https://thetyee.ca/Opinion/2026/05/26/Please-Advise-BC-Coked-Up-Salmon/</guid>
+   <description><![CDATA[Fish swimming in drugs can’t ‘just say no,’ reminds Dr. Steve.]]></description>
+   <uuid>F7956E5E-58A5-11F1-A737-E46671642A72</uuid>
+   <pubDate>Tue, 26 May 2026 07:30:00 +0000</pubDate>
+
+<enclosure url="https://thetyee.ca/Opinion/2026/05/25/SpawningCohoSalmon.jpg" type="image/jpeg" length="221260"></enclosure>
+
+        <dc:subject><![CDATA[ Cocaine Bear ]]></dc:subject>
+        <dc:subject><![CDATA[ Fraser River Salmon ]]></dc:subject>
+        <dc:subject><![CDATA[ Fraser River salmon contaminants ]]></dc:subject>
+        <dc:subject><![CDATA[ Fraser River salmon drugs ]]></dc:subject>
+        <dc:subject><![CDATA[ salmon cocaine ]]></dc:subject>
+        <dc:subject><![CDATA[ Simon Fraser University ]]></dc:subject>
+<dc:creator><![CDATA[Steve Burgess]]></dc:creator>
+  </item>
+
+
+
+
+
+
+
+  <item>
+    <title><![CDATA[We Can Lower Gas Prices. Here’s How]]></title>
+    <link>https://thetyee.ca/Analysis/2026/05/26/We-Can-Lower-Gas-Prices/</link>
+    <guid isPermaLink="true">https://thetyee.ca/Analysis/2026/05/26/We-Can-Lower-Gas-Prices/</guid>
+   <description><![CDATA[Exploding the ‘market’ myth that Canada’s petroleum prices must be linked to the Persian Gulf.]]></description>
+   <uuid>336AC520-58A4-11F1-AF80-E46671642A72</uuid>
+   <pubDate>Tue, 26 May 2026 07:20:00 +0000</pubDate>
+
+<enclosure url="https://thetyee.ca/Analysis/2026/05/25/WomanGasPump.jpg" type="image/jpeg" length="188556"></enclosure>
+
+        <dc:subject><![CDATA[ Brian Mulroney ]]></dc:subject>
+        <dc:subject><![CDATA[ Canada oil industry ]]></dc:subject>
+        <dc:subject><![CDATA[ Canadian gas prices ]]></dc:subject>
+        <dc:subject><![CDATA[ Donald Trump ]]></dc:subject>
+        <dc:subject><![CDATA[ National Energy Program ]]></dc:subject>
+        <dc:subject><![CDATA[ National Oil Policy ]]></dc:subject>
+        <dc:subject><![CDATA[ Strait of Hormuz ]]></dc:subject>
+<dc:creator><![CDATA[Jim Stanford]]></dc:creator>
+  </item>
+</channel>
+</rss>
+

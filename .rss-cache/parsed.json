@@ -1,0 +1,286 @@
+{
+  "now": "2026-06-01T00:06:02.650Z",
+  "cutoff": "2026-05-30T00:06:02.650Z",
+  "feed_count": 38,
+  "feeds_with_recent": 13,
+  "total_entries": 4516,
+  "total_recent": 36,
+  "errors": [
+    [
+      "Convivial_Society",
+      "not_a_feed_or_too_small"
+    ],
+    [
+      "Dada_Drummer",
+      "not_a_feed_or_too_small"
+    ],
+    [
+      "Garbage_Day",
+      "not_a_feed_or_too_small"
+    ],
+    [
+      "Interdependence",
+      "not_a_feed_or_too_small"
+    ],
+    [
+      "Kneeling_Bus",
+      "not_a_feed_or_too_small"
+    ],
+    [
+      "Metalabel",
+      "not_a_feed_or_too_small"
+    ],
+    [
+      "New Models",
+      "not_a_feed_or_too_small"
+    ],
+    [
+      "The Walrus - Politics",
+      "not_a_feed_or_too_small"
+    ]
+  ],
+  "feeds": {
+    "404 Media": [
+      {
+        "title": "‘Highly Plausible’ Aliens on Europa Are Earthlings’ Descendants, Study Says",
+        "link": "https://www.404media.co/highly-plausible-aliens-on-europa-are-earthlings-descendants-study-says/",
+        "desc": "A new study suggests that bacteria dispersed through space on dust grains could potentially arrive intact and alive on Jupiter’s moon Europa.",
+        "date": "2026-05-30T13:00:00.000Z"
+      }
+    ],
+    "Aquarium Drunkard": [
+      {
+        "title": "Yesternow: Editor’s Note Volume Seven",
+        "link": "https://aquariumdrunkard.com/2026/05/30/yesternow-editors-note-volume-seven/",
+        "desc": "Twenty-one years ago, Aquarium Drunkard began in a Venice Beach apartment with little more than a stack of records and an internet connection. To mark the occasion, we've gathered a selection of features, series, broadcasts, and recurring obsessions that became part of the site's fabric along the way. A look back at some of the sounds, conversations, and cultural detours that continue to animate the project today. The post Yesternow: Editor’s Note Volume Seven first appeared on Aquarium Drunkard .",
+        "date": "2026-05-31T00:30:19.000Z"
+      }
+    ],
+    "CBC News - Politics": [
+      {
+        "title": "Former Snowbird pilots call on Ottawa to scale back aerobatic show instead of suspending it",
+        "link": "https://www.cbc.ca/news/politics/snowbird-alumni-association-proposing-solutions-to-save-show-9.7217217?cmp=rss",
+        "desc": "Former Snowbird pilots are calling on the government to keep the iconic aerobatic show in the air by scaling-back the performance rather than suspending it entirely.",
+        "date": "2026-05-31T08:00:00.000Z"
+      },
+      {
+        "title": "CBSA president says she doesn't think it's now harder to cross Canada-U.S. border",
+        "link": "https://www.cbc.ca/news/politics/cbsa-border-crossing-trump-administration-9.7217038?cmp=rss",
+        "desc": "The president of the Canada Border Services Agency said she doesn't think it's harder to cross the Canada-U.S. border today than in the past, as data shows U.S. customs searched a record number of electronic devices last year.",
+        "date": "2026-05-30T08:00:00.000Z"
+      },
+      {
+        "title": "All for one: Norway, Germany sell Canada on shared submarine fleet",
+        "link": "https://www.cbc.ca/news/politics/submarines-defence-navy-germany-canada-norway-9.7217410?cmp=rss",
+        "desc": "Germany and Norway are intensifying their bid for Canada’s submarine contract, pitching the Type 212CD as part of a shared NATO fleet. The allies have even surrendered production slots to accelerate delivery, highlighting a growing effort to counter South Korea's advantage.",
+        "date": "2026-05-30T08:00:00.000Z"
+      },
+      {
+        "title": "Trudeau's climate policy architects gather as Carney changes course",
+        "link": "https://www.cbc.ca/news/politics/carney-climate-trudeau-mckenna-guilbeault-wilkinson-9.7217187?cmp=rss",
+        "desc": "Former Prime Minister Justin Trudeau and his former climate change cabinet ministers — Catherine McKenna, Jonathan Wilkinson and Steven Guilbeault — on Wednesday were at the Rideau Club, a private social club near Parliament Hill.",
+        "date": "2026-05-30T08:00:00.000Z"
+      },
+      {
+        "title": "Thousands are now Canadians under new citizenship law. Half of them are Americans",
+        "link": "https://www.cbc.ca/news/politics/canadian-citizenship-ancestry-american-9.7216737?cmp=rss",
+        "desc": "Thousands of people around the world have received Canadian citizenship certificates as a result of a change late last year to federal law. Half of them Americans.",
+        "date": "2026-05-30T08:00:00.000Z"
+      }
+    ],
+    "Contraptions": [
+      {
+        "title": "From Cannons to Chronometers to Factories",
+        "link": "https://contraptions.venkateshrao.com/p/from-cannons-to-chronometers-to-factories",
+        "desc": "A Transmission Hypothesis for the French Precision Revolution and Its American Transformation",
+        "date": "2026-05-30T03:36:24.000Z"
+      },
+      {
+        "title": "Time, Enlightenment and Romanticism Between Modernity and Divergence",
+        "link": "https://contraptions.venkateshrao.com/p/time-enlightenment-and-romanticism",
+        "desc": "World Machines learnings from recent book club readings",
+        "date": "2026-05-30T02:24:57.000Z"
+      }
+    ],
+    "Globe and Mail - Opinion": [
+      {
+        "title": "It’s 1973 again. But worse",
+        "link": "https://www.theglobeandmail.com/opinion/editorials/article-economic-growth-productivity-slowdown-energy-prices-politics/",
+        "desc": "The productivity slowdown of the 1970s is back, with a vengeance. Can policy makers avoid repeating the fiscal failures of a half-century ago?",
+        "date": "2026-05-31T10:45:00.000Z"
+      },
+      {
+        "title": "‘There might well be a new leadership option for Conservative supporters who find themselves dispirited by floor-crossing … and overheated rhetoric.’ Letters to the editor for May 31",
+        "link": "https://www.theglobeandmail.com/opinion/letters/article-new-leadership-option-for-conservatives-who-find-themselves-dispirited/",
+        "desc": "In today’s letters to the editor: Caroline Mulroney; the Governor-General; cloud seeding; bad drivers; city noise",
+        "date": "2026-05-31T08:00:00.000Z"
+      },
+      {
+        "title": "News To Me – Natural beauty",
+        "link": "https://www.theglobeandmail.com/opinion/article-news-to-me-natural-beauty/",
+        "desc": "A weekly cartoon column by Gabrielle Drolet",
+        "date": "2026-05-30T12:00:00.000Z"
+      },
+      {
+        "title": "There is no reconciliation without truth",
+        "link": "https://www.theglobeandmail.com/opinion/editorials/article-there-is-no-reconciliation-without-truth/",
+        "desc": "The undeniable reality of crimes committed against Indigenous children at residential schools does not automatically validate claims of hundreds of unmarked graves",
+        "date": "2026-05-30T11:00:00.000Z"
+      },
+      {
+        "title": "Volunteer firefighters feel the heat on the front lines of the climate crisis",
+        "link": "https://www.theglobeandmail.com/opinion/article-volunteer-firefighters-front-lines-climate-crisis-funding-training/",
+        "desc": "Nova Scotia’s unpaid guardians respond to floods and fires, but as disasters increase, their departments lack adequate funding, training and equipment",
+        "date": "2026-05-30T10:00:00.000Z"
+      },
+      {
+        "title": "Steven Guilbeault’s resignation from the Liberal caucus and putting water in your climate policy wine",
+        "link": "https://www.theglobeandmail.com/politics/opinion/article-steven-guilbeaults-resignation-from-the-liberal-caucus-and-putting/",
+        "desc": "In this political divorce, the couple has been drifting apart for some time",
+        "date": "2026-05-30T09:30:00.000Z"
+      },
+      {
+        "title": "‘So long as Alberta is part of Canada, its government must respect … the constitutional duty to consult Indigenous groups.’ Letters to the editor for May 30",
+        "link": "https://www.theglobeandmail.com/opinion/letters/article-alberta-must-respect-constitutional-duty-to-consult-indigenous-groups/",
+        "desc": "In today’s letters to the editor: pipelines; Alberta separation; unmarked graves; the Canada Pension Plan; AI and literature; funerals and celebrations of life",
+        "date": "2026-05-30T08:00:00.000Z"
+      }
+    ],
+    "Honest_Broker": [
+      {
+        "title": "How to Destroy a Literary Reputation in One Move",
+        "link": "https://www.honest-broker.com/p/how-to-destroy-a-literary-reputation",
+        "desc": "Media companies invent a new kind of stupid",
+        "date": "2026-05-30T17:15:06.000Z"
+      }
+    ],
+    "JWZ": [
+      {
+        "title": "Chad Valley Wooden Influencer Roleplay Set",
+        "link": "https://www.jwz.org/blog/2026/05/chad-valley-wooden-influencer-roleplay-set/",
+        "desc": "This wooden influencer set brings roleplay fun to children who love creating content. It includes 6 pieces a tripod stand, adjustable aperture lens, camera, smartphone model, tablet and microphone. The set encourages storytelling and imaginative play as children act out ...",
+        "date": "2026-05-30T20:17:16.000Z"
+      },
+      {
+        "title": "Are.na Hypernormalisation Machine",
+        "link": "https://www.jwz.org/blog/2026/05/are-na-hypernormalisation-machine/",
+        "desc": "Pull images and text from are.na to make a strangely familiar documentary critique of late capitalism:",
+        "date": "2026-05-30T19:21:10.000Z"
+      },
+      {
+        "title": "Fluck Flock",
+        "link": "https://www.jwz.org/blog/2026/05/fluck-flock/",
+        "desc": "Flock is quietly training police to sway city leaders to buy surveillance tech: As East Bay communities raise concerns about civil liberties and immigration enforcement, the license plate camera company is seeking support from its customers -- law enforcement officers. ...",
+        "date": "2026-05-30T05:35:18.000Z"
+      },
+      {
+        "title": "Help me keep home.mcom.com online",
+        "link": "https://www.jwz.org/blog/2026/05/help-me-keep-home-mcom-com-online-2/",
+        "desc": "I am once again seeking a contact inside the Yahoo DNS team. Early this morning the \"home\" record vanished from the \"mcom.com\" domain. I need it put back. Oddly, the \"mosaic\" record is still there. My last contact there was Paul Frieden, in 2023, but the only email address",
+        "date": "2026-05-30T04:35:41.000Z"
+      }
+    ],
+    "Joan Westenberg": [
+      {
+        "title": "Be thou not pilled",
+        "link": "https://www.joanwestenberg.com/be-thou-not-pilled/",
+        "desc": "A Scottish journalist named Charles Mackay published a book about the way crowds lose their minds. Extraordinary Popular Delusions and the Madness of Crowds (1841) catalogued tulip speculation, alchemy, the South Sea Bubble, witch hunts, and the slow-burn lunacy of people who grow so attached to an idea that they",
+        "date": "2026-05-31T23:21:45.000Z"
+      }
+    ],
+    "Pluralistic": [
+      {
+        "title": "Pluralistic: Carneyism without Carney (30 May 2026)",
+        "link": "https://pluralistic.net/2026/05/30/rupture/",
+        "desc": "Today's links Carneyism without Carney: Eh? Hey look at this: Delights to delectate. Object permanence: Replacing pharma patents with bounties; USTR v cheap leukemia meds; Plutocrats x wealth segregation; Anonymous Analytics; Scott Walker sells off donors; Anonymization v metadata; Probably; Amazon warehouse workers are the future of Amazon coders; Warcraft eggs; Brainwashing school; People who don't know The Onion is satire; \"Company Town\"; America is a scam. Upcoming appearances: London, Kansas City, LA, Menlo Park, Toronto, NYC, Edinburgh, South Bend. Recent appearances: Where I've been. La",
+        "date": "2026-05-30T09:31:41.000Z"
+      }
+    ],
+    "Tech Policy Press": [
+      {
+        "title": "Why the EU's Data Center Boom Is a Black Box",
+        "link": "https://techpolicy.press/why-the-eus-data-center-boom-is-a-black-box",
+        "desc": "",
+        "date": "2026-05-31T12:41:27.000Z"
+      },
+      {
+        "title": "Taking the Temperature of Tech Policy Debates in Brussels at CPDP",
+        "link": "https://techpolicy.press/taking-the-temperature-of-tech-policy-debates-in-brussels-at-cpdp",
+        "desc": "",
+        "date": "2026-05-31T11:37:50.000Z"
+      }
+    ],
+    "Techdirt": [
+      {
+        "title": "Funniest/Most Insightful Comments Of The Week At Techdirt",
+        "link": "https://www.techdirt.com/2026/05/31/funniest-most-insightful-comments-of-the-week-at-techdirt-210/",
+        "desc": "We’ve got a double-winner this week, but also a very very slow week overall on the funny side, so this will be a somewhat truncated post. On the insightful side, both top comments are similar thoughts in response to the judge dismissing charges against Kilmar Abrego Garcia, starting with this first-place winning comment from Huntly: […]",
+        "date": "2026-05-31T19:00:00.000Z"
+      },
+      {
+        "title": "This Week In Techdirt History: May 24th – 30th",
+        "link": "https://www.techdirt.com/2026/05/30/this-week-in-techdirt-history-may-24th-30th/",
+        "desc": "This Week in 2016 This Week in 2011 This Week in 2006",
+        "date": "2026-05-30T19:00:00.000Z"
+      },
+      {
+        "title": "Knox County, TN Rolls Back ‘Roots’ Book Ban After Backlash",
+        "link": "https://www.techdirt.com/2026/05/29/knox-county-tn-rolls-back-roots-book-ban-after-backlash/",
+        "desc": "It was just a week or so ago that we were talking about the absurd situation in Knox County, Tennessee, where local government used Tennessee’s book-banning laws to remove the book Roots from school libraries. Yes, this is the book by Alex Haley that spawned the 1970s miniseries of the same name and served as […]",
+        "date": "2026-05-30T02:39:00.000Z"
+      }
+    ],
+    "The Tyee": [
+      {
+        "title": "BC’s Family Doctor Crisis Gets Even Worse",
+        "link": "https://thetyee.ca/News/2026/05/31/BC-Family-Doctor-Crisis-Gets-Even-Worse/",
+        "desc": "Despite measures, almost one in four people lack access to primary care.",
+        "date": "2026-05-31T17:20:00.000Z"
+      },
+      {
+        "title": "Trump, Hoekstra and the Cabal Pushing Alberta Separatism",
+        "link": "https://thetyee.ca/Analysis/2026/05/31/Trump-Hoekstra-Cabal-Pushing-Alberta-Separatism/",
+        "desc": "Signs of deepening American collusion point to the US ambassador among others. Will Ottawa investigate?",
+        "date": "2026-05-31T17:10:00.000Z"
+      },
+      {
+        "title": "Kerry-Lynne Findlay Pulls BC Conservatives to the Right",
+        "link": "https://thetyee.ca/News/2026/05/31/Kerry-Lynne-Findlay-Pulls-BC-Conservatives-Right/",
+        "desc": "",
+        "date": "2026-05-31T17:00:00.000Z"
+      },
+      {
+        "title": "A Stunning Exploration of Climate Grief",
+        "link": "https://thetyee.ca/Culture/2026/05/29/Stunning-Exploration-Climate-Grief/",
+        "desc": "Staggering in scale, the VAG’s newest show offers an unforgettable portrait of environmental change and its human costs.",
+        "date": "2026-05-30T00:40:00.000Z"
+      },
+      {
+        "title": "Gu Xiong’s Constant Evolution",
+        "link": "https://thetyee.ca/Presents/2026/05/29/Gu-Xiong-Constant-Evolution/",
+        "desc": "In a new exhibition at the Museum of Vancouver, the artist reflects on his career.",
+        "date": "2026-05-30T00:30:00.000Z"
+      },
+      {
+        "title": "Teaching Artificial Intelligence to Zap Hate Speech",
+        "link": "https://thetyee.ca/Culture/2026/05/29/Teaching-Artificial-Intelligence-Zap-Hate-Speech/",
+        "desc": "Deciding which words are toxic in different online worlds is complex. This engineer cracked the code. A Tyee Q&A.",
+        "date": "2026-05-30T00:20:00.000Z"
+      },
+      {
+        "title": "When Urban Planning Works Too Well",
+        "link": "https://thetyee.ca/Culture/2026/05/29/Urban-Planning-Works-too-Well/",
+        "desc": "The conditions that make it effective are not always the ones that make it democratic.",
+        "date": "2026-05-30T00:10:00.000Z"
+      }
+    ],
+    "Unpopular_Front": [
+      {
+        "title": "A green & pleasant Land",
+        "link": "https://www.unpopularfront.news/p/a-green-and-pleasant-land",
+        "desc": "Reading, Watching 05.31.26",
+        "date": "2026-05-31T13:12:08.000Z"
+      }
+    ]
+  }
+}
